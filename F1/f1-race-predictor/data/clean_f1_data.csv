@@ -1,0 +1,1620 @@
+Year,Track,Driver,Team,Starting Grid,driver_points_before_race,driver_wins_before_race,driver_avg_finish_before_race,won_race,team_points_before_race,team_wins_before_race,team_avg_finish_before_race
+2022,Abu Dhabi,Max Verstappen,Red Bull Racing RBPT,1,0,0,5.380952380952381,1,0,0,4.880952380952381
+2022,Abu Dhabi,Charles Leclerc,Ferrari,3,0,0,3.5,0,0,0,11.2
+2022,Abu Dhabi,Sergio Perez,Red Bull Racing RBPT,2,0,0,10.555555555555555,0,25,1,1.0
+2022,Abu Dhabi,Carlos Sainz,Ferrari,4,0,0,12.764705882352942,0,18,0,2.0
+2022,Abu Dhabi,George Russell,Mercedes,6,0,0,8.647058823529411,0,0,0,9.666666666666666
+2022,Abu Dhabi,Lando Norris,McLaren Mercedes,7,0,0,11.45,0,0,0,13.405405405405405
+2022,Abu Dhabi,Esteban Ocon,Alpine Renault,8,0,0,11.631578947368421,0,0,0,12.257142857142858
+2022,Abu Dhabi,Lance Stroll,Aston Martin Aramco Mercedes,14,0,0,13.166666666666666,0,0,0,8.405405405405405
+2022,Abu Dhabi,Daniel Ricciardo,McLaren Mercedes,13,0,0,3.3157894736842106,0,9,0,6.0
+2022,Abu Dhabi,Sebastian Vettel,Aston Martin Aramco Mercedes,9,0,0,11.578947368421053,0,4,0,8.0
+2022,Abu Dhabi,Yuki Tsunoda,AlphaTauri RBPT,11,0,0,10.411764705882353,0,0,0,11.647058823529411
+2022,Abu Dhabi,Guanyu Zhou,Alfa Romeo Ferrari,15,0,0,4.380952380952381,0,0,0,9.37430512662137
+2022,Abu Dhabi,Alexander Albon,Williams Mercedes,19,0,0,9.37430512662137,0,0,0,3.3658536585365852
+2022,Abu Dhabi,Pierre Gasly,AlphaTauri RBPT,17,0,0,9.0,0,0,0,11.0
+2022,Abu Dhabi,Valtteri Bottas,Alfa Romeo Ferrari,18,0,0,3.95,0,0,0,12.0
+2022,Abu Dhabi,Mick Schumacher,Haas Ferrari,12,0,0,2.8095238095238093,0,0,0,3.4
+2022,Abu Dhabi,Kevin Magnussen,Haas Ferrari,16,0,0,12.882352941176471,0,0,0,16.0
+2022,Abu Dhabi,Lewis Hamilton,Mercedes,5,0,0,7.8,0,10,0,5.0
+2022,Abu Dhabi,Nicholas Latifi,Williams Mercedes,20,0,0,13.631578947368421,0,0,0,13.0
+2022,Australia,Charles Leclerc,Ferrari,1,18,0,2.0,1,30,0,3.0
+2022,Australia,Sergio Perez,Red Bull Racing RBPT,3,15,0,3.0,0,40,1,2.0
+2022,Australia,George Russell,Mercedes,6,10,0,5.0,0,10,0,11.5
+2022,Australia,Lewis Hamilton,Mercedes,5,0,0,18.0,0,25,0,8.666666666666666
+2022,Australia,Lando Norris,McLaren Mercedes,4,9,0,6.0,0,11,0,7.5
+2022,Australia,Daniel Ricciardo,McLaren Mercedes,7,2,0,9.0,0,21,0,6.666666666666667
+2022,Australia,Esteban Ocon,Alpine Renault,8,6,0,7.0,0,6,0,7.0
+2022,Australia,Valtteri Bottas,Alfa Romeo Ferrari,12,0,0,15.0,0,0,0,13.5
+2022,Australia,Pierre Gasly,AlphaTauri RBPT,11,0,0,14.0,0,0,0,12.5
+2022,Australia,Alexander Albon,Williams Mercedes,20,0,0,13.0,0,0,0,16.0
+2022,Australia,Guanyu Zhou,Alfa Romeo Ferrari,14,0,0,12.0,0,4,0,11.666666666666666
+2022,Australia,Lance Stroll,Aston Martin Aramco Mercedes,19,4,0,8.0,0,5,0,9.0
+2022,Australia,Mick Schumacher,Haas Ferrari,15,0,0,16.0,0,0,0,16.5
+2022,Australia,Kevin Magnussen,Haas Ferrari,16,0,0,17.0,0,0,0,15.333333333333334
+2022,Australia,Yuki Tsunoda,AlphaTauri RBPT,13,0,0,11.0,0,2,0,11.333333333333334
+2022,Australia,Nicholas Latifi,Williams Mercedes,18,0,0,19.0,0,1,0,14.0
+2022,Australia,Fernando Alonso,Alpine Renault,10,0,0,8.2,0,12,0,7.0
+2022,Austria,Charles Leclerc,Ferrari,2,44,1,1.5,1,56,1,2.3333333333333335
+2022,Austria,Max Verstappen,Red Bull Racing RBPT,1,25,1,1.0,0,58,1,2.0
+2022,Austria,Lewis Hamilton,Mercedes,8,12,0,11.0,0,37,0,7.5
+2022,Austria,George Russell,Mercedes,4,25,0,4.0,0,52,0,6.6
+2022,Austria,Esteban Ocon,Alpine Renault,6,12,0,7.0,0,12,0,10.333333333333334
+2022,Austria,Mick Schumacher,Haas Ferrari,9,0,0,14.5,0,0,0,15.0
+2022,Austria,Lando Norris,McLaren Mercedes,10,19,0,5.5,0,29,0,6.5
+2022,Austria,Kevin Magnussen,Haas Ferrari,7,0,0,15.5,0,8,0,13.2
+2022,Austria,Daniel Ricciardo,McLaren Mercedes,11,10,0,7.5,0,35,0,6.6
+2022,Austria,Fernando Alonso,Alpine Renault,19,0,0,17.0,0,22,0,9.0
+2022,Austria,Valtteri Bottas,Alfa Romeo Ferrari,20,4,0,11.5,0,4,0,11.5
+2022,Austria,Alexander Albon,Williams Mercedes,15,1,0,11.5,0,1,0,14.5
+2022,Austria,Lance Stroll,Aston Martin Aramco Mercedes,12,4,0,10.0,0,5,0,10.0
+2022,Austria,Guanyu Zhou,Alfa Romeo Ferrari,13,0,0,11.5,0,4,0,11.4
+2022,Austria,Pierre Gasly,AlphaTauri RBPT,14,2,0,11.5,0,2,0,12.25
+2022,Austria,Yuki Tsunoda,AlphaTauri RBPT,16,0,0,13.0,0,2,0,12.8
+2022,Austria,Sebastian Vettel,Aston Martin Aramco Mercedes,18,1,0,10.0,0,5,0,10.75
+2022,Azerbaijan,Max Verstappen,Red Bull Racing RBPT,3,44,1,1.5,1,77,1,2.0
+2022,Azerbaijan,Sergio Perez,Red Bull Racing RBPT,2,33,0,2.5,0,102,2,1.8
+2022,Azerbaijan,George Russell,Mercedes,5,37,0,4.0,0,64,0,6.166666666666667
+2022,Azerbaijan,Lewis Hamilton,Mercedes,7,27,0,8.333333333333334,0,79,0,5.714285714285714
+2022,Azerbaijan,Pierre Gasly,AlphaTauri RBPT,6,2,0,12.666666666666666,0,2,0,13.333333333333334
+2022,Azerbaijan,Sebastian Vettel,Aston Martin Aramco Mercedes,9,1,0,13.5,0,5,0,12.0
+2022,Azerbaijan,Fernando Alonso,Alpine Renault,10,1,0,13.5,0,23,0,9.2
+2022,Azerbaijan,Daniel Ricciardo,McLaren Mercedes,12,12,0,8.0,0,37,0,7.0
+2022,Azerbaijan,Lando Norris,McLaren Mercedes,11,25,0,6.0,0,41,0,7.142857142857143
+2022,Azerbaijan,Esteban Ocon,Alpine Renault,13,22,0,6.333333333333333,0,29,0,8.833333333333334
+2022,Azerbaijan,Valtteri Bottas,Alfa Romeo Ferrari,15,4,0,11.333333333333334,0,4,0,11.833333333333334
+2022,Azerbaijan,Alexander Albon,Williams Mercedes,17,1,0,11.666666666666666,0,1,0,14.0
+2022,Azerbaijan,Yuki Tsunoda,AlphaTauri RBPT,8,0,0,14.0,0,12,0,12.142857142857142
+2022,Azerbaijan,Mick Schumacher,Haas Ferrari,20,8,0,11.666666666666666,0,12,0,12.333333333333334
+2022,Azerbaijan,Nicholas Latifi,Williams Mercedes,18,0,0,17.5,0,1,0,13.666666666666666
+2022,Azerbaijan,Lance Stroll,Aston Martin Aramco Mercedes,19,4,0,11.0,0,13,0,11.0
+2022,Bahrain,Charles Leclerc,Ferrari,1,69,2,1.3333333333333333,1,81,2,2.0
+2022,Bahrain,Carlos Sainz,Ferrari,3,12,0,4.0,0,107,3,1.8
+2022,Bahrain,Lewis Hamilton,Mercedes,5,39,0,7.25,0,91,0,5.5
+2022,Bahrain,George Russell,Mercedes,9,52,0,3.75,0,106,0,5.222222222222222
+2022,Bahrain,Kevin Magnussen,Haas Ferrari,7,4,0,13.0,0,12,0,12.571428571428571
+2022,Bahrain,Valtteri Bottas,Alfa Romeo Ferrari,6,4,0,11.25,0,4,0,11.714285714285714
+2022,Bahrain,Esteban Ocon,Alpine Renault,11,23,0,7.25,0,30,0,9.0
+2022,Bahrain,Yuki Tsunoda,AlphaTauri RBPT,16,0,0,13.75,0,12,0,12.25
+2022,Bahrain,Fernando Alonso,Alpine Renault,8,7,0,11.333333333333334,0,36,0,8.75
+2022,Bahrain,Guanyu Zhou,Alfa Romeo Ferrari,15,0,0,12.333333333333334,0,12,0,11.0
+2022,Bahrain,Mick Schumacher,Haas Ferrari,12,8,0,12.25,0,22,0,11.625
+2022,Bahrain,Lance Stroll,Aston Martin Aramco Mercedes,19,4,0,12.25,0,13,0,11.714285714285714
+2022,Bahrain,Alexander Albon,Williams Mercedes,14,1,0,11.75,0,1,0,13.857142857142858
+2022,Bahrain,Daniel Ricciardo,McLaren Mercedes,18,16,0,8.0,0,43,0,7.375
+2022,Bahrain,Lando Norris,McLaren Mercedes,13,27,0,6.75,0,43,0,8.11111111111111
+2022,Bahrain,Nicholas Latifi,Williams Mercedes,20,0,0,16.666666666666668,0,1,0,13.75
+2022,Bahrain,Nico Hulkenberg,Aston Martin Aramco Mercedes,17,0,0,15.777777777777779,0,13,0,11.75
+2022,Bahrain,Sergio Perez,Red Bull Racing RBPT,4,52,0,2.3333333333333335,0,121,2,1.8333333333333333
+2022,Bahrain,Max Verstappen,Red Bull Racing RBPT,2,69,2,1.3333333333333333,0,121,2,4.142857142857143
+2022,Belgium,Max Verstappen,Red Bull Racing RBPT,14,69,2,5.75,1,121,2,6.0
+2022,Belgium,Sergio Perez,Red Bull Racing RBPT,2,52,0,6.25,0,147,3,5.444444444444445
+2022,Belgium,Carlos Sainz,Ferrari,1,30,0,3.0,0,125,3,1.8333333333333333
+2022,Belgium,George Russell,Mercedes,5,64,0,3.8,0,118,0,5.1
+2022,Belgium,Fernando Alonso,Alpine Renault,3,9,0,10.75,0,38,0,8.777777777777779
+2022,Belgium,Charles Leclerc,Ferrari,15,95,3,1.25,0,140,3,2.0
+2022,Belgium,Esteban Ocon,Alpine Renault,16,29,0,7.2,0,48,0,8.4
+2022,Belgium,Sebastian Vettel,Aston Martin Aramco Mercedes,10,9,0,11.0,0,13,0,12.333333333333334
+2022,Belgium,Pierre Gasly,AlphaTauri RBPT,8,12,0,10.75,0,16,0,11.777777777777779
+2022,Belgium,Alexander Albon,Williams Mercedes,6,1,0,12.0,0,1,0,14.0
+2022,Belgium,Lance Stroll,Aston Martin Aramco Mercedes,9,4,0,12.2,0,17,0,11.9
+2022,Belgium,Lando Norris,McLaren Mercedes,17,27,0,8.4,0,43,0,8.8
+2022,Belgium,Yuki Tsunoda,AlphaTauri RBPT,20,4,0,12.6,0,18,0,11.5
+2022,Belgium,Guanyu Zhou,Alfa Romeo Ferrari,18,1,0,11.75,0,13,0,10.88888888888889
+2022,Belgium,Daniel Ricciardo,McLaren Mercedes,7,16,0,9.2,0,43,0,9.090909090909092
+2022,Belgium,Kevin Magnussen,Haas Ferrari,12,14,0,11.0,0,22,0,11.555555555555555
+2022,Belgium,Mick Schumacher,Haas Ferrari,19,8,0,12.0,0,22,0,12.0
+2022,Belgium,Nicholas Latifi,Williams Mercedes,11,0,0,16.5,0,2,0,13.6
+2022,Brazil,George Russell,Mercedes,1,76,0,3.8333333333333335,1,130,0,5.0
+2022,Brazil,Lewis Hamilton,Mercedes,2,54,0,6.4,0,156,1,4.666666666666667
+2022,Brazil,Carlos Sainz,Ferrari,7,45,0,3.0,0,148,3,2.5
+2022,Brazil,Charles Leclerc,Ferrari,5,103,3,2.2,0,163,3,2.5555555555555554
+2022,Brazil,Fernando Alonso,Alpine Renault,17,19,0,9.6,0,54,0,8.272727272727273
+2022,Brazil,Max Verstappen,Red Bull Racing RBPT,3,95,3,4.8,0,165,3,5.1
+2022,Brazil,Sergio Perez,Red Bull Racing RBPT,4,70,0,5.4,0,173,3,5.181818181818182
+2022,Brazil,Esteban Ocon,Alpine Renault,16,35,0,7.166666666666667,0,64,0,8.0
+2022,Brazil,Valtteri Bottas,Alfa Romeo Ferrari,14,12,0,10.2,0,13,0,11.2
+2022,Brazil,Lance Stroll,Aston Martin Aramco Mercedes,15,4,0,12.0,0,17,0,11.818181818181818
+2022,Brazil,Sebastian Vettel,Aston Martin Aramco Mercedes,9,13,0,10.25,0,18,0,11.666666666666666
+2022,Brazil,Guanyu Zhou,Alfa Romeo Ferrari,13,1,0,12.2,0,15,0,11.0
+2022,Brazil,Mick Schumacher,Haas Ferrari,12,8,0,12.833333333333334,0,22,0,12.454545454545455
+2022,Brazil,Pierre Gasly,AlphaTauri RBPT,10,14,0,10.4,0,18,0,11.636363636363637
+2022,Brazil,Alexander Albon,Williams Mercedes,19,2,0,11.666666666666666,0,2,0,14.0
+2022,Brazil,Nicholas Latifi,Williams Mercedes,18,0,0,16.8,0,2,0,14.083333333333334
+2022,Brazil,Yuki Tsunoda,AlphaTauri RBPT,20,4,0,12.666666666666666,0,18,0,11.833333333333334
+2022,Canada,Max Verstappen,Red Bull Racing RBPT,1,103,3,5.0,1,179,3,5.333333333333333
+2022,Canada,Carlos Sainz,Ferrari,3,60,0,3.0,0,175,3,2.7
+2022,Canada,Lewis Hamilton,Mercedes,4,72,0,5.666666666666667,0,174,1,4.461538461538462
+2022,Canada,George Russell,Mercedes,8,102,1,3.4285714285714284,0,189,1,4.357142857142857
+2022,Canada,Charles Leclerc,Ferrari,19,115,3,2.5,0,194,3,2.6363636363636362
+2022,Canada,Esteban Ocon,Alpine Renault,7,39,0,7.285714285714286,0,68,0,8.0
+2022,Canada,Valtteri Bottas,Alfa Romeo Ferrari,11,14,0,10.0,0,15,0,11.083333333333334
+2022,Canada,Guanyu Zhou,Alfa Romeo Ferrari,10,1,0,12.166666666666666,0,21,0,10.76923076923077
+2022,Canada,Fernando Alonso,Alpine Renault,2,29,0,8.833333333333334,0,76,0,7.857142857142857
+2022,Canada,Lance Stroll,Aston Martin Aramco Mercedes,17,5,0,11.714285714285714,0,18,0,11.615384615384615
+2022,Canada,Daniel Ricciardo,McLaren Mercedes,9,16,0,10.166666666666666,0,43,0,9.583333333333334
+2022,Canada,Sebastian Vettel,Aston Martin Aramco Mercedes,16,13,0,10.4,0,19,0,11.5
+2022,Canada,Alexander Albon,Williams Mercedes,12,2,0,12.142857142857142,0,2,0,14.23076923076923
+2022,Canada,Pierre Gasly,AlphaTauri RBPT,15,14,0,11.0,0,18,0,12.23076923076923
+2022,Canada,Lando Norris,McLaren Mercedes,14,27,0,9.0,0,43,0,9.692307692307692
+2022,Canada,Nicholas Latifi,Williams Mercedes,18,0,0,16.666666666666668,0,2,0,14.142857142857142
+2022,Canada,Kevin Magnussen,Haas Ferrari,5,14,0,12.0,0,22,0,12.5
+2022,Emilia Romagna,Max Verstappen,Red Bull Racing RBPT,1,128,4,4.428571428571429,1,204,4,5.0
+2022,Emilia Romagna,Sergio Perez,Red Bull Racing RBPT,3,76,0,5.666666666666667,0,230,5,4.714285714285714
+2022,Emilia Romagna,Lando Norris,McLaren Mercedes,5,27,0,9.857142857142858,0,43,0,10.071428571428571
+2022,Emilia Romagna,George Russell,Mercedes,11,114,1,3.5,0,201,1,4.333333333333333
+2022,Emilia Romagna,Valtteri Bottas,Alfa Romeo Ferrari,7,20,0,9.571428571428571,0,25,0,10.571428571428571
+2022,Emilia Romagna,Charles Leclerc,Ferrari,2,125,3,2.857142857142857,0,204,3,2.8333333333333335
+2022,Emilia Romagna,Yuki Tsunoda,AlphaTauri RBPT,12,4,0,13.285714285714286,0,18,0,12.357142857142858
+2022,Emilia Romagna,Sebastian Vettel,Aston Martin Aramco Mercedes,13,13,0,10.666666666666666,0,19,0,11.533333333333333
+2022,Emilia Romagna,Kevin Magnussen,Haas Ferrari,8,14,0,12.833333333333334,0,22,0,12.846153846153847
+2022,Emilia Romagna,Lance Stroll,Aston Martin Aramco Mercedes,15,6,0,11.5,0,23,0,11.3125
+2022,Emilia Romagna,Alexander Albon,Williams Mercedes,18,2,0,12.25,0,2,0,14.266666666666667
+2022,Emilia Romagna,Pierre Gasly,AlphaTauri RBPT,17,14,0,11.428571428571429,0,24,0,12.0
+2022,Emilia Romagna,Lewis Hamilton,Mercedes,14,87,0,5.285714285714286,0,213,1,4.3125
+2022,Emilia Romagna,Esteban Ocon,Alpine Renault,16,47,0,7.125,0,78,0,7.933333333333334
+2022,Emilia Romagna,Guanyu Zhou,Alfa Romeo Ferrari,20,5,0,11.571428571428571,0,35,0,10.2
+2022,Emilia Romagna,Nicholas Latifi,Williams Mercedes,19,0,0,16.571428571428573,0,2,0,14.0625
+2022,Emilia Romagna,Mick Schumacher,Haas Ferrari,10,8,0,12.857142857142858,0,24,0,12.571428571428571
+2022,Emilia Romagna,Daniel Ricciardo,McLaren Mercedes,6,16,0,10.285714285714286,0,58,0,9.6
+2022,France,Max Verstappen,Red Bull Racing RBPT,2,154,5,4.0,1,248,5,4.533333333333333
+2022,France,Lewis Hamilton,Mercedes,4,87,0,6.25,0,213,1,4.823529411764706
+2022,France,George Russell,Mercedes,6,126,1,3.5555555555555554,0,231,1,4.666666666666667
+2022,France,Sergio Perez,Red Bull Racing RBPT,3,94,0,5.142857142857143,0,273,6,4.3125
+2022,France,Carlos Sainz,Ferrari,19,79,0,2.8,0,212,3,3.076923076923077
+2022,France,Fernando Alonso,Alpine Renault,7,31,0,8.857142857142858,0,78,0,8.3125
+2022,France,Lando Norris,McLaren Mercedes,5,42,0,9.0,0,58,0,10.125
+2022,France,Esteban Ocon,Alpine Renault,10,47,0,7.888888888888889,0,86,0,8.176470588235293
+2022,France,Daniel Ricciardo,McLaren Mercedes,9,16,0,11.25,0,64,0,9.941176470588236
+2022,France,Lance Stroll,Aston Martin Aramco Mercedes,15,7,0,11.333333333333334,0,24,0,11.235294117647058
+2022,France,Sebastian Vettel,Aston Martin Aramco Mercedes,12,17,0,10.285714285714286,0,25,0,11.166666666666666
+2022,France,Pierre Gasly,AlphaTauri RBPT,14,14,0,11.5,0,24,0,12.0
+2022,France,Alexander Albon,Williams Mercedes,13,2,0,12.11111111111111,0,2,0,14.176470588235293
+2022,France,Valtteri Bottas,Alfa Romeo Ferrari,11,30,0,9.0,0,35,0,10.5
+2022,France,Mick Schumacher,Haas Ferrari,17,8,0,13.375,0,24,0,12.866666666666667
+2022,France,Guanyu Zhou,Alfa Romeo Ferrari,16,5,0,12.0,0,35,0,10.705882352941176
+2022,Great Britain,Carlos Sainz,Ferrari,1,90,0,3.1666666666666665,1,223,3,3.2142857142857144
+2022,Great Britain,Sergio Perez,Red Bull Racing RBPT,4,106,0,5.0,0,285,6,4.294117647058823
+2022,Great Britain,Lewis Hamilton,Mercedes,5,105,0,5.777777777777778,0,246,1,4.578947368421052
+2022,Great Britain,Charles Leclerc,Ferrari,3,133,3,3.25,0,248,4,3.066666666666667
+2022,Great Britain,Fernando Alonso,Alpine Renault,7,39,0,8.5,0,90,0,8.166666666666666
+2022,Great Britain,Lando Norris,McLaren Mercedes,6,48,0,8.777777777777779,0,66,0,9.88888888888889
+2022,Great Britain,Max Verstappen,Red Bull Racing RBPT,2,179,6,3.6666666666666665,0,303,6,4.166666666666667
+2022,Great Britain,Mick Schumacher,Haas Ferrari,19,8,0,13.555555555555555,0,24,0,13.0
+2022,Great Britain,Sebastian Vettel,Aston Martin Aramco Mercedes,18,17,0,10.375,0,25,0,11.157894736842104
+2022,Great Britain,Kevin Magnussen,Haas Ferrari,17,16,0,12.285714285714286,0,28,0,12.705882352941176
+2022,Great Britain,Lance Stroll,Aston Martin Aramco Mercedes,20,8,0,11.2,0,27,0,11.05
+2022,Great Britain,Nicholas Latifi,Williams Mercedes,10,0,0,16.5,0,2,0,14.11111111111111
+2022,Great Britain,Daniel Ricciardo,McLaren Mercedes,14,18,0,11.0,0,74,0,9.68421052631579
+2022,Great Britain,Yuki Tsunoda,AlphaTauri RBPT,13,10,0,12.5,0,24,0,12.0
+2022,Hungary,Max Verstappen,Red Bull Racing RBPT,10,185,6,4.0,1,309,6,4.315789473684211
+2022,Hungary,Lewis Hamilton,Mercedes,7,121,0,5.5,0,262,1,4.5
+2022,Hungary,George Russell,Mercedes,1,141,1,3.5,0,281,1,4.380952380952381
+2022,Hungary,Carlos Sainz,Ferrari,2,115,1,2.857142857142857,0,260,4,3.125
+2022,Hungary,Sergio Perez,Red Bull Racing RBPT,11,124,0,4.666666666666667,0,334,7,4.15
+2022,Hungary,Charles Leclerc,Ferrari,3,145,3,3.3333333333333335,0,272,4,3.176470588235294
+2022,Hungary,Lando Norris,McLaren Mercedes,4,56,0,8.5,0,74,0,9.85
+2022,Hungary,Fernando Alonso,Alpine Renault,6,49,0,8.11111111111111,0,100,0,8.0
+2022,Hungary,Esteban Ocon,Alpine Renault,5,51,0,7.9,0,104,0,8.0
+2022,Hungary,Sebastian Vettel,Aston Martin Aramco Mercedes,18,19,0,10.222222222222221,0,27,0,11.047619047619047
+2022,Hungary,Lance Stroll,Aston Martin Aramco Mercedes,14,8,0,11.181818181818182,0,28,0,11.0
+2022,Hungary,Pierre Gasly,AlphaTauri RBPT,20,14,0,11.555555555555555,0,24,0,12.11111111111111
+2022,Hungary,Guanyu Zhou,Alfa Romeo Ferrari,12,5,0,12.444444444444445,0,35,0,11.0
+2022,Hungary,Mick Schumacher,Haas Ferrari,15,12,0,13.0,0,29,0,12.555555555555555
+2022,Hungary,Daniel Ricciardo,McLaren Mercedes,9,18,0,11.2,0,80,0,9.714285714285714
+2022,Hungary,Kevin Magnussen,Haas Ferrari,13,17,0,12.0,0,29,0,12.631578947368421
+2022,Hungary,Alexander Albon,Williams Mercedes,17,2,0,12.2,0,2,0,14.0
+2022,Hungary,Nicholas Latifi,Williams Mercedes,19,0,0,16.0,0,2,0,14.15
+2022,Hungary,Yuki Tsunoda,AlphaTauri RBPT,16,10,0,12.666666666666666,0,24,0,12.105263157894736
+2022,Hungary,Valtteri Bottas,Alfa Romeo Ferrari,8,30,0,9.555555555555555,0,35,0,11.105263157894736
+2022,Italy,Max Verstappen,Red Bull Racing RBPT,7,210,7,3.727272727272727,1,344,7,4.190476190476191
+2022,Italy,Charles Leclerc,Ferrari,1,153,3,3.6,0,280,4,3.3333333333333335
+2022,Italy,George Russell,Mercedes,2,156,1,3.4545454545454546,0,296,1,4.318181818181818
+2022,Italy,Carlos Sainz,Ferrari,18,127,1,3.0,0,298,4,3.263157894736842
+2022,Italy,Lewis Hamilton,Mercedes,19,140,0,5.181818181818182,0,311,1,4.260869565217392
+2022,Italy,Sergio Perez,Red Bull Racing RBPT,13,134,0,4.7,0,369,8,4.045454545454546
+2022,Italy,Lando Norris,McLaren Mercedes,3,62,0,8.363636363636363,0,80,0,9.954545454545455
+2022,Italy,Pierre Gasly,AlphaTauri RBPT,5,14,0,11.6,0,24,0,12.45
+2022,Italy,Nyck De Vries,Williams Mercedes,8,0,0,14.5,0,2,0,14.333333333333334
+2022,Italy,Guanyu Zhou,Alfa Romeo Ferrari,9,5,0,12.5,0,35,0,11.55
+2022,Italy,Esteban Ocon,Alpine Renault,14,53,0,8.0,0,106,0,8.047619047619047
+2022,Italy,Mick Schumacher,Haas Ferrari,17,12,0,13.090909090909092,0,29,0,12.8
+2022,Italy,Valtteri Bottas,Alfa Romeo Ferrari,15,30,0,10.6,0,36,0,11.476190476190476
+2022,Italy,Yuki Tsunoda,AlphaTauri RBPT,20,10,0,13.3,0,28,0,12.238095238095237
+2022,Italy,Nicholas Latifi,Williams Mercedes,10,0,0,16.2,0,4,0,14.090909090909092
+2022,Italy,Kevin Magnussen,Haas Ferrari,16,17,0,12.444444444444445,0,29,0,12.761904761904763
+2022,Japan,Max Verstappen,Red Bull Racing RBPT,1,235,8,3.5,1,378,8,4.130434782608695
+2022,Japan,Sergio Perez,Red Bull Racing RBPT,4,143,0,4.818181818181818,0,403,9,4.0
+2022,Japan,Charles Leclerc,Ferrari,2,171,3,3.4545454545454546,0,310,4,3.3
+2022,Japan,Esteban Ocon,Alpine Renault,5,53,0,8.25,0,106,0,8.181818181818182
+2022,Japan,Lewis Hamilton,Mercedes,6,150,0,5.166666666666667,0,321,1,4.291666666666667
+2022,Japan,Sebastian Vettel,Aston Martin Aramco Mercedes,9,20,0,10.2,0,28,0,11.0
+2022,Japan,Fernando Alonso,Alpine Renault,7,53,0,8.1,0,118,0,8.0
+2022,Japan,George Russell,Mercedes,8,171,1,3.4166666666666665,0,331,1,4.32
+2022,Japan,Nicholas Latifi,Williams Mercedes,19,0,0,16.09090909090909,0,4,0,14.130434782608695
+2022,Japan,Lando Norris,McLaren Mercedes,10,68,0,8.25,0,86,0,9.826086956521738
+2022,Japan,Daniel Ricciardo,McLaren Mercedes,11,18,0,11.545454545454545,0,87,0,9.833333333333334
+2022,Japan,Lance Stroll,Aston Martin Aramco Mercedes,18,8,0,11.166666666666666,0,36,0,10.791666666666666
+2022,Japan,Yuki Tsunoda,AlphaTauri RBPT,13,10,0,13.363636363636363,0,28,0,12.318181818181818
+2022,Japan,Kevin Magnussen,Haas Ferrari,17,17,0,12.8,0,29,0,12.909090909090908
+2022,Japan,Valtteri Bottas,Alfa Romeo Ferrari,12,30,0,10.818181818181818,0,36,0,11.545454545454545
+2022,Japan,Guanyu Zhou,Alfa Romeo Ferrari,14,6,0,12.272727272727273,0,36,0,11.695652173913043
+2022,Japan,Mick Schumacher,Haas Ferrari,15,12,0,13.0,0,29,0,12.956521739130435
+2022,Japan,Pierre Gasly,AlphaTauri RBPT,20,18,0,11.272727272727273,0,28,0,12.347826086956522
+2022,Mexico,Max Verstappen,Red Bull Racing RBPT,1,260,9,3.3076923076923075,1,421,9,3.92
+2022,Mexico,Lewis Hamilton,Mercedes,3,160,0,5.153846153846154,0,335,1,4.461538461538462
+2022,Mexico,Sergio Perez,Red Bull Racing RBPT,4,161,0,4.583333333333333,0,446,10,3.8076923076923075
+2022,Mexico,George Russell,Mercedes,2,175,1,3.769230769230769,0,353,1,4.37037037037037
+2022,Mexico,Carlos Sainz,Ferrari,5,139,1,3.111111111111111,0,325,4,3.2857142857142856
+2022,Mexico,Charles Leclerc,Ferrari,7,186,3,3.4166666666666665,0,335,4,3.3636363636363638
+2022,Mexico,Daniel Ricciardo,McLaren Mercedes,11,18,0,11.5,0,87,0,9.88
+2022,Mexico,Esteban Ocon,Alpine Renault,10,65,0,7.923076923076923,0,124,0,7.958333333333333
+2022,Mexico,Lando Norris,McLaren Mercedes,8,69,0,8.384615384615385,0,93,0,9.76923076923077
+2022,Mexico,Valtteri Bottas,Alfa Romeo Ferrari,6,30,0,11.166666666666666,0,36,0,11.875
+2022,Mexico,Pierre Gasly,AlphaTauri RBPT,14,18,0,11.833333333333334,0,28,0,12.583333333333334
+2022,Mexico,Alexander Albon,Williams Mercedes,17,2,0,12.636363636363637,0,6,0,13.916666666666666
+2022,Mexico,Guanyu Zhou,Alfa Romeo Ferrari,12,6,0,12.583333333333334,0,37,0,11.8
+2022,Mexico,Sebastian Vettel,Aston Martin Aramco Mercedes,16,28,0,9.818181818181818,0,36,0,10.84
+2022,Mexico,Lance Stroll,Aston Martin Aramco Mercedes,20,8,0,11.23076923076923,0,36,0,10.961538461538462
+2022,Mexico,Mick Schumacher,Haas Ferrari,15,12,0,13.307692307692308,0,29,0,13.125
+2022,Mexico,Kevin Magnussen,Haas Ferrari,19,17,0,12.909090909090908,0,29,0,13.24
+2022,Mexico,Nicholas Latifi,Williams Mercedes,18,2,0,15.5,0,6,0,13.84
+2022,Mexico,Fernando Alonso,Alpine Renault,9,59,0,8.0,0,128,0,7.96
+2022,Miami,Max Verstappen,Red Bull Racing RBPT,3,285,10,3.142857142857143,1,461,10,3.7777777777777777
+2022,Miami,Charles Leclerc,Ferrari,1,194,3,3.6153846153846154,0,343,4,3.4782608695652173
+2022,Miami,Carlos Sainz,Ferrari,2,149,1,3.3,0,361,4,3.4166666666666665
+2022,Miami,Sergio Perez,Red Bull Racing RBPT,4,176,0,4.461538461538462,0,487,11,3.6785714285714284
+2022,Miami,George Russell,Mercedes,12,188,1,3.7857142857142856,0,366,1,4.357142857142857
+2022,Miami,Lewis Hamilton,Mercedes,6,178,0,4.928571428571429,0,376,1,4.379310344827586
+2022,Miami,Valtteri Bottas,Alfa Romeo Ferrari,5,31,0,11.076923076923077,0,37,0,11.846153846153847
+2022,Miami,Esteban Ocon,Alpine Renault,20,69,0,7.928571428571429,0,128,0,8.384615384615385
+2022,Miami,Alexander Albon,Williams Mercedes,18,2,0,12.583333333333334,0,6,0,14.0
+2022,Miami,Lance Stroll,Aston Martin Aramco Mercedes,10,8,0,11.5,0,36,0,11.11111111111111
+2022,Miami,Fernando Alonso,Alpine Renault,11,59,0,8.916666666666666,0,132,0,8.37037037037037
+2022,Miami,Yuki Tsunoda,AlphaTauri RBPT,9,10,0,13.333333333333334,0,28,0,12.52
+2022,Miami,Daniel Ricciardo,McLaren Mercedes,14,24,0,11.153846153846153,0,95,0,9.74074074074074
+2022,Miami,Nicholas Latifi,Williams Mercedes,19,2,0,15.692307692307692,0,8,0,13.814814814814815
+2022,Miami,Mick Schumacher,Haas Ferrari,15,12,0,13.5,0,29,0,13.384615384615385
+2022,Miami,Kevin Magnussen,Haas Ferrari,16,17,0,13.25,0,29,0,13.444444444444445
+2022,Miami,Sebastian Vettel,Aston Martin Aramco Mercedes,13,28,0,10.166666666666666,0,37,0,11.071428571428571
+2022,Monaco,Sergio Perez,Red Bull Racing RBPT,3,188,0,4.428571428571429,1,499,11,3.689655172413793
+2022,Monaco,Carlos Sainz,Ferrari,2,164,1,3.272727272727273,0,376,4,3.4
+2022,Monaco,Max Verstappen,Red Bull Racing RBPT,4,311,11,3.0,0,524,12,3.6
+2022,Monaco,Charles Leclerc,Ferrari,1,212,3,3.5,0,394,4,3.3461538461538463
+2022,Monaco,George Russell,Mercedes,6,198,1,3.8666666666666667,0,384,1,4.433333333333334
+2022,Monaco,Lando Norris,McLaren Mercedes,5,71,0,8.428571428571429,0,95,0,9.857142857142858
+2022,Monaco,Fernando Alonso,Alpine Renault,7,59,0,9.076923076923077,0,132,0,8.464285714285714
+2022,Monaco,Lewis Hamilton,Mercedes,8,186,0,5.0,0,394,1,4.451612903225806
+2022,Monaco,Valtteri Bottas,Alfa Romeo Ferrari,12,37,0,10.785714285714286,0,43,0,11.666666666666666
+2022,Monaco,Sebastian Vettel,Aston Martin Aramco Mercedes,9,28,0,10.692307692307692,0,37,0,11.275862068965518
+2022,Monaco,Pierre Gasly,AlphaTauri RBPT,17,18,0,11.76923076923077,0,28,0,12.5
+2022,Monaco,Esteban Ocon,Alpine Renault,10,73,0,7.933333333333334,0,138,0,8.413793103448276
+2022,Monaco,Daniel Ricciardo,McLaren Mercedes,14,24,0,11.285714285714286,0,104,0,9.724137931034482
+2022,Monaco,Lance Stroll,Aston Martin Aramco Mercedes,18,9,0,11.4,0,38,0,11.233333333333333
+2022,Monaco,Nicholas Latifi,Williams Mercedes,19,2,0,15.571428571428571,0,8,0,13.821428571428571
+2022,Monaco,Guanyu Zhou,Alfa Romeo Ferrari,20,6,0,12.615384615384615,0,45,0,11.571428571428571
+2022,Monaco,Yuki Tsunoda,AlphaTauri RBPT,11,10,0,13.23076923076923,0,28,0,12.444444444444445
+2022,Netherlands,Max Verstappen,Red Bull Racing RBPT,1,326,11,3.0,1,539,12,3.5806451612903225
+2022,Netherlands,George Russell,Mercedes,6,208,1,3.9375,0,398,1,4.5625
+2022,Netherlands,Charles Leclerc,Ferrari,2,224,3,3.533333333333333,0,406,4,3.3703703703703702
+2022,Netherlands,Lewis Hamilton,Mercedes,4,190,0,5.1875,0,416,1,4.484848484848484
+2022,Netherlands,Sergio Perez,Red Bull Racing RBPT,5,213,1,4.2,0,565,13,3.5
+2022,Netherlands,Fernando Alonso,Alpine Renault,13,65,0,8.928571428571429,0,138,0,8.533333333333333
+2022,Netherlands,Lando Norris,McLaren Mercedes,7,80,0,8.266666666666667,0,104,0,9.833333333333334
+2022,Netherlands,Carlos Sainz,Ferrari,3,182,1,3.1666666666666665,0,421,4,3.357142857142857
+2022,Netherlands,Esteban Ocon,Alpine Renault,12,73,0,8.1875,0,146,0,8.451612903225806
+2022,Netherlands,Lance Stroll,Aston Martin Aramco Mercedes,10,9,0,11.5625,0,38,0,11.32258064516129
+2022,Netherlands,Pierre Gasly,AlphaTauri RBPT,11,18,0,11.714285714285714,0,28,0,12.607142857142858
+2022,Netherlands,Alexander Albon,Williams Mercedes,15,4,0,12.307692307692308,0,8,0,13.862068965517242
+2022,Netherlands,Mick Schumacher,Haas Ferrari,8,12,0,13.6,0,29,0,13.535714285714286
+2022,Netherlands,Sebastian Vettel,Aston Martin Aramco Mercedes,19,29,0,10.642857142857142,0,39,0,11.28125
+2022,Netherlands,Kevin Magnussen,Haas Ferrari,18,17,0,13.461538461538462,0,29,0,13.517241379310345
+2022,Netherlands,Guanyu Zhou,Alfa Romeo Ferrari,14,6,0,12.857142857142858,0,45,0,11.724137931034482
+2022,Netherlands,Daniel Ricciardo,McLaren Mercedes,17,24,0,11.4,0,110,0,9.741935483870968
+2022,Netherlands,Nicholas Latifi,Williams Mercedes,20,2,0,15.533333333333333,0,8,0,13.8
+2022,Saudi Arabia,Max Verstappen,Red Bull Racing RBPT,4,352,12,2.8823529411764706,1,575,13,3.5454545454545454
+2022,Saudi Arabia,Charles Leclerc,Ferrari,2,239,3,3.5,0,425,4,3.5172413793103448
+2022,Saudi Arabia,Carlos Sainz,Ferrari,3,186,1,3.5384615384615383,0,444,4,3.466666666666667
+2022,Saudi Arabia,Sergio Perez,Red Bull Racing RBPT,1,223,1,4.25,0,600,14,3.4705882352941178
+2022,Saudi Arabia,George Russell,Mercedes,6,226,1,3.823529411764706,0,428,1,4.470588235294118
+2022,Saudi Arabia,Esteban Ocon,Alpine Renault,5,75,0,8.235294117647058,0,148,0,8.46875
+2022,Saudi Arabia,Lando Norris,McLaren Mercedes,11,86,0,8.1875,0,110,0,9.96875
+2022,Saudi Arabia,Pierre Gasly,AlphaTauri RBPT,9,18,0,11.666666666666666,0,28,0,12.551724137931034
+2022,Saudi Arabia,Kevin Magnussen,Haas Ferrari,10,17,0,13.571428571428571,0,29,0,13.566666666666666
+2022,Saudi Arabia,Lewis Hamilton,Mercedes,15,202,0,5.117647058823529,0,438,1,4.485714285714286
+2022,Saudi Arabia,Guanyu Zhou,Alfa Romeo Ferrari,12,6,0,13.066666666666666,0,45,0,11.866666666666667
+2022,Saudi Arabia,Nico Hulkenberg,Aston Martin Aramco Mercedes,17,0,0,17.0,0,39,0,11.363636363636363
+2022,Saudi Arabia,Lance Stroll,Aston Martin Aramco Mercedes,13,10,0,11.470588235294118,0,39,0,11.382352941176471
+2022,Saudi Arabia,Alexander Albon,Williams Mercedes,16,4,0,12.285714285714286,0,8,0,13.935483870967742
+2022,Singapore,Sergio Perez,Red Bull Racing RBPT,2,235,1,4.235294117647059,1,612,14,3.4857142857142858
+2022,Singapore,Charles Leclerc,Ferrari,1,258,3,3.411764705882353,0,459,4,3.4516129032258065
+2022,Singapore,Carlos Sainz,Ferrari,4,201,1,3.5,0,477,4,3.40625
+2022,Singapore,Lando Norris,McLaren Mercedes,6,92,0,8.117647058823529,0,116,0,9.878787878787879
+2022,Singapore,Daniel Ricciardo,McLaren Mercedes,16,24,0,11.75,0,128,0,9.705882352941176
+2022,Singapore,Lance Stroll,Aston Martin Aramco Mercedes,11,10,0,11.555555555555555,0,39,0,11.428571428571429
+2022,Singapore,Max Verstappen,Red Bull Racing RBPT,8,377,13,2.7777777777777777,0,637,15,3.4166666666666665
+2022,Singapore,Sebastian Vettel,Aston Martin Aramco Mercedes,13,29,0,10.866666666666667,0,47,0,11.277777777777779
+2022,Singapore,Lewis Hamilton,Mercedes,3,203,0,5.388888888888889,0,439,1,4.638888888888889
+2022,Singapore,Pierre Gasly,AlphaTauri RBPT,7,22,0,11.4375,0,32,0,12.4
+2022,Singapore,Valtteri Bottas,Alfa Romeo Ferrari,15,39,0,10.666666666666666,0,45,0,11.838709677419354
+2022,Singapore,Kevin Magnussen,Haas Ferrari,9,19,0,13.266666666666667,0,31,0,13.419354838709678
+2022,Singapore,Mick Schumacher,Haas Ferrari,12,12,0,13.5625,0,31,0,13.375
+2022,Singapore,George Russell,Mercedes,20,236,1,3.888888888888889,0,441,1,4.756756756756757
+2022,Spain,Max Verstappen,Red Bull Racing RBPT,2,383,13,3.0,1,643,15,3.5135135135135136
+2022,Spain,Sergio Perez,Red Bull Racing RBPT,5,260,2,4.055555555555555,0,668,16,3.4473684210526314
+2022,Spain,George Russell,Mercedes,4,236,1,4.421052631578948,0,441,1,5.0
+2022,Spain,Carlos Sainz,Ferrari,3,216,1,3.466666666666667,0,492,4,3.393939393939394
+2022,Spain,Lewis Hamilton,Mercedes,6,205,0,5.578947368421052,0,456,1,4.948717948717949
+2022,Spain,Valtteri Bottas,Alfa Romeo Ferrari,7,39,0,10.6875,0,45,0,11.8125
+2022,Spain,Esteban Ocon,Alpine Renault,12,83,0,8.11111111111111,0,156,0,8.393939393939394
+2022,Spain,Lando Norris,McLaren Mercedes,11,104,0,7.888888888888889,0,138,0,9.571428571428571
+2022,Spain,Fernando Alonso,Alpine Renault,20,73,0,8.733333333333333,0,162,0,8.352941176470589
+2022,Spain,Yuki Tsunoda,AlphaTauri RBPT,13,10,0,13.5,0,33,0,12.32258064516129
+2022,Spain,Sebastian Vettel,Aston Martin Aramco Mercedes,16,33,0,10.6875,0,51,0,11.18918918918919
+2022,Spain,Daniel Ricciardo,McLaren Mercedes,9,34,0,11.352941176470589,0,142,0,9.527777777777779
+2022,Spain,Pierre Gasly,AlphaTauri RBPT,14,23,0,11.352941176470589,0,34,0,12.25
+2022,Spain,Mick Schumacher,Haas Ferrari,10,12,0,13.529411764705882,0,31,0,13.363636363636363
+2022,Spain,Lance Stroll,Aston Martin Aramco Mercedes,17,18,0,11.263157894736842,0,51,0,11.18421052631579
+2022,Spain,Nicholas Latifi,Williams Mercedes,19,2,0,15.6875,0,8,0,13.9375
+2022,Spain,Kevin Magnussen,Haas Ferrari,8,19,0,13.1875,0,31,0,13.382352941176471
+2022,Spain,Alexander Albon,Williams Mercedes,18,4,0,12.4,0,8,0,14.0
+2022,United States,Max Verstappen,Red Bull Racing RBPT,2,408,14,2.9,1,687,16,3.41025641025641
+2022,United States,Lewis Hamilton,Mercedes,3,215,0,5.55,0,466,1,4.95
+2022,United States,Charles Leclerc,Ferrari,12,276,3,3.3333333333333335,0,504,4,3.411764705882353
+2022,United States,Sergio Perez,Red Bull Racing RBPT,9,279,2,3.9473684210526314,0,712,17,3.35
+2022,United States,George Russell,Mercedes,4,251,1,4.35,0,484,1,4.878048780487805
+2022,United States,Lando Norris,McLaren Mercedes,6,108,0,7.894736842105263,0,142,0,9.594594594594595
+2022,United States,Fernando Alonso,Alpine Renault,14,75,0,8.75,0,164,0,8.371428571428572
+2022,United States,Sebastian Vettel,Aston Martin Aramco Mercedes,10,33,0,10.705882352941176,0,51,0,11.282051282051283
+2022,United States,Kevin Magnussen,Haas Ferrari,13,19,0,13.411764705882353,0,31,0,13.485714285714286
+2022,United States,Yuki Tsunoda,AlphaTauri RBPT,19,11,0,13.266666666666667,0,34,0,12.272727272727273
+2022,United States,Esteban Ocon,Alpine Renault,20,89,0,8.052631578947368,0,170,0,8.333333333333334
+2022,United States,Guanyu Zhou,Alfa Romeo Ferrari,18,6,0,12.9375,0,53,0,11.636363636363637
+2022,United States,Alexander Albon,Williams Mercedes,8,4,0,12.75,0,8,0,14.117647058823529
+2022,United States,Pierre Gasly,AlphaTauri RBPT,11,23,0,11.444444444444445,0,35,0,12.205882352941176
+2022,United States,Mick Schumacher,Haas Ferrari,16,12,0,13.555555555555555,0,33,0,13.36111111111111
+2022,United States,Daniel Ricciardo,McLaren Mercedes,15,34,0,11.38888888888889,0,150,0,9.5
+2022,United States,Nicholas Latifi,Williams Mercedes,17,2,0,15.705882352941176,0,8,0,14.085714285714285
+2023,Abu Dhabi,Max Verstappen,Red Bull Racing Honda RBPT,1,0,0,15.166666666666666,1,0,0,5.743589743589744
+2023,Abu Dhabi,Charles Leclerc,Ferrari,2,0,0,6.3,0,0,0,7.368421052631579
+2023,Abu Dhabi,George Russell,Mercedes,4,0,0,5.6,0,0,0,8.475
+2023,Abu Dhabi,Sergio Perez,Red Bull Racing Honda RBPT,9,0,0,10.238095238095237,0,26,1,1.0
+2023,Abu Dhabi,Lando Norris,McLaren Mercedes,5,0,0,9.333333333333334,0,0,0,14.675
+2023,Abu Dhabi,Oscar Piastri,McLaren Mercedes,3,0,0,15.444444444444445,0,10,0,5.0
+2023,Abu Dhabi,Fernando Alonso,Aston Martin Aramco Mercedes,7,0,0,9.3125,0,0,0,9.837837837837839
+2023,Abu Dhabi,Yuki Tsunoda,AlphaTauri Honda RBPT,6,0,0,13.368421052631579,0,0,0,13.394736842105264
+2023,Abu Dhabi,Lewis Hamilton,Mercedes,11,0,0,7.428571428571429,0,15,0,3.0
+2023,Abu Dhabi,Lance Stroll,Aston Martin Aramco Mercedes,13,0,0,15.105263157894736,0,6,0,7.0
+2023,Abu Dhabi,Daniel Ricciardo,AlphaTauri Honda RBPT,15,0,0,4.882352941176471,0,4,0,8.0
+2023,Abu Dhabi,Esteban Ocon,Alpine Renault,12,0,0,12.714285714285714,0,0,0,13.170731707317072
+2023,Abu Dhabi,Pierre Gasly,Alpine Renault,10,0,0,9.631578947368421,0,0,0,12.0
+2023,Abu Dhabi,Alexander Albon,Williams Mercedes,14,0,0,13.0625,0,0,0,2.8095238095238093
+2023,Abu Dhabi,Nico Hulkenberg,Haas Ferrari,8,0,0,1.2727272727272727,0,0,0,5.648648648648648
+2023,Abu Dhabi,Logan Sargeant,Williams Mercedes,20,0,0,12.2,0,0,0,14.0
+2023,Abu Dhabi,Guanyu Zhou,Alfa Romeo Ferrari,19,0,0,6.631578947368421,0,0,0,14.166666666666666
+2023,Abu Dhabi,Carlos Sainz,Ferrari,16,0,0,11.11111111111111,0,18,0,2.0
+2023,Abu Dhabi,Valtteri Bottas,Alfa Romeo Ferrari,18,0,0,4.5,0,0,0,17.0
+2023,Abu Dhabi,Kevin Magnussen,Haas Ferrari,17,0,0,13.421052631578947,0,0,0,15.0
+2023,Australia,Max Verstappen,Red Bull Racing Honda RBPT,1,26,1,1.0,1,38,1,2.5
+2023,Australia,Lewis Hamilton,Mercedes,3,2,0,9.0,0,17,0,6.0
+2023,Australia,Fernando Alonso,Aston Martin Aramco Mercedes,4,6,0,7.0,0,7,0,8.5
+2023,Australia,Lance Stroll,Aston Martin Aramco Mercedes,6,1,0,10.0,0,22,0,6.666666666666667
+2023,Australia,Sergio Perez,Red Bull Racing Honda RBPT,20,12,0,4.0,0,63,2,2.0
+2023,Australia,Lando Norris,McLaren Mercedes,13,10,0,5.0,0,18,0,5.5
+2023,Australia,Nico Hulkenberg,Haas Ferrari,10,0,0,15.0,0,0,0,17.5
+2023,Australia,Oscar Piastri,McLaren Mercedes,16,8,0,6.0,0,26,0,5.666666666666667
+2023,Australia,Guanyu Zhou,Alfa Romeo Ferrari,17,0,0,17.0,0,0,0,18.0
+2023,Australia,Yuki Tsunoda,AlphaTauri Honda RBPT,12,4,0,8.0,0,4,0,9.5
+2023,Australia,Valtteri Bottas,Alfa Romeo Ferrari,19,0,0,19.0,0,2,0,15.0
+2023,Australia,Carlos Sainz,Ferrari,5,0,0,18.0,0,18,0,10.0
+2023,Australia,Pierre Gasly,Alpine Renault,9,0,0,13.0,0,0,0,12.5
+2023,Australia,Esteban Ocon,Alpine Renault,11,0,0,12.0,0,0,0,12.666666666666666
+2023,Australia,Nyck De Vries,AlphaTauri Honda RBPT,15,0,0,14.285714285714286,0,5,0,9.666666666666666
+2023,Australia,Logan Sargeant,Williams Mercedes,18,0,0,16.0,0,0,0,15.0
+2023,Australia,Kevin Magnussen,Haas Ferrari,14,0,0,20.0,0,6,0,14.0
+2023,Austria,Max Verstappen,Red Bull Racing Honda RBPT,1,51,2,1.0,1,74,2,2.75
+2023,Austria,Charles Leclerc,Ferrari,2,18,0,2.0,0,18,0,10.666666666666666
+2023,Austria,Sergio Perez,Red Bull Racing Honda RBPT,15,23,0,4.5,0,100,3,2.4
+2023,Austria,Lando Norris,McLaren Mercedes,4,18,0,5.5,0,30,0,6.25
+2023,Austria,Fernando Alonso,Aston Martin Aramco Mercedes,7,21,0,5.0,0,34,0,6.0
+2023,Austria,Carlos Sainz,Ferrari,3,0,0,15.0,0,36,0,8.5
+2023,Austria,George Russell,Mercedes,11,15,0,3.0,0,35,0,4.666666666666667
+2023,Austria,Lewis Hamilton,Mercedes,5,20,0,5.5,0,41,0,5.25
+2023,Austria,Lance Stroll,Aston Martin Aramco Mercedes,6,13,0,7.0,0,44,0,5.8
+2023,Austria,Pierre Gasly,Alpine Renault,9,0,0,13.0,0,0,0,13.0
+2023,Austria,Alexander Albon,Williams Mercedes,10,0,0,14.0,0,0,0,15.333333333333334
+2023,Austria,Guanyu Zhou,Alfa Romeo Ferrari,17,2,0,13.0,0,2,0,14.0
+2023,Austria,Logan Sargeant,Williams Mercedes,18,0,0,16.0,0,0,0,14.25
+2023,Austria,Esteban Ocon,Alpine Renault,12,0,0,13.0,0,1,0,12.4
+2023,Austria,Valtteri Bottas,Alfa Romeo Ferrari,14,0,0,15.0,0,2,0,13.6
+2023,Austria,Oscar Piastri,McLaren Mercedes,13,12,0,7.0,0,42,0,5.8
+2023,Austria,Nyck De Vries,AlphaTauri Honda RBPT,20,0,0,15.0,0,5,0,11.0
+2023,Austria,Kevin Magnussen,Haas Ferrari,19,0,0,18.5,0,6,0,14.75
+2023,Austria,Yuki Tsunoda,AlphaTauri Honda RBPT,16,5,0,9.0,0,5,0,12.2
+2023,Azerbaijan,Sergio Perez,Red Bull Racing Honda RBPT,3,38,0,4.0,1,115,3,2.5
+2023,Azerbaijan,Max Verstappen,Red Bull Racing Honda RBPT,2,77,3,1.0,0,140,4,2.2857142857142856
+2023,Azerbaijan,Charles Leclerc,Ferrari,1,36,0,2.0,0,44,0,8.0
+2023,Azerbaijan,Fernando Alonso,Aston Martin Aramco Mercedes,6,31,0,5.0,0,46,0,6.333333333333333
+2023,Azerbaijan,Carlos Sainz,Ferrari,4,8,0,12.0,0,59,0,7.166666666666667
+2023,Azerbaijan,Lewis Hamilton,Mercedes,5,24,0,6.333333333333333,0,45,0,5.8
+2023,Azerbaijan,Lance Stroll,Aston Martin Aramco Mercedes,9,15,0,7.666666666666667,0,58,0,6.0
+2023,Azerbaijan,George Russell,Mercedes,11,21,0,5.0,0,53,0,5.833333333333333
+2023,Azerbaijan,Lando Norris,McLaren Mercedes,7,30,0,5.0,0,42,0,7.5
+2023,Azerbaijan,Yuki Tsunoda,AlphaTauri Honda RBPT,8,5,0,12.333333333333334,0,5,0,13.333333333333334
+2023,Azerbaijan,Oscar Piastri,McLaren Mercedes,10,12,0,10.0,0,44,0,7.714285714285714
+2023,Azerbaijan,Alexander Albon,Williams Mercedes,12,0,0,12.5,0,0,0,14.0
+2023,Azerbaijan,Kevin Magnussen,Haas Ferrari,16,0,0,18.333333333333332,0,6,0,15.4
+2023,Azerbaijan,Pierre Gasly,Alpine Renault,17,1,0,12.0,0,1,0,12.666666666666666
+2023,Azerbaijan,Esteban Ocon,Alpine Renault,19,0,0,13.333333333333334,0,1,0,12.857142857142858
+2023,Azerbaijan,Logan Sargeant,Williams Mercedes,14,0,0,15.0,0,0,0,13.666666666666666
+2023,Azerbaijan,Nico Hulkenberg,Haas Ferrari,20,6,0,11.0,0,6,0,15.0
+2023,Azerbaijan,Valtteri Bottas,Alfa Romeo Ferrari,13,0,0,15.0,0,2,0,13.833333333333334
+2023,Bahrain,Max Verstappen,Red Bull Racing Honda RBPT,1,95,3,1.25,1,158,4,2.25
+2023,Bahrain,Sergio Perez,Red Bull Racing Honda RBPT,2,63,1,3.25,0,183,5,2.111111111111111
+2023,Bahrain,Fernando Alonso,Aston Martin Aramco Mercedes,5,43,0,4.75,0,64,0,6.125
+2023,Bahrain,Carlos Sainz,Ferrari,4,18,0,10.25,0,69,0,6.857142857142857
+2023,Bahrain,Lewis Hamilton,Mercedes,7,32,0,6.25,0,58,0,6.142857142857143
+2023,Bahrain,Lance Stroll,Aston Martin Aramco Mercedes,8,21,0,7.5,0,79,0,5.777777777777778
+2023,Bahrain,George Russell,Mercedes,6,26,0,6.0,0,68,0,6.0
+2023,Bahrain,Valtteri Bottas,Alfa Romeo Ferrari,12,0,0,15.75,0,2,0,14.428571428571429
+2023,Bahrain,Pierre Gasly,Alpine Renault,20,1,0,12.5,0,1,0,13.125
+2023,Bahrain,Alexander Albon,Williams Mercedes,15,0,0,12.333333333333334,0,0,0,14.0
+2023,Bahrain,Yuki Tsunoda,AlphaTauri Honda RBPT,14,6,0,11.75,0,6,0,12.857142857142858
+2023,Bahrain,Logan Sargeant,Williams Mercedes,16,0,0,15.25,0,1,0,13.5
+2023,Bahrain,Kevin Magnussen,Haas Ferrari,17,0,0,17.0,0,6,0,15.285714285714286
+2023,Bahrain,Nyck De Vries,AlphaTauri Honda RBPT,19,0,0,16.0,0,6,0,12.625
+2023,Bahrain,Nico Hulkenberg,Haas Ferrari,10,6,0,13.0,0,6,0,15.0
+2023,Bahrain,Guanyu Zhou,Alfa Romeo Ferrari,13,2,0,12.666666666666666,0,6,0,13.625
+2023,Bahrain,Lando Norris,McLaren Mercedes,11,32,0,6.0,0,44,0,8.125
+2023,Belgium,Max Verstappen,Red Bull Racing Honda RBPT,6,120,4,1.2,1,201,5,2.1
+2023,Belgium,Sergio Perez,Red Bull Racing Honda RBPT,2,81,1,3.0,0,226,6,2.0
+2023,Belgium,Charles Leclerc,Ferrari,1,51,0,2.3333333333333335,0,81,0,6.5
+2023,Belgium,Lewis Hamilton,Mercedes,3,42,0,6.0,0,74,0,6.111111111111111
+2023,Belgium,Fernando Alonso,Aston Martin Aramco Mercedes,9,58,0,4.4,0,87,0,5.8
+2023,Belgium,George Russell,Mercedes,8,32,0,6.25,0,87,0,5.9
+2023,Belgium,Lando Norris,McLaren Mercedes,7,32,0,8.2,0,44,0,9.11111111111111
+2023,Belgium,Esteban Ocon,Alpine Renault,14,0,0,13.75,0,3,0,12.666666666666666
+2023,Belgium,Lance Stroll,Aston Martin Aramco Mercedes,10,29,0,7.2,0,97,0,5.7272727272727275
+2023,Belgium,Yuki Tsunoda,AlphaTauri Honda RBPT,11,6,0,11.6,0,6,0,12.777777777777779
+2023,Belgium,Pierre Gasly,Alpine Renault,12,3,0,11.8,0,7,0,12.2
+2023,Belgium,Valtteri Bottas,Alfa Romeo Ferrari,13,4,0,14.2,0,6,0,13.88888888888889
+2023,Belgium,Guanyu Zhou,Alfa Romeo Ferrari,17,2,0,13.5,0,6,0,13.7
+2023,Belgium,Alexander Albon,Williams Mercedes,15,1,0,11.75,0,1,0,13.333333333333334
+2023,Belgium,Kevin Magnussen,Haas Ferrari,16,0,0,16.2,0,6,0,15.0
+2023,Belgium,Daniel Ricciardo,AlphaTauri Honda RBPT,19,0,0,11.0,0,7,0,12.5
+2023,Belgium,Logan Sargeant,Williams Mercedes,18,0,0,14.6,0,1,0,13.4
+2023,Belgium,Nico Hulkenberg,Haas Ferrari,20,6,0,13.5,0,6,0,15.0
+2023,Brazil,Max Verstappen,Red Bull Racing Honda RBPT,1,145,5,1.1666666666666667,1,244,6,2.0
+2023,Brazil,Lando Norris,McLaren Mercedes,6,38,0,8.0,0,50,0,8.9
+2023,Brazil,Fernando Alonso,Aston Martin Aramco Mercedes,4,68,0,4.5,0,99,0,6.0
+2023,Brazil,Sergio Perez,Red Bull Racing Honda RBPT,9,99,1,2.8333333333333335,0,269,7,1.9230769230769231
+2023,Brazil,Lance Stroll,Aston Martin Aramco Mercedes,3,31,0,7.5,0,114,0,5.769230769230769
+2023,Brazil,Carlos Sainz,Ferrari,7,30,0,9.0,0,96,0,6.111111111111111
+2023,Brazil,Pierre Gasly,Alpine Renault,15,3,0,11.666666666666666,0,7,0,12.090909090909092
+2023,Brazil,Lewis Hamilton,Mercedes,5,55,0,5.666666666666667,0,95,0,5.909090909090909
+2023,Brazil,Yuki Tsunoda,AlphaTauri Honda RBPT,16,7,0,11.333333333333334,0,7,0,12.818181818181818
+2023,Brazil,Esteban Ocon,Alpine Renault,14,4,0,12.6,0,13,0,11.666666666666666
+2023,Brazil,Logan Sargeant,Williams Mercedes,19,0,0,15.0,0,1,0,13.727272727272727
+2023,Brazil,Nico Hulkenberg,Haas Ferrari,11,6,0,14.4,0,6,0,15.272727272727273
+2023,Brazil,Daniel Ricciardo,AlphaTauri Honda RBPT,17,0,0,13.5,0,9,0,12.5
+2023,Brazil,Oscar Piastri,McLaren Mercedes,10,12,0,10.25,0,69,0,8.272727272727273
+2023,Canada,Max Verstappen,Red Bull Racing Honda RBPT,1,170,6,1.1428571428571428,1,281,7,2.0714285714285716
+2023,Canada,Fernando Alonso,Aston Martin Aramco Mercedes,2,83,0,4.285714285714286,0,124,0,5.714285714285714
+2023,Canada,Lewis Hamilton,Mercedes,3,59,0,6.0,0,99,0,6.083333333333333
+2023,Canada,Charles Leclerc,Ferrari,10,66,0,2.5,0,104,0,6.1
+2023,Canada,Carlos Sainz,Ferrari,11,38,0,8.5,0,116,0,5.909090909090909
+2023,Canada,Sergio Perez,Red Bull Racing Honda RBPT,12,111,1,3.0,0,306,8,2.0
+2023,Canada,Alexander Albon,Williams Mercedes,9,1,0,12.2,0,1,0,13.5
+2023,Canada,Esteban Ocon,Alpine Renault,6,5,0,12.166666666666666,0,14,0,11.538461538461538
+2023,Canada,Lance Stroll,Aston Martin Aramco Mercedes,16,41,0,7.142857142857143,0,142,0,5.466666666666667
+2023,Canada,Valtteri Bottas,Alfa Romeo Ferrari,14,4,0,13.833333333333334,0,6,0,13.636363636363637
+2023,Canada,Oscar Piastri,McLaren Mercedes,8,12,0,11.0,0,69,0,8.75
+2023,Canada,Pierre Gasly,Alpine Renault,15,9,0,11.0,0,18,0,11.285714285714286
+2023,Canada,Lando Norris,McLaren Mercedes,7,57,0,7.142857142857143,0,69,0,8.923076923076923
+2023,Canada,Yuki Tsunoda,AlphaTauri Honda RBPT,19,9,0,11.0,0,9,0,12.538461538461538
+2023,Canada,Nico Hulkenberg,Haas Ferrari,5,6,0,14.0,0,6,0,15.0
+2023,Canada,Guanyu Zhou,Alfa Romeo Ferrari,20,2,0,13.4,0,7,0,13.333333333333334
+2023,Canada,Kevin Magnussen,Haas Ferrari,13,0,0,16.0,0,6,0,15.0
+2023,Canada,Nyck De Vries,AlphaTauri Honda RBPT,17,0,0,15.333333333333334,0,9,0,12.642857142857142
+2023,Great Britain,Max Verstappen,Red Bull Racing Honda RBPT,1,195,7,1.125,1,315,8,2.25
+2023,Great Britain,Lando Norris,McLaren Mercedes,2,57,0,7.875,0,69,0,9.214285714285714
+2023,Great Britain,Lewis Hamilton,Mercedes,7,74,0,5.625,0,114,0,5.846153846153846
+2023,Great Britain,Oscar Piastri,McLaren Mercedes,3,12,0,11.0,0,87,0,8.733333333333333
+2023,Great Britain,George Russell,Mercedes,6,40,0,6.2,0,129,0,5.642857142857143
+2023,Great Britain,Sergio Perez,Red Bull Racing Honda RBPT,15,120,1,3.375,0,341,9,2.176470588235294
+2023,Great Britain,Fernando Alonso,Aston Martin Aramco Mercedes,9,101,0,4.0,0,144,0,5.6875
+2023,Great Britain,Alexander Albon,Williams Mercedes,8,7,0,11.333333333333334,0,7,0,13.0
+2023,Great Britain,Charles Leclerc,Ferrari,4,78,0,2.8,0,126,0,5.833333333333333
+2023,Great Britain,Carlos Sainz,Ferrari,5,48,0,8.0,0,128,0,6.076923076923077
+2023,Great Britain,Logan Sargeant,Williams Mercedes,14,0,0,14.428571428571429,0,11,0,12.642857142857142
+2023,Great Britain,Valtteri Bottas,Alfa Romeo Ferrari,20,5,0,13.285714285714286,0,7,0,13.538461538461538
+2023,Great Britain,Nico Hulkenberg,Haas Ferrari,11,6,0,14.142857142857142,0,6,0,15.142857142857142
+2023,Great Britain,Lance Stroll,Aston Martin Aramco Mercedes,12,43,0,7.375,0,150,0,5.764705882352941
+2023,Great Britain,Guanyu Zhou,Alfa Romeo Ferrari,17,2,0,13.833333333333334,0,7,0,13.428571428571429
+2023,Great Britain,Yuki Tsunoda,AlphaTauri Honda RBPT,16,9,0,11.375,0,9,0,13.0
+2023,Great Britain,Nyck De Vries,AlphaTauri Honda RBPT,18,0,0,16.0,0,9,0,13.1875
+2023,Great Britain,Pierre Gasly,Alpine Renault,10,9,0,11.125,0,18,0,11.333333333333334
+2023,Hungary,Max Verstappen,Red Bull Racing Honda RBPT,2,221,8,1.1111111111111112,1,349,9,2.388888888888889
+2023,Hungary,Lando Norris,McLaren Mercedes,3,75,0,7.222222222222222,0,99,0,8.4375
+2023,Hungary,Sergio Perez,Red Bull Racing Honda RBPT,9,128,1,3.6666666666666665,0,375,10,2.3157894736842106
+2023,Hungary,Lewis Hamilton,Mercedes,1,89,0,5.333333333333333,0,139,0,5.6
+2023,Hungary,Oscar Piastri,McLaren Mercedes,4,24,0,10.0,0,117,0,8.058823529411764
+2023,Hungary,George Russell,Mercedes,18,50,0,6.0,0,151,0,5.5
+2023,Hungary,Charles Leclerc,Ferrari,6,80,0,3.8333333333333335,0,129,0,6.357142857142857
+2023,Hungary,Carlos Sainz,Ferrari,11,49,0,8.25,0,135,0,6.4
+2023,Hungary,Fernando Alonso,Aston Martin Aramco Mercedes,8,107,0,4.333333333333333,0,150,0,6.222222222222222
+2023,Hungary,Lance Stroll,Aston Martin Aramco Mercedes,14,43,0,8.11111111111111,0,152,0,6.368421052631579
+2023,Hungary,Alexander Albon,Williams Mercedes,16,11,0,10.857142857142858,0,11,0,12.533333333333333
+2023,Hungary,Valtteri Bottas,Alfa Romeo Ferrari,7,5,0,13.125,0,7,0,13.533333333333333
+2023,Hungary,Daniel Ricciardo,AlphaTauri Honda RBPT,13,0,0,13.333333333333334,0,9,0,13.411764705882353
+2023,Hungary,Nico Hulkenberg,Haas Ferrari,10,6,0,14.0,0,6,0,15.0
+2023,Hungary,Yuki Tsunoda,AlphaTauri Honda RBPT,17,9,0,11.88888888888889,0,9,0,13.38888888888889
+2023,Hungary,Guanyu Zhou,Alfa Romeo Ferrari,5,2,0,14.0,0,7,0,13.4375
+2023,Hungary,Kevin Magnussen,Haas Ferrari,19,0,0,16.142857142857142,0,6,0,14.9375
+2023,Hungary,Logan Sargeant,Williams Mercedes,20,0,0,14.0,0,11,0,12.4375
+2023,Italy,Max Verstappen,Red Bull Racing Honda RBPT,2,247,9,1.1,1,390,10,2.35
+2023,Italy,Sergio Perez,Red Bull Racing Honda RBPT,5,143,1,3.6,0,415,11,2.2857142857142856
+2023,Italy,Carlos Sainz,Ferrari,1,53,0,8.222222222222221,0,139,0,6.5
+2023,Italy,Charles Leclerc,Ferrari,3,86,0,4.285714285714286,0,154,0,6.294117647058823
+2023,Italy,George Russell,Mercedes,4,58,0,6.0,0,159,0,5.529411764705882
+2023,Italy,Lewis Hamilton,Mercedes,8,101,0,5.2,0,169,0,5.5
+2023,Italy,Alexander Albon,Williams Mercedes,6,11,0,10.875,0,11,0,12.764705882352942
+2023,Italy,Lando Norris,McLaren Mercedes,9,93,0,6.7,0,127,0,7.888888888888889
+2023,Italy,Fernando Alonso,Aston Martin Aramco Mercedes,10,109,0,4.8,0,153,0,6.55
+2023,Italy,Valtteri Bottas,Alfa Romeo Ferrari,14,5,0,13.0,0,7,0,13.588235294117647
+2023,Italy,Liam Lawson,AlphaTauri Honda RBPT,12,0,0,4.9,0,9,0,13.473684210526315
+2023,Italy,Oscar Piastri,McLaren Mercedes,7,34,0,9.375,0,131,0,7.894736842105263
+2023,Italy,Logan Sargeant,Williams Mercedes,15,0,0,14.444444444444445,0,17,0,12.444444444444445
+2023,Italy,Guanyu Zhou,Alfa Romeo Ferrari,16,2,0,14.25,0,8,0,13.38888888888889
+2023,Italy,Pierre Gasly,Alpine Renault,17,9,0,11.88888888888889,0,18,0,11.75
+2023,Italy,Lance Stroll,Aston Martin Aramco Mercedes,20,44,0,8.3,0,155,0,6.666666666666667
+2023,Italy,Nico Hulkenberg,Haas Ferrari,13,6,0,14.0,0,6,0,15.058823529411764
+2023,Italy,Kevin Magnussen,Haas Ferrari,19,0,0,16.25,0,6,0,15.166666666666666
+2023,Japan,Max Verstappen,Red Bull Racing Honda RBPT,1,272,10,1.0909090909090908,1,433,11,2.272727272727273
+2023,Japan,Lando Norris,McLaren Mercedes,3,97,0,6.818181818181818,0,131,0,8.1
+2023,Japan,Oscar Piastri,McLaren Mercedes,2,34,0,9.666666666666666,0,149,0,7.809523809523809
+2023,Japan,Charles Leclerc,Ferrari,4,98,0,4.25,0,166,0,6.166666666666667
+2023,Japan,Lewis Hamilton,Mercedes,7,109,0,5.2727272727272725,0,177,0,5.526315789473684
+2023,Japan,Carlos Sainz,Ferrari,6,68,0,7.7,0,178,0,6.052631578947368
+2023,Japan,George Russell,Mercedes,8,68,0,5.875,0,187,0,5.5
+2023,Japan,Fernando Alonso,Aston Martin Aramco Mercedes,10,111,0,5.181818181818182,0,155,0,7.090909090909091
+2023,Japan,Esteban Ocon,Alpine Renault,14,9,0,11.571428571428571,0,18,0,11.941176470588236
+2023,Japan,Pierre Gasly,Alpine Renault,12,9,0,12.2,0,20,0,11.777777777777779
+2023,Japan,Liam Lawson,AlphaTauri Honda RBPT,11,0,0,11.0,0,9,0,13.35
+2023,Japan,Yuki Tsunoda,AlphaTauri Honda RBPT,9,9,0,12.2,0,9,0,13.238095238095237
+2023,Japan,Guanyu Zhou,Alfa Romeo Ferrari,19,2,0,14.222222222222221,0,8,0,13.421052631578947
+2023,Japan,Nico Hulkenberg,Haas Ferrari,18,6,0,14.3,0,6,0,15.31578947368421
+2023,Japan,Kevin Magnussen,Haas Ferrari,15,0,0,16.444444444444443,0,6,0,15.25
+2023,Las Vegas,Max Verstappen,Red Bull Racing Honda RBPT,2,298,11,1.0833333333333333,1,459,12,2.217391304347826
+2023,Las Vegas,Charles Leclerc,Ferrari,1,110,0,4.222222222222222,0,186,0,6.05
+2023,Las Vegas,Sergio Perez,Red Bull Racing Honda RBPT,11,161,1,3.4545454545454546,0,484,13,2.1666666666666665
+2023,Las Vegas,Esteban Ocon,Alpine Renault,16,11,0,11.25,0,21,0,11.68421052631579
+2023,Las Vegas,Lance Stroll,Aston Martin Aramco Mercedes,19,44,0,9.0,0,159,0,7.130434782608695
+2023,Las Vegas,Carlos Sainz,Ferrari,12,76,0,7.545454545454546,0,204,0,5.857142857142857
+2023,Las Vegas,Lewis Hamilton,Mercedes,10,119,0,5.25,0,193,0,5.571428571428571
+2023,Las Vegas,George Russell,Mercedes,3,74,0,6.0,0,199,0,5.636363636363637
+2023,Las Vegas,Fernando Alonso,Aston Martin Aramco Mercedes,9,115,0,5.416666666666667,0,169,0,7.041666666666667
+2023,Las Vegas,Oscar Piastri,McLaren Mercedes,18,49,0,9.0,0,164,0,7.590909090909091
+2023,Las Vegas,Pierre Gasly,Alpine Renault,4,10,0,12.0,0,33,0,11.3
+2023,Las Vegas,Alexander Albon,Williams Mercedes,5,17,0,10.444444444444445,0,17,0,12.473684210526315
+2023,Las Vegas,Kevin Magnussen,Haas Ferrari,8,0,0,16.3,0,6,0,15.238095238095237
+2023,Las Vegas,Daniel Ricciardo,AlphaTauri Honda RBPT,14,0,0,13.25,0,9,0,13.181818181818182
+2023,Las Vegas,Guanyu Zhou,Alfa Romeo Ferrari,17,2,0,14.1,0,8,0,13.4
+2023,Las Vegas,Logan Sargeant,Williams Mercedes,6,0,0,14.3,0,17,0,12.45
+2023,Las Vegas,Valtteri Bottas,Alfa Romeo Ferrari,7,6,0,12.7,0,8,0,13.476190476190476
+2023,Las Vegas,Yuki Tsunoda,AlphaTauri Honda RBPT,20,9,0,12.181818181818182,0,9,0,13.217391304347826
+2023,Las Vegas,Nico Hulkenberg,Haas Ferrari,13,6,0,14.272727272727273,0,6,0,15.136363636363637
+2023,Mexico,Max Verstappen,Red Bull Racing Honda RBPT,3,323,12,1.0769230769230769,1,499,13,2.2
+2023,Mexico,Lewis Hamilton,Mercedes,6,125,0,5.384615384615385,0,203,0,5.739130434782608
+2023,Mexico,Charles Leclerc,Ferrari,1,128,0,4.0,0,212,0,5.863636363636363
+2023,Mexico,Carlos Sainz,Ferrari,2,84,0,7.416666666666667,0,227,0,5.739130434782608
+2023,Mexico,Lando Norris,McLaren Mercedes,17,115,0,6.416666666666667,0,166,0,7.695652173913044
+2023,Mexico,George Russell,Mercedes,8,78,0,6.2,0,222,0,5.583333333333333
+2023,Mexico,Daniel Ricciardo,AlphaTauri Honda RBPT,4,0,0,13.4,0,9,0,13.416666666666666
+2023,Mexico,Oscar Piastri,McLaren Mercedes,7,51,0,9.090909090909092,0,176,0,7.583333333333333
+2023,Mexico,Alexander Albon,Williams Mercedes,14,17,0,10.6,0,17,0,12.619047619047619
+2023,Mexico,Esteban Ocon,Alpine Renault,15,23,0,10.444444444444445,0,33,0,11.285714285714286
+2023,Mexico,Pierre Gasly,Alpine Renault,11,10,0,11.916666666666666,0,34,0,11.227272727272727
+2023,Mexico,Yuki Tsunoda,AlphaTauri Honda RBPT,18,9,0,12.666666666666666,0,15,0,13.16
+2023,Mexico,Nico Hulkenberg,Haas Ferrari,12,6,0,14.666666666666666,0,6,0,15.304347826086957
+2023,Mexico,Guanyu Zhou,Alfa Romeo Ferrari,10,2,0,14.181818181818182,0,8,0,13.636363636363637
+2023,Mexico,Valtteri Bottas,Alfa Romeo Ferrari,9,6,0,13.090909090909092,0,8,0,13.652173913043478
+2023,Mexico,Logan Sargeant,Williams Mercedes,19,0,0,14.454545454545455,0,19,0,12.454545454545455
+2023,Mexico,Lance Stroll,Aston Martin Aramco Mercedes,20,54,0,8.666666666666666,0,171,0,7.12
+2023,Miami,Max Verstappen,Red Bull Racing Honda RBPT,9,348,13,1.0714285714285714,1,524,14,2.1538461538461537
+2023,Miami,Sergio Perez,Red Bull Racing Honda RBPT,1,176,1,3.4166666666666665,0,550,15,2.111111111111111
+2023,Miami,Fernando Alonso,Aston Martin Aramco Mercedes,2,117,0,5.6923076923076925,0,171,0,7.5
+2023,Miami,George Russell,Mercedes,6,86,0,6.181818181818182,0,230,0,5.6
+2023,Miami,Carlos Sainz,Ferrari,3,96,0,7.153846153846154,0,239,0,5.666666666666667
+2023,Miami,Lewis Hamilton,Mercedes,13,144,0,5.142857142857143,0,242,0,5.538461538461538
+2023,Miami,Charles Leclerc,Ferrari,7,143,0,3.909090909090909,0,249,0,5.64
+2023,Miami,Pierre Gasly,Alpine Renault,5,10,0,11.846153846153847,0,34,0,11.217391304347826
+2023,Miami,Esteban Ocon,Alpine Renault,8,24,0,10.4,0,38,0,11.083333333333334
+2023,Miami,Kevin Magnussen,Haas Ferrari,4,0,0,16.0,0,6,0,15.208333333333334
+2023,Miami,Yuki Tsunoda,AlphaTauri Honda RBPT,17,9,0,12.615384615384615,0,15,0,13.115384615384615
+2023,Miami,Lance Stroll,Aston Martin Aramco Mercedes,18,54,0,9.307692307692308,0,186,0,7.333333333333333
+2023,Miami,Valtteri Bottas,Alfa Romeo Ferrari,10,6,0,13.25,0,8,0,13.708333333333334
+2023,Miami,Alexander Albon,Williams Mercedes,11,19,0,10.454545454545455,0,19,0,12.608695652173912
+2023,Miami,Nico Hulkenberg,Haas Ferrari,12,6,0,14.538461538461538,0,7,0,15.0
+2023,Miami,Guanyu Zhou,Alfa Romeo Ferrari,14,2,0,14.166666666666666,0,8,0,13.68
+2023,Miami,Lando Norris,McLaren Mercedes,16,125,0,6.3076923076923075,0,180,0,7.6
+2023,Miami,Nyck De Vries,AlphaTauri Honda RBPT,15,0,0,16.2,0,15,0,13.037037037037036
+2023,Miami,Oscar Piastri,McLaren Mercedes,19,55,0,9.0,0,180,0,7.961538461538462
+2023,Miami,Logan Sargeant,Williams Mercedes,20,0,0,14.583333333333334,0,19,0,12.666666666666666
+2023,Monaco,Max Verstappen,Red Bull Racing Honda RBPT,1,374,14,1.0666666666666667,1,568,15,2.107142857142857
+2023,Monaco,Fernando Alonso,Aston Martin Aramco Mercedes,2,132,0,5.5,0,186,0,7.5
+2023,Monaco,Esteban Ocon,Alpine Renault,3,26,0,10.272727272727273,0,40,0,11.0
+2023,Monaco,Lewis Hamilton,Mercedes,5,152,0,5.2,0,250,0,5.555555555555555
+2023,Monaco,George Russell,Mercedes,8,98,0,6.0,0,263,0,5.5
+2023,Monaco,Charles Leclerc,Ferrari,6,149,0,4.166666666666667,0,255,0,5.6923076923076925
+2023,Monaco,Pierre Gasly,Alpine Renault,7,14,0,11.571428571428571,0,55,0,10.692307692307692
+2023,Monaco,Carlos Sainz,Ferrari,4,106,0,7.0,0,263,0,5.703703703703703
+2023,Monaco,Lando Norris,McLaren Mercedes,10,125,0,7.071428571428571,0,180,0,8.37037037037037
+2023,Monaco,Oscar Piastri,McLaren Mercedes,11,55,0,9.76923076923077,0,182,0,8.392857142857142
+2023,Monaco,Valtteri Bottas,Alfa Romeo Ferrari,15,6,0,13.23076923076923,0,8,0,13.76923076923077
+2023,Monaco,Nyck De Vries,AlphaTauri Honda RBPT,12,0,0,16.5,0,15,0,13.214285714285714
+2023,Monaco,Guanyu Zhou,Alfa Romeo Ferrari,19,2,0,14.307692307692308,0,8,0,13.666666666666666
+2023,Monaco,Alexander Albon,Williams Mercedes,13,19,0,10.75,0,19,0,12.96
+2023,Monaco,Yuki Tsunoda,AlphaTauri Honda RBPT,9,9,0,12.5,0,15,0,13.172413793103448
+2023,Monaco,Sergio Perez,Red Bull Racing Honda RBPT,20,194,1,3.3076923076923075,0,593,16,2.0689655172413794
+2023,Monaco,Nico Hulkenberg,Haas Ferrari,18,6,0,14.571428571428571,0,7,0,15.0
+2023,Monaco,Logan Sargeant,Williams Mercedes,16,0,0,15.0,0,19,0,13.0
+2023,Monaco,Kevin Magnussen,Haas Ferrari,17,1,0,15.5,0,7,0,15.074074074074074
+2023,Netherlands,Max Verstappen,Red Bull Racing Honda RBPT,1,399,15,1.0625,1,593,16,2.533333333333333
+2023,Netherlands,Fernando Alonso,Aston Martin Aramco Mercedes,5,150,0,5.266666666666667,0,204,0,7.310344827586207
+2023,Netherlands,Pierre Gasly,Alpine Renault,12,20,0,11.266666666666667,0,61,0,10.555555555555555
+2023,Netherlands,Sergio Perez,Red Bull Racing Honda RBPT,7,194,1,4.214285714285714,0,618,17,2.4838709677419355
+2023,Netherlands,Carlos Sainz,Ferrari,6,110,0,7.066666666666666,0,267,0,5.785714285714286
+2023,Netherlands,Lewis Hamilton,Mercedes,13,165,0,5.125,0,273,0,5.482758620689655
+2023,Netherlands,Lando Norris,McLaren Mercedes,2,127,0,7.2,0,183,0,8.448275862068966
+2023,Netherlands,Alexander Albon,Williams Mercedes,4,19,0,11.0,0,19,0,13.185185185185185
+2023,Netherlands,Oscar Piastri,McLaren Mercedes,8,56,0,9.785714285714286,0,189,0,8.4
+2023,Netherlands,Esteban Ocon,Alpine Renault,16,41,0,9.666666666666666,0,76,0,10.285714285714286
+2023,Netherlands,Lance Stroll,Aston Martin Aramco Mercedes,11,54,0,9.5,0,223,0,7.133333333333334
+2023,Netherlands,Nico Hulkenberg,Haas Ferrari,14,6,0,14.733333333333333,0,7,0,15.214285714285714
+2023,Netherlands,Liam Lawson,AlphaTauri Honda RBPT,19,0,0,11.0,0,15,0,13.233333333333333
+2023,Netherlands,Valtteri Bottas,Alfa Romeo Ferrari,18,6,0,13.071428571428571,0,8,0,13.642857142857142
+2023,Netherlands,Yuki Tsunoda,AlphaTauri Honda RBPT,17,9,0,12.666666666666666,0,15,0,13.225806451612904
+2023,Netherlands,Kevin Magnussen,Haas Ferrari,20,1,0,15.76923076923077,0,7,0,15.10344827586207
+2023,Netherlands,George Russell,Mercedes,3,108,0,5.923076923076923,0,281,0,5.5
+2023,Qatar,Max Verstappen,Red Bull Racing Honda RBPT,1,424,16,1.0588235294117647,1,630,17,2.53125
+2023,Qatar,Oscar Piastri,McLaren Mercedes,6,58,0,9.733333333333333,0,191,0,8.419354838709678
+2023,Qatar,Lando Norris,McLaren Mercedes,10,133,0,7.1875,0,209,0,8.21875
+2023,Qatar,George Russell,Mercedes,2,108,0,6.714285714285714,0,281,0,5.870967741935484
+2023,Qatar,Charles Leclerc,Ferrari,5,157,0,4.3076923076923075,0,277,0,5.758620689655173
+2023,Qatar,Fernando Alonso,Aston Martin Aramco Mercedes,4,169,0,5.0625,0,223,0,7.258064516129032
+2023,Qatar,Esteban Ocon,Alpine Renault,8,42,0,9.692307692307692,0,77,0,10.275862068965518
+2023,Qatar,Valtteri Bottas,Alfa Romeo Ferrari,9,6,0,13.133333333333333,0,8,0,13.655172413793103
+2023,Qatar,Guanyu Zhou,Alfa Romeo Ferrari,19,2,0,14.214285714285714,0,12,0,13.466666666666667
+2023,Qatar,Sergio Perez,Red Bull Racing Honda RBPT,20,206,1,4.2,0,656,18,2.484848484848485
+2023,Qatar,Lance Stroll,Aston Martin Aramco Mercedes,16,54,0,9.6,0,231,0,7.21875
+2023,Qatar,Pierre Gasly,Alpine Renault,7,35,0,10.75,0,83,0,10.166666666666666
+2023,Qatar,Alexander Albon,Williams Mercedes,13,23,0,10.785714285714286,0,23,0,13.0
+2023,Qatar,Kevin Magnussen,Haas Ferrari,18,1,0,15.785714285714286,0,7,0,15.133333333333333
+2023,Qatar,Yuki Tsunoda,AlphaTauri Honda RBPT,11,9,0,12.8125,0,15,0,13.28125
+2023,Qatar,Nico Hulkenberg,Haas Ferrari,14,6,0,14.5625,0,7,0,15.096774193548388
+2023,Qatar,Liam Lawson,AlphaTauri Honda RBPT,17,0,0,11.666666666666666,0,15,0,13.333333333333334
+2023,Saudi Arabia,Sergio Perez,Red Bull Racing Honda RBPT,1,207,1,4.5625,1,657,18,2.7058823529411766
+2023,Saudi Arabia,Max Verstappen,Red Bull Racing Honda RBPT,15,450,17,1.0555555555555556,0,682,19,2.657142857142857
+2023,Saudi Arabia,Fernando Alonso,Aston Martin Aramco Mercedes,2,177,0,5.117647058823529,0,231,0,7.333333333333333
+2023,Saudi Arabia,George Russell,Mercedes,3,120,0,6.533333333333333,0,293,0,5.8125
+2023,Saudi Arabia,Lewis Hamilton,Mercedes,7,173,0,5.176470588235294,0,305,0,5.757575757575758
+2023,Saudi Arabia,Carlos Sainz,Ferrari,4,120,0,6.9375,0,287,0,5.733333333333333
+2023,Saudi Arabia,Charles Leclerc,Ferrari,12,167,0,4.357142857142857,0,295,0,5.741935483870968
+2023,Saudi Arabia,Esteban Ocon,Alpine Renault,6,48,0,9.5,0,83,0,10.225806451612904
+2023,Saudi Arabia,Pierre Gasly,Alpine Renault,9,35,0,10.823529411764707,0,87,0,10.15625
+2023,Saudi Arabia,Kevin Magnussen,Haas Ferrari,13,1,0,15.666666666666666,0,7,0,15.125
+2023,Saudi Arabia,Yuki Tsunoda,AlphaTauri Honda RBPT,16,9,0,12.941176470588236,0,15,0,13.441176470588236
+2023,Saudi Arabia,Nico Hulkenberg,Haas Ferrari,10,6,0,14.647058823529411,0,8,0,14.969696969696969
+2023,Saudi Arabia,Guanyu Zhou,Alfa Romeo Ferrari,11,4,0,13.866666666666667,0,14,0,13.32258064516129
+2023,Saudi Arabia,Nyck De Vries,AlphaTauri Honda RBPT,18,0,0,15.857142857142858,0,15,0,13.371428571428572
+2023,Saudi Arabia,Oscar Piastri,McLaren Mercedes,8,76,0,9.25,0,224,0,8.06060606060606
+2023,Saudi Arabia,Logan Sargeant,Williams Mercedes,20,0,0,15.214285714285714,0,23,0,13.0
+2023,Saudi Arabia,Lando Norris,McLaren Mercedes,19,148,0,6.9411764705882355,0,224,0,8.264705882352942
+2023,Saudi Arabia,Valtteri Bottas,Alfa Romeo Ferrari,14,10,0,12.8125,0,14,0,13.3125
+2023,Singapore,Carlos Sainz,Ferrari,1,128,0,6.882352941176471,1,301,0,5.78125
+2023,Singapore,Lando Norris,McLaren Mercedes,4,148,0,7.5,0,224,0,8.514285714285714
+2023,Singapore,Lewis Hamilton,Mercedes,5,183,0,5.166666666666667,0,315,0,5.735294117647059
+2023,Singapore,Charles Leclerc,Ferrari,3,173,0,4.533333333333333,0,326,1,5.636363636363637
+2023,Singapore,Max Verstappen,Red Bull Racing Honda RBPT,11,469,17,1.105263157894737,0,701,19,2.638888888888889
+2023,Singapore,Pierre Gasly,Alpine Renault,12,37,0,10.722222222222221,0,89,0,10.121212121212121
+2023,Singapore,Oscar Piastri,McLaren Mercedes,17,76,0,9.588235294117647,0,242,0,8.333333333333334
+2023,Singapore,Sergio Perez,Red Bull Racing Honda RBPT,13,232,2,4.352941176470588,0,711,19,2.7027027027027026
+2023,Singapore,Liam Lawson,AlphaTauri Honda RBPT,10,0,0,13.0,0,15,0,13.38888888888889
+2023,Singapore,Kevin Magnussen,Haas Ferrari,6,2,0,15.3125,0,8,0,14.882352941176471
+2023,Singapore,Alexander Albon,Williams Mercedes,14,23,0,10.933333333333334,0,23,0,13.1
+2023,Singapore,Guanyu Zhou,Alfa Romeo Ferrari,19,4,0,13.8125,0,14,0,13.454545454545455
+2023,Singapore,Nico Hulkenberg,Haas Ferrari,9,6,0,14.5,0,9,0,14.742857142857142
+2023,Singapore,Logan Sargeant,Williams Mercedes,18,0,0,15.266666666666667,0,23,0,13.03225806451613
+2023,Singapore,Fernando Alonso,Aston Martin Aramco Mercedes,7,192,0,5.0,0,246,0,7.205882352941177
+2023,Singapore,George Russell,Mercedes,2,132,0,6.375,0,331,0,5.6571428571428575
+2023,Spain,Max Verstappen,Red Bull Racing Honda RBPT,1,479,17,1.3,1,715,19,2.8421052631578947
+2023,Spain,Lewis Hamilton,Mercedes,4,199,0,5.052631578947368,0,331,0,5.944444444444445
+2023,Spain,George Russell,Mercedes,12,132,0,6.9411764705882355,0,349,0,5.837837837837838
+2023,Spain,Sergio Perez,Red Bull Racing Honda RBPT,11,236,2,4.555555555555555,0,741,20,2.7948717948717947
+2023,Spain,Carlos Sainz,Ferrari,2,153,1,6.555555555555555,0,338,1,5.588235294117647
+2023,Spain,Lance Stroll,Aston Martin Aramco Mercedes,5,54,0,9.6875,0,246,0,7.428571428571429
+2023,Spain,Fernando Alonso,Aston Martin Aramco Mercedes,8,192,0,5.526315789473684,0,254,0,7.388888888888889
+2023,Spain,Esteban Ocon,Alpine Renault,6,52,0,9.4,0,97,0,10.0
+2023,Spain,Guanyu Zhou,Alfa Romeo Ferrari,13,4,0,13.705882352941176,0,14,0,13.411764705882353
+2023,Spain,Pierre Gasly,Alpine Renault,10,45,0,10.473684210526315,0,101,0,9.942857142857143
+2023,Spain,Charles Leclerc,Ferrari,19,185,0,4.5,0,348,1,5.571428571428571
+2023,Spain,Yuki Tsunoda,AlphaTauri Honda RBPT,15,9,0,12.833333333333334,0,17,0,13.27027027027027
+2023,Spain,Oscar Piastri,McLaren Mercedes,9,82,0,9.444444444444445,0,248,0,8.297297297297296
+2023,Spain,Nyck De Vries,AlphaTauri Honda RBPT,14,0,0,15.625,0,17,0,13.236842105263158
+2023,Spain,Nico Hulkenberg,Haas Ferrari,7,6,0,14.421052631578947,0,9,0,14.694444444444445
+2023,Spain,Alexander Albon,Williams Mercedes,18,23,0,10.9375,0,23,0,13.0625
+2023,Spain,Lando Norris,McLaren Mercedes,3,166,0,7.2105263157894735,0,248,0,8.421052631578947
+2023,Spain,Kevin Magnussen,Haas Ferrari,17,3,0,15.0,0,9,0,14.702702702702704
+2023,Spain,Valtteri Bottas,Alfa Romeo Ferrari,16,10,0,13.117647058823529,0,16,0,13.285714285714286
+2023,Spain,Logan Sargeant,Williams Mercedes,20,0,0,15.1875,0,23,0,13.151515151515152
+2023,United States,Max Verstappen,Red Bull Racing Honda RBPT,6,505,18,1.2857142857142858,1,753,20,2.825
+2023,United States,Lando Norris,McLaren Mercedes,2,166,0,7.7,0,248,0,8.64102564102564
+2023,United States,Carlos Sainz,Ferrari,4,163,1,6.473684210526316,0,348,1,5.722222222222222
+2023,United States,Sergio Perez,Red Bull Racing Honda RBPT,9,248,2,4.526315789473684,0,778,21,2.7804878048780486
+2023,United States,George Russell,Mercedes,5,147,0,6.722222222222222,0,364,0,5.7631578947368425
+2023,United States,Pierre Gasly,Alpine Renault,7,46,0,10.45,0,102,0,9.944444444444445
+2023,United States,Lance Stroll,Aston Martin Aramco Mercedes,20,62,0,9.470588235294118,0,260,0,7.378378378378378
+2023,United States,Yuki Tsunoda,AlphaTauri Honda RBPT,11,9,0,12.789473684210526,0,17,0,13.256410256410257
+2023,United States,Alexander Albon,Williams Mercedes,15,23,0,11.235294117647058,0,23,0,13.352941176470589
+2023,United States,Logan Sargeant,Williams Mercedes,16,0,0,15.470588235294118,0,25,0,13.228571428571428
+2023,United States,Nico Hulkenberg,Haas Ferrari,18,6,0,14.45,0,9,0,14.789473684210526
+2023,United States,Valtteri Bottas,Alfa Romeo Ferrari,13,10,0,13.444444444444445,0,16,0,13.444444444444445
+2023,United States,Guanyu Zhou,Alfa Romeo Ferrari,12,6,0,13.444444444444445,0,16,0,13.405405405405405
+2023,United States,Kevin Magnussen,Haas Ferrari,17,3,0,15.166666666666666,0,9,0,14.692307692307692
+2023,United States,Daniel Ricciardo,AlphaTauri Honda RBPT,14,6,0,12.333333333333334,0,22,0,13.125
+2024,Abu Dhabi,Lando Norris,McLaren Mercedes,1,0,0,12.619047619047619,1,0,0,15.386363636363637
+2024,Abu Dhabi,Carlos Sainz,Ferrari,3,0,0,12.705882352941176,0,0,0,11.159090909090908
+2024,Abu Dhabi,Charles Leclerc,Ferrari,19,0,0,4.714285714285714,0,18,0,2.0
+2024,Abu Dhabi,Lewis Hamilton,Mercedes,16,0,0,4.291666666666667,0,0,0,4.708333333333333
+2024,Abu Dhabi,George Russell,Mercedes,6,0,0,11.166666666666666,0,12,0,4.0
+2024,Abu Dhabi,Max Verstappen,Red Bull Racing Honda RBPT,4,0,0,16.666666666666668,0,0,0,12.428571428571429
+2024,Abu Dhabi,Pierre Gasly,Alpine Renault,5,0,0,5.125,0,0,0,13.13888888888889
+2024,Abu Dhabi,Nico Hulkenberg,Haas Ferrari,7,0,0,2.9565217391304346,0,0,0,4.355555555555555
+2024,Abu Dhabi,Fernando Alonso,Aston Martin Aramco Mercedes,8,0,0,13.238095238095237,0,0,0,12.428571428571429
+2024,Abu Dhabi,Oscar Piastri,McLaren Mercedes,2,0,0,9.666666666666666,0,25,1,1.0
+2024,Abu Dhabi,Alexander Albon,Williams Mercedes,18,0,0,12.55,0,0,0,5.255813953488372
+2024,Abu Dhabi,Yuki Tsunoda,RB Honda RBPT,11,0,0,15.545454545454545,0,0,0,5.7272727272727275
+2024,Abu Dhabi,Guanyu Zhou,Kick Sauber Ferrari,15,0,0,5.590909090909091,0,0,0,11.818181818181818
+2024,Abu Dhabi,Lance Stroll,Aston Martin Aramco Mercedes,13,0,0,13.047619047619047,0,2,0,9.0
+2024,Abu Dhabi,Jack Doohan,Alpine Renault,17,0,0,15.227272727272727,0,6,0,7.0
+2024,Abu Dhabi,Kevin Magnussen,Haas Ferrari,14,0,0,15.0,0,4,0,8.0
+2024,Abu Dhabi,Liam Lawson,RB Honda RBPT,12,0,0,5.863636363636363,0,0,0,12.0
+2024,Australia,Carlos Sainz,Ferrari,2,18,0,2.0,1,33,0,2.5
+2024,Australia,Charles Leclerc,Ferrari,4,15,0,3.0,0,58,1,2.0
+2024,Australia,Lando Norris,McLaren Mercedes,3,25,1,1.0,0,26,1,5.5
+2024,Australia,Oscar Piastri,McLaren Mercedes,5,1,0,10.0,0,41,1,4.666666666666667
+2024,Australia,Sergio Perez,Red Bull Racing Honda RBPT,6,0,0,11.45,0,8,0,6.0
+2024,Australia,Lance Stroll,Aston Martin Aramco Mercedes,9,0,0,14.0,0,2,0,11.5
+2024,Australia,Yuki Tsunoda,RB Honda RBPT,8,0,0,12.0,0,0,0,14.5
+2024,Australia,Fernando Alonso,Aston Martin Aramco Mercedes,10,2,0,9.0,0,10,0,9.666666666666666
+2024,Australia,Nico Hulkenberg,Haas Ferrari,16,4,0,8.0,0,4,0,12.0
+2024,Australia,Kevin Magnussen,Haas Ferrari,14,0,0,16.0,0,6,0,11.0
+2024,Australia,Alexander Albon,Williams Mercedes,12,0,0,11.0,0,0,0,11.0
+2024,Australia,Daniel Ricciardo,RB Honda RBPT,18,0,0,3.9130434782608696,0,6,0,12.0
+2024,Australia,Pierre Gasly,Alpine Renault,17,6,0,7.0,0,6,0,11.0
+2024,Australia,Valtteri Bottas,Kick Sauber Ferrari,13,0,0,7.9,0,0,0,13.0
+2024,Australia,Guanyu Zhou,Kick Sauber Ferrari,19,0,0,13.0,0,0,0,13.5
+2024,Australia,Esteban Ocon,Alpine Renault,15,0,0,12.75,0,6,0,11.666666666666666
+2024,Australia,George Russell,Mercedes,7,10,0,5.0,0,22,0,4.5
+2024,Austria,George Russell,Mercedes,3,10,0,11.0,1,22,0,8.666666666666666
+2024,Austria,Oscar Piastri,McLaren Mercedes,7,13,0,7.0,0,53,1,4.5
+2024,Austria,Carlos Sainz,Ferrari,4,43,1,1.5,0,77,1,2.0
+2024,Austria,Lewis Hamilton,Mercedes,5,12,0,4.0,0,47,1,6.75
+2024,Austria,Max Verstappen,Red Bull Racing Honda RBPT,1,8,0,6.0,0,18,0,5.5
+2024,Austria,Nico Hulkenberg,Haas Ferrari,9,6,0,8.5,0,7,0,10.75
+2024,Austria,Sergio Perez,Red Bull Racing Honda RBPT,8,10,0,5.0,0,28,0,5.333333333333333
+2024,Austria,Kevin Magnussen,Haas Ferrari,12,1,0,13.0,0,15,0,9.8
+2024,Austria,Daniel Ricciardo,RB Honda RBPT,11,0,0,12.0,0,6,0,12.0
+2024,Austria,Pierre Gasly,Alpine Renault,13,6,0,10.0,0,6,0,12.75
+2024,Austria,Charles Leclerc,Ferrari,6,34,0,2.5,0,92,1,2.2
+2024,Austria,Esteban Ocon,Alpine Renault,10,0,0,16.0,0,7,0,12.2
+2024,Austria,Lance Stroll,Aston Martin Aramco Mercedes,17,8,0,10.0,0,14,0,9.25
+2024,Austria,Yuki Tsunoda,RB Honda RBPT,14,6,0,9.5,0,8,0,11.4
+2024,Austria,Alexander Albon,Williams Mercedes,16,0,0,11.0,0,0,0,11.0
+2024,Austria,Valtteri Bottas,Kick Sauber Ferrari,18,0,0,14.0,0,0,0,14.0
+2024,Austria,Guanyu Zhou,Kick Sauber Ferrari,20,0,0,14.0,0,0,0,14.5
+2024,Austria,Fernando Alonso,Aston Martin Aramco Mercedes,15,6,0,8.5,0,14,0,10.0
+2024,Austria,Logan Sargeant,Williams Mercedes,19,0,0,13.5,0,0,0,12.333333333333334
+2024,Austria,Lando Norris,McLaren Mercedes,2,40,1,2.0,0,71,1,4.0
+2024,Azerbaijan,Oscar Piastri,McLaren Mercedes,2,31,0,5.333333333333333,1,71,1,6.666666666666667
+2024,Azerbaijan,Charles Leclerc,Ferrari,1,34,0,5.333333333333333,0,92,1,3.6666666666666665
+2024,Azerbaijan,George Russell,Mercedes,5,35,1,7.666666666666667,0,59,1,6.2
+2024,Azerbaijan,Lando Norris,McLaren Mercedes,15,40,1,8.0,0,96,2,5.857142857142857
+2024,Azerbaijan,Max Verstappen,Red Bull Racing Honda RBPT,6,18,0,5.5,0,34,0,5.75
+2024,Azerbaijan,Fernando Alonso,Aston Martin Aramco Mercedes,7,6,0,11.666666666666666,0,14,0,11.333333333333334
+2024,Azerbaijan,Alexander Albon,Williams Mercedes,9,0,0,12.333333333333334,0,0,0,14.0
+2024,Azerbaijan,Franco Colapinto,Williams Mercedes,8,0,0,9.826086956521738,0,6,0,12.6
+2024,Azerbaijan,Lewis Hamilton,Mercedes,19,24,0,4.0,0,74,1,5.666666666666667
+2024,Azerbaijan,Oliver Bearman,Haas Ferrari,10,0,0,10.666666666666666,0,19,0,9.5
+2024,Azerbaijan,Nico Hulkenberg,Haas Ferrari,12,14,0,7.666666666666667,0,20,0,9.571428571428571
+2024,Azerbaijan,Pierre Gasly,Alpine Renault,18,7,0,10.0,0,7,0,12.166666666666666
+2024,Azerbaijan,Daniel Ricciardo,RB Honda RBPT,14,2,0,10.5,0,8,0,11.833333333333334
+2024,Azerbaijan,Guanyu Zhou,Kick Sauber Ferrari,17,0,0,15.0,0,0,0,15.0
+2024,Azerbaijan,Esteban Ocon,Alpine Renault,20,0,0,14.0,0,7,0,12.142857142857142
+2024,Azerbaijan,Valtteri Bottas,Kick Sauber Ferrari,16,0,0,15.0,0,0,0,14.833333333333334
+2024,Azerbaijan,Sergio Perez,Red Bull Racing Honda RBPT,4,16,0,6.0,0,44,0,5.6
+2024,Azerbaijan,Carlos Sainz,Ferrari,3,58,1,2.0,0,110,1,3.4285714285714284
+2024,Azerbaijan,Lance Stroll,Aston Martin Aramco Mercedes,13,8,0,11.0,0,22,0,10.571428571428571
+2024,Bahrain,Max Verstappen,Red Bull Racing Honda RBPT,1,28,0,5.333333333333333,1,44,0,7.5
+2024,Bahrain,Sergio Perez,Red Bull Racing Honda RBPT,5,16,0,9.666666666666666,0,70,1,6.571428571428571
+2024,Bahrain,Carlos Sainz,Ferrari,4,58,1,6.0,0,110,1,5.25
+2024,Bahrain,Charles Leclerc,Ferrari,2,52,0,4.5,0,125,1,5.0
+2024,Bahrain,George Russell,Mercedes,3,50,1,6.5,0,76,1,6.142857142857143
+2024,Bahrain,Lando Norris,McLaren Mercedes,7,53,1,7.0,0,109,2,5.625
+2024,Bahrain,Lewis Hamilton,Mercedes,9,26,0,5.666666666666667,0,86,1,6.0
+2024,Bahrain,Oscar Piastri,McLaren Mercedes,8,56,1,4.25,0,117,2,5.666666666666667
+2024,Bahrain,Fernando Alonso,Aston Martin Aramco Mercedes,6,14,0,10.25,0,22,0,11.625
+2024,Bahrain,Lance Stroll,Aston Martin Aramco Mercedes,12,8,0,13.0,0,24,0,11.333333333333334
+2024,Bahrain,Guanyu Zhou,Kick Sauber Ferrari,17,0,0,14.75,0,0,0,15.0
+2024,Bahrain,Kevin Magnussen,Haas Ferrari,15,5,0,11.333333333333334,0,20,0,9.75
+2024,Bahrain,Daniel Ricciardo,RB Honda RBPT,14,2,0,11.333333333333334,0,8,0,12.0
+2024,Bahrain,Yuki Tsunoda,RB Honda RBPT,11,6,0,11.0,0,8,0,12.125
+2024,Bahrain,Alexander Albon,Williams Mercedes,13,6,0,11.0,0,10,0,11.833333333333334
+2024,Bahrain,Nico Hulkenberg,Haas Ferrari,10,14,0,8.5,0,20,0,10.0
+2024,Bahrain,Esteban Ocon,Alpine Renault,19,0,0,14.333333333333334,0,7,0,12.5
+2024,Bahrain,Pierre Gasly,Alpine Renault,20,7,0,10.5,0,7,0,13.0
+2024,Bahrain,Valtteri Bottas,Kick Sauber Ferrari,16,0,0,15.333333333333334,0,0,0,14.5
+2024,Bahrain,Logan Sargeant,Williams Mercedes,18,0,0,19.0,0,10,0,12.285714285714286
+2024,Belgium,Lewis Hamilton,Mercedes,3,32,0,6.0,1,92,1,6.111111111111111
+2024,Belgium,Oscar Piastri,McLaren Mercedes,5,60,1,5.0,0,121,2,5.9
+2024,Belgium,Charles Leclerc,Ferrari,1,64,0,4.4,0,137,1,4.9
+2024,Belgium,Max Verstappen,Red Bull Racing Honda RBPT,11,54,1,4.25,0,88,1,6.0
+2024,Belgium,Lando Norris,McLaren Mercedes,4,61,1,6.8,0,139,2,5.545454545454546
+2024,Belgium,Carlos Sainz,Ferrari,7,73,1,5.4,0,152,1,4.7272727272727275
+2024,Belgium,Sergio Perez,Red Bull Racing Honda RBPT,2,34,0,7.75,0,100,1,5.777777777777778
+2024,Belgium,Fernando Alonso,Aston Martin Aramco Mercedes,8,16,0,10.0,0,25,0,11.2
+2024,Belgium,Esteban Ocon,Alpine Renault,9,0,0,15.0,0,7,0,13.5
+2024,Belgium,Daniel Ricciardo,RB Honda RBPT,13,2,0,11.75,0,8,0,12.333333333333334
+2024,Belgium,Lance Stroll,Aston Martin Aramco Mercedes,15,9,0,12.4,0,29,0,10.909090909090908
+2024,Belgium,Alexander Albon,Williams Mercedes,10,6,0,11.8,0,10,0,13.25
+2024,Belgium,Pierre Gasly,Alpine Renault,12,7,0,12.0,0,9,0,13.090909090909092
+2024,Belgium,Kevin Magnussen,Haas Ferrari,17,5,0,11.5,0,20,0,10.6
+2024,Belgium,Valtteri Bottas,Kick Sauber Ferrari,14,0,0,16.25,0,0,0,15.0
+2024,Belgium,Yuki Tsunoda,RB Honda RBPT,20,6,0,11.75,0,9,0,12.1
+2024,Belgium,Logan Sargeant,Williams Mercedes,18,0,0,19.5,0,10,0,13.11111111111111
+2024,Belgium,Nico Hulkenberg,Haas Ferrari,16,14,0,10.0,0,20,0,10.909090909090908
+2024,Brazil,Max Verstappen,Red Bull Racing Honda RBPT,17,66,1,4.2,1,107,1,5.9
+2024,Brazil,Esteban Ocon,Alpine Renault,4,2,0,13.8,0,9,0,13.083333333333334
+2024,Brazil,Pierre Gasly,Alpine Renault,13,7,0,12.166666666666666,0,27,0,12.23076923076923
+2024,Brazil,George Russell,Mercedes,2,60,1,6.2,0,117,2,5.6
+2024,Brazil,Charles Leclerc,Ferrari,6,79,0,4.166666666666667,0,160,1,4.833333333333333
+2024,Brazil,Lando Norris,McLaren Mercedes,1,71,1,6.5,0,149,2,5.5
+2024,Brazil,Yuki Tsunoda,RB Honda RBPT,3,6,0,12.6,0,9,0,12.454545454545455
+2024,Brazil,Oscar Piastri,McLaren Mercedes,8,78,1,4.5,0,157,2,5.538461538461538
+2024,Brazil,Liam Lawson,RB Honda RBPT,5,0,0,17.0,0,15,0,12.0
+2024,Brazil,Lewis Hamilton,Mercedes,14,57,1,5.0,0,129,2,5.454545454545454
+2024,Brazil,Sergio Perez,Red Bull Racing Honda RBPT,12,41,0,7.6,0,133,2,5.454545454545454
+2024,Brazil,Oliver Bearman,Haas Ferrari,15,1,0,10.0,0,20,0,11.5
+2024,Brazil,Valtteri Bottas,Kick Sauber Ferrari,11,0,0,16.0,0,0,0,15.0
+2024,Brazil,Fernando Alonso,Aston Martin Aramco Mercedes,9,20,0,9.666666666666666,0,29,0,10.916666666666666
+2024,Brazil,Guanyu Zhou,Kick Sauber Ferrari,19,0,0,14.0,0,0,0,14.818181818181818
+2024,Canada,Max Verstappen,Red Bull Racing Honda RBPT,2,92,2,3.6666666666666665,1,133,2,5.916666666666667
+2024,Canada,Lando Norris,McLaren Mercedes,3,79,1,6.428571428571429,0,161,2,5.714285714285714
+2024,Canada,George Russell,Mercedes,1,72,1,5.833333333333333,0,130,2,5.833333333333333
+2024,Canada,Lewis Hamilton,Mercedes,7,58,1,5.833333333333333,0,145,2,5.615384615384615
+2024,Canada,Oscar Piastri,McLaren Mercedes,4,82,1,5.0,0,179,2,5.466666666666667
+2024,Canada,Fernando Alonso,Aston Martin Aramco Mercedes,6,20,0,10.285714285714286,0,29,0,11.153846153846153
+2024,Canada,Lance Stroll,Aston Martin Aramco Mercedes,9,9,0,12.166666666666666,0,37,0,10.785714285714286
+2024,Canada,Daniel Ricciardo,RB Honda RBPT,5,3,0,11.4,0,17,0,11.76923076923077
+2024,Canada,Pierre Gasly,Alpine Renault,15,22,0,10.857142857142858,0,42,0,11.571428571428571
+2024,Canada,Esteban Ocon,Alpine Renault,18,20,0,11.833333333333334,0,44,0,11.4
+2024,Canada,Nico Hulkenberg,Haas Ferrari,17,14,0,11.333333333333334,0,20,0,11.538461538461538
+2024,Canada,Kevin Magnussen,Haas Ferrari,14,5,0,12.0,0,20,0,11.5
+2024,Canada,Valtteri Bottas,Kick Sauber Ferrari,19,0,0,15.5,0,0,0,14.833333333333334
+2024,Canada,Yuki Tsunoda,RB Honda RBPT,8,12,0,11.666666666666666,0,21,0,11.5
+2024,Canada,Guanyu Zhou,Kick Sauber Ferrari,20,0,0,14.166666666666666,0,0,0,14.692307692307692
+2024,China,Max Verstappen,Red Bull Racing Honda RBPT,1,117,3,3.2857142857142856,1,158,3,5.538461538461538
+2024,China,Lando Norris,McLaren Mercedes,4,97,1,5.875,0,189,2,5.4375
+2024,China,Sergio Perez,Red Bull Racing Honda RBPT,2,41,0,8.166666666666666,0,183,4,5.214285714285714
+2024,China,Charles Leclerc,Ferrari,6,89,0,4.285714285714286,0,170,1,4.846153846153846
+2024,China,Carlos Sainz,Ferrari,7,81,1,5.5,0,182,1,4.785714285714286
+2024,China,George Russell,Mercedes,8,87,1,5.428571428571429,0,158,2,5.5
+2024,China,Fernando Alonso,Aston Martin Aramco Mercedes,3,28,0,9.75,0,43,0,10.533333333333333
+2024,China,Oscar Piastri,McLaren Mercedes,5,92,1,5.0,0,207,2,5.235294117647059
+2024,China,Lewis Hamilton,Mercedes,18,71,1,5.571428571428571,0,166,2,5.533333333333333
+2024,China,Nico Hulkenberg,Haas Ferrari,9,14,0,11.285714285714286,0,20,0,11.533333333333333
+2024,China,Esteban Ocon,Alpine Renault,13,21,0,11.571428571428571,0,45,0,11.3125
+2024,China,Alexander Albon,Williams Mercedes,14,6,0,11.833333333333334,0,10,0,13.5
+2024,China,Pierre Gasly,Alpine Renault,15,24,0,10.625,0,45,0,11.294117647058824
+2024,China,Guanyu Zhou,Kick Sauber Ferrari,16,0,0,14.285714285714286,0,0,0,14.714285714285714
+2024,China,Lance Stroll,Aston Martin Aramco Mercedes,11,15,0,11.428571428571429,0,50,0,10.3125
+2024,China,Kevin Magnussen,Haas Ferrari,17,5,0,12.0,0,21,0,11.4375
+2024,China,Logan Sargeant,Williams Mercedes,20,0,0,18.666666666666668,0,10,0,13.363636363636363
+2024,Emilia Romagna,Max Verstappen,Red Bull Racing Honda RBPT,1,142,4,3.0,1,198,4,5.066666666666666
+2024,Emilia Romagna,Lando Norris,McLaren Mercedes,2,115,1,5.444444444444445,0,211,2,5.388888888888889
+2024,Emilia Romagna,Charles Leclerc,Ferrari,3,101,0,4.25,0,192,1,4.8
+2024,Emilia Romagna,Oscar Piastri,McLaren Mercedes,5,96,1,5.333333333333333,0,229,2,5.2105263157894735
+2024,Emilia Romagna,Carlos Sainz,Ferrari,4,91,1,5.428571428571429,0,207,1,4.6875
+2024,Emilia Romagna,Lewis Hamilton,Mercedes,8,73,1,6.0,0,168,2,5.75
+2024,Emilia Romagna,George Russell,Mercedes,6,95,1,5.5,0,176,2,5.764705882352941
+2024,Emilia Romagna,Sergio Perez,Red Bull Racing Honda RBPT,11,56,0,7.428571428571429,0,223,5,4.8125
+2024,Emilia Romagna,Lance Stroll,Aston Martin Aramco Mercedes,13,15,0,11.875,0,50,0,10.588235294117647
+2024,Emilia Romagna,Yuki Tsunoda,RB Honda RBPT,7,12,0,12.0,0,21,0,11.666666666666666
+2024,Emilia Romagna,Nico Hulkenberg,Haas Ferrari,10,15,0,11.125,0,21,0,11.705882352941176
+2024,Emilia Romagna,Kevin Magnussen,Haas Ferrari,18,5,0,12.571428571428571,0,21,0,11.666666666666666
+2024,Emilia Romagna,Daniel Ricciardo,RB Honda RBPT,9,7,0,10.833333333333334,0,22,0,11.5625
+2024,Emilia Romagna,Esteban Ocon,Alpine Renault,12,21,0,11.5,0,45,0,11.38888888888889
+2024,Emilia Romagna,Guanyu Zhou,Kick Sauber Ferrari,17,0,0,14.25,0,0,0,14.666666666666666
+2024,Emilia Romagna,Pierre Gasly,Alpine Renault,15,24,0,10.88888888888889,0,45,0,11.526315789473685
+2024,Emilia Romagna,Logan Sargeant,Williams Mercedes,19,0,0,18.25,0,10,0,13.666666666666666
+2024,Emilia Romagna,Valtteri Bottas,Kick Sauber Ferrari,16,0,0,15.142857142857142,0,0,0,14.6875
+2024,Emilia Romagna,Fernando Alonso,Aston Martin Aramco Mercedes,20,35,0,9.444444444444445,0,52,0,10.5
+2024,Great Britain,Lewis Hamilton,Mercedes,2,81,1,6.0,1,183,2,5.833333333333333
+2024,Great Britain,Max Verstappen,Red Bull Racing Honda RBPT,4,167,5,2.7777777777777777,0,227,5,5.0
+2024,Great Britain,Lando Norris,McLaren Mercedes,3,133,1,5.1,0,241,2,5.15
+2024,Great Britain,Oscar Piastri,McLaren Mercedes,5,108,1,5.2,0,256,2,5.0476190476190474
+2024,Great Britain,Carlos Sainz,Ferrari,7,101,1,5.375,0,217,1,4.705882352941177
+2024,Great Britain,Nico Hulkenberg,Haas Ferrari,6,15,0,11.11111111111111,0,21,0,11.68421052631579
+2024,Great Britain,Lance Stroll,Aston Martin Aramco Mercedes,8,17,0,11.555555555555555,0,52,0,10.947368421052632
+2024,Great Britain,Fernando Alonso,Aston Martin Aramco Mercedes,10,35,0,10.4,0,58,0,10.75
+2024,Great Britain,Alexander Albon,Williams Mercedes,9,6,0,11.857142857142858,0,10,0,13.923076923076923
+2024,Great Britain,Yuki Tsunoda,RB Honda RBPT,13,13,0,11.75,0,22,0,11.647058823529411
+2024,Great Britain,Logan Sargeant,Williams Mercedes,12,0,0,18.0,0,12,0,13.571428571428571
+2024,Great Britain,Kevin Magnussen,Haas Ferrari,17,5,0,12.5,0,29,0,11.4
+2024,Great Britain,Daniel Ricciardo,RB Honda RBPT,15,7,0,11.142857142857142,0,23,0,11.555555555555555
+2024,Great Britain,Charles Leclerc,Ferrari,11,116,0,4.111111111111111,0,228,1,4.722222222222222
+2024,Great Britain,Valtteri Bottas,Kick Sauber Ferrari,16,0,0,15.5,0,0,0,14.882352941176471
+2024,Great Britain,Esteban Ocon,Alpine Renault,18,21,0,11.777777777777779,0,45,0,11.75
+2024,Great Britain,Sergio Perez,Red Bull Racing Honda RBPT,20,60,0,7.5,0,245,5,4.833333333333333
+2024,Great Britain,Guanyu Zhou,Kick Sauber Ferrari,14,0,0,14.333333333333334,0,0,0,14.88888888888889
+2024,Hungary,Oscar Piastri,McLaren Mercedes,2,120,1,5.090909090909091,1,268,2,5.0
+2024,Hungary,Lando Norris,McLaren Mercedes,1,148,1,4.909090909090909,0,293,3,4.826086956521739
+2024,Hungary,Lewis Hamilton,Mercedes,5,106,2,5.5,0,208,3,5.578947368421052
+2024,Hungary,Charles Leclerc,Ferrari,6,116,0,5.1,0,228,1,5.2105263157894735
+2024,Hungary,Max Verstappen,Red Bull Racing Honda RBPT,3,185,5,2.7,0,245,5,5.473684210526316
+2024,Hungary,Carlos Sainz,Ferrari,4,112,1,5.333333333333333,0,240,1,5.15
+2024,Hungary,Sergio Perez,Red Bull Racing Honda RBPT,16,60,0,8.555555555555555,0,255,5,5.45
+2024,Hungary,George Russell,Mercedes,17,102,1,5.666666666666667,0,223,3,5.45
+2024,Hungary,Yuki Tsunoda,RB Honda RBPT,10,14,0,11.555555555555555,0,23,0,11.631578947368421
+2024,Hungary,Lance Stroll,Aston Martin Aramco Mercedes,8,23,0,11.1,0,62,0,10.619047619047619
+2024,Hungary,Fernando Alonso,Aston Martin Aramco Mercedes,7,39,0,10.181818181818182,0,63,0,10.590909090909092
+2024,Hungary,Daniel Ricciardo,RB Honda RBPT,9,7,0,11.375,0,25,0,11.5
+2024,Hungary,Nico Hulkenberg,Haas Ferrari,11,23,0,10.6,0,29,0,11.428571428571429
+2024,Hungary,Alexander Albon,Williams Mercedes,13,8,0,11.5,0,12,0,13.4
+2024,Hungary,Kevin Magnussen,Haas Ferrari,15,5,0,12.444444444444445,0,29,0,11.5
+2024,Hungary,Valtteri Bottas,Kick Sauber Ferrari,12,0,0,15.444444444444445,0,0,0,15.052631578947368
+2024,Hungary,Logan Sargeant,Williams Mercedes,14,0,0,16.833333333333332,0,12,0,13.4375
+2024,Hungary,Esteban Ocon,Alpine Renault,19,21,0,12.2,0,45,0,11.952380952380953
+2024,Hungary,Guanyu Zhou,Kick Sauber Ferrari,18,0,0,14.7,0,0,0,15.1
+2024,Italy,Charles Leclerc,Ferrari,4,128,0,5.0,1,248,1,5.190476190476191
+2024,Italy,Oscar Piastri,McLaren Mercedes,2,145,2,4.75,0,311,3,4.708333333333333
+2024,Italy,Lando Norris,McLaren Mercedes,1,166,1,4.666666666666667,0,329,3,4.6
+2024,Italy,Carlos Sainz,Ferrari,5,120,1,5.4,0,273,2,5.0
+2024,Italy,Lewis Hamilton,Mercedes,6,121,2,5.2727272727272725,0,228,3,5.571428571428571
+2024,Italy,Max Verstappen,Red Bull Racing Honda RBPT,7,195,5,2.909090909090909,0,261,5,5.523809523809524
+2024,Italy,George Russell,Mercedes,3,107,1,5.9,0,238,3,5.545454545454546
+2024,Italy,Sergio Perez,Red Bull Racing Honda RBPT,8,66,0,8.4,0,269,5,5.545454545454546
+2024,Italy,Alexander Albon,Williams Mercedes,9,8,0,11.777777777777779,0,12,0,13.647058823529411
+2024,Italy,Kevin Magnussen,Haas Ferrari,13,5,0,12.7,0,29,0,11.652173913043478
+2024,Italy,Fernando Alonso,Aston Martin Aramco Mercedes,11,39,0,10.25,0,63,0,10.608695652173912
+2024,Italy,Franco Colapinto,Williams Mercedes,18,4,0,8.0,0,14,0,13.38888888888889
+2024,Italy,Daniel Ricciardo,RB Honda RBPT,12,7,0,11.444444444444445,0,25,0,11.523809523809524
+2024,Italy,Esteban Ocon,Alpine Renault,15,21,0,12.727272727272727,0,45,0,12.227272727272727
+2024,Italy,Pierre Gasly,Alpine Renault,14,24,0,11.4,0,45,0,12.304347826086957
+2024,Italy,Valtteri Bottas,Kick Sauber Ferrari,19,0,0,15.5,0,0,0,15.285714285714286
+2024,Italy,Nico Hulkenberg,Haas Ferrari,10,23,0,10.818181818181818,0,30,0,11.583333333333334
+2024,Italy,Guanyu Zhou,Kick Sauber Ferrari,20,0,0,15.090909090909092,0,0,0,15.318181818181818
+2024,Italy,Lance Stroll,Aston Martin Aramco Mercedes,17,24,0,11.0,0,63,0,10.625
+2024,Japan,Max Verstappen,Red Bull Racing Honda RBPT,1,203,5,3.1666666666666665,1,273,5,5.6521739130434785
+2024,Japan,Sergio Perez,Red Bull Racing Honda RBPT,2,70,0,8.363636363636363,0,299,6,5.458333333333333
+2024,Japan,Carlos Sainz,Ferrari,4,132,1,5.2727272727272725,0,285,2,4.956521739130435
+2024,Japan,Charles Leclerc,Ferrari,8,153,1,4.666666666666667,0,300,2,4.875
+2024,Japan,Lando Norris,McLaren Mercedes,3,182,1,4.538461538461538,0,345,3,4.538461538461538
+2024,Japan,Fernando Alonso,Aston Martin Aramco Mercedes,5,39,0,10.307692307692308,0,63,0,10.96
+2024,Japan,George Russell,Mercedes,9,113,1,6.0,0,244,3,5.608695652173913
+2024,Japan,Oscar Piastri,McLaren Mercedes,6,163,2,4.538461538461538,0,355,3,4.555555555555555
+2024,Japan,Lewis Hamilton,Mercedes,7,131,2,5.25,0,250,3,5.666666666666667
+2024,Japan,Yuki Tsunoda,RB Honda RBPT,10,16,0,11.3,0,25,0,11.590909090909092
+2024,Japan,Nico Hulkenberg,Haas Ferrari,12,23,0,11.333333333333334,0,30,0,11.8
+2024,Japan,Lance Stroll,Aston Martin Aramco Mercedes,16,24,0,11.666666666666666,0,71,0,10.76923076923077
+2024,Japan,Kevin Magnussen,Haas Ferrari,18,6,0,12.454545454545455,0,30,0,11.76923076923077
+2024,Japan,Valtteri Bottas,Kick Sauber Ferrari,13,0,0,15.545454545454545,0,0,0,15.434782608695652
+2024,Japan,Esteban Ocon,Alpine Renault,15,21,0,12.833333333333334,0,45,0,12.416666666666666
+2024,Japan,Pierre Gasly,Alpine Renault,17,24,0,11.727272727272727,0,45,0,12.52
+2024,Japan,Logan Sargeant,Williams Mercedes,19,0,0,16.857142857142858,0,14,0,13.31578947368421
+2024,Las Vegas,George Russell,Mercedes,1,119,1,6.083333333333333,1,252,3,5.8
+2024,Las Vegas,Lewis Hamilton,Mercedes,10,133,2,5.538461538461538,0,277,4,5.615384615384615
+2024,Las Vegas,Carlos Sainz,Ferrari,2,147,1,5.083333333333333,0,312,2,4.84
+2024,Las Vegas,Charles Leclerc,Ferrari,4,165,1,4.615384615384615,0,327,2,4.769230769230769
+2024,Las Vegas,Max Verstappen,Red Bull Racing Honda RBPT,5,229,6,3.0,0,317,6,5.32
+2024,Las Vegas,Lando Norris,McLaren Mercedes,6,192,1,4.571428571428571,0,359,3,4.678571428571429
+2024,Las Vegas,Oscar Piastri,McLaren Mercedes,8,167,2,4.785714285714286,0,368,3,4.724137931034483
+2024,Las Vegas,Nico Hulkenberg,Haas Ferrari,9,23,0,11.307692307692308,0,30,0,11.814814814814815
+2024,Las Vegas,Yuki Tsunoda,RB Honda RBPT,7,17,0,11.181818181818182,0,26,0,11.521739130434783
+2024,Las Vegas,Sergio Perez,Red Bull Racing Honda RBPT,15,88,0,7.833333333333333,0,327,6,5.3076923076923075
+2024,Las Vegas,Fernando Alonso,Aston Martin Aramco Mercedes,16,47,0,10.0,0,71,0,10.814814814814815
+2024,Las Vegas,Kevin Magnussen,Haas Ferrari,12,6,0,12.5,0,34,0,11.678571428571429
+2024,Las Vegas,Guanyu Zhou,Kick Sauber Ferrari,13,0,0,15.333333333333334,0,0,0,15.375
+2024,Las Vegas,Franco Colapinto,Williams Mercedes,20,4,0,10.0,0,14,0,13.5
+2024,Las Vegas,Lance Stroll,Aston Martin Aramco Mercedes,18,24,0,11.692307692307692,0,71,0,10.821428571428571
+2024,Las Vegas,Liam Lawson,RB Honda RBPT,14,2,0,13.0,0,28,0,11.416666666666666
+2024,Las Vegas,Esteban Ocon,Alpine Renault,11,21,0,13.0,0,45,0,12.653846153846153
+2024,Las Vegas,Valtteri Bottas,Kick Sauber Ferrari,19,0,0,15.416666666666666,0,0,0,15.28
+2024,Mexico,Carlos Sainz,Ferrari,1,162,1,4.923076923076923,1,339,2,4.7407407407407405
+2024,Mexico,Lando Norris,McLaren Mercedes,3,201,1,4.666666666666667,0,374,3,4.8
+2024,Mexico,Charles Leclerc,Ferrari,4,177,1,4.571428571428571,0,364,3,4.607142857142857
+2024,Mexico,Lewis Hamilton,Mercedes,6,151,2,5.285714285714286,0,295,4,5.481481481481482
+2024,Mexico,George Russell,Mercedes,5,144,2,5.6923076923076925,0,307,4,5.428571428571429
+2024,Mexico,Max Verstappen,Red Bull Racing Honda RBPT,2,239,6,3.142857142857143,0,328,6,5.481481481481482
+2024,Mexico,Kevin Magnussen,Haas Ferrari,7,6,0,12.461538461538462,0,34,0,11.689655172413794
+2024,Mexico,Oscar Piastri,McLaren Mercedes,17,173,2,4.933333333333334,0,392,3,4.709677419354839
+2024,Mexico,Nico Hulkenberg,Haas Ferrari,10,27,0,11.071428571428571,0,40,0,11.533333333333333
+2024,Mexico,Pierre Gasly,Alpine Renault,8,24,0,12.083333333333334,0,45,0,12.814814814814815
+2024,Mexico,Lance Stroll,Aston Martin Aramco Mercedes,14,24,0,11.928571428571429,0,71,0,10.96551724137931
+2024,Mexico,Franco Colapinto,Williams Mercedes,16,4,0,11.333333333333334,0,14,0,13.523809523809524
+2024,Mexico,Esteban Ocon,Alpine Renault,20,21,0,13.285714285714286,0,46,0,12.714285714285714
+2024,Mexico,Valtteri Bottas,Kick Sauber Ferrari,15,0,0,15.615384615384615,0,0,0,15.384615384615385
+2024,Mexico,Guanyu Zhou,Kick Sauber Ferrari,19,0,0,15.153846153846153,0,0,0,15.333333333333334
+2024,Mexico,Liam Lawson,RB Honda RBPT,12,2,0,14.0,0,28,0,11.6
+2024,Mexico,Sergio Perez,Red Bull Racing Honda RBPT,18,89,0,8.0,0,336,6,5.5
+2024,Miami,Lando Norris,McLaren Mercedes,5,219,1,4.5,1,396,3,4.8125
+2024,Miami,Max Verstappen,Red Bull Racing Honda RBPT,1,247,6,3.3333333333333335,0,336,6,5.896551724137931
+2024,Miami,Charles Leclerc,Ferrari,2,193,1,4.466666666666667,0,380,3,4.551724137931035
+2024,Miami,Sergio Perez,Red Bull Racing Honda RBPT,4,89,0,8.642857142857142,0,354,6,5.766666666666667
+2024,Miami,Carlos Sainz,Ferrari,3,187,2,4.642857142857143,0,395,3,4.5
+2024,Miami,Lewis Hamilton,Mercedes,8,163,2,5.2,0,317,4,5.413793103448276
+2024,Miami,Yuki Tsunoda,RB Honda RBPT,10,19,0,11.0,0,28,0,11.76923076923077
+2024,Miami,George Russell,Mercedes,7,154,2,5.642857142857143,0,325,4,5.433333333333334
+2024,Miami,Fernando Alonso,Aston Martin Aramco Mercedes,15,47,0,10.066666666666666,0,71,0,10.966666666666667
+2024,Miami,Esteban Ocon,Alpine Renault,13,21,0,13.266666666666667,0,46,0,12.724137931034482
+2024,Miami,Nico Hulkenberg,Haas Ferrari,9,29,0,10.933333333333334,0,42,0,11.451612903225806
+2024,Miami,Pierre Gasly,Alpine Renault,12,25,0,11.923076923076923,0,47,0,12.633333333333333
+2024,Miami,Oscar Piastri,McLaren Mercedes,6,177,2,5.125,0,421,4,4.696969696969697
+2024,Miami,Guanyu Zhou,Kick Sauber Ferrari,19,0,0,15.142857142857142,0,0,0,15.321428571428571
+2024,Miami,Daniel Ricciardo,RB Honda RBPT,20,7,0,11.6,0,34,0,11.592592592592593
+2024,Miami,Valtteri Bottas,Kick Sauber Ferrari,16,0,0,15.5,0,0,0,15.275862068965518
+2024,Miami,Lance Stroll,Aston Martin Aramco Mercedes,11,24,0,11.866666666666667,0,73,0,10.903225806451612
+2024,Miami,Alexander Albon,Williams Mercedes,14,10,0,11.5,0,14,0,13.454545454545455
+2024,Miami,Kevin Magnussen,Haas Ferrari,18,12,0,12.071428571428571,0,42,0,11.4375
+2024,Monaco,Charles Leclerc,Ferrari,1,208,1,4.375,1,405,3,4.516129032258065
+2024,Monaco,Oscar Piastri,McLaren Mercedes,2,177,2,5.588235294117647,0,421,4,4.9411764705882355
+2024,Monaco,Carlos Sainz,Ferrari,3,197,2,4.666666666666667,0,430,4,4.40625
+2024,Monaco,Lando Norris,McLaren Mercedes,4,244,2,4.294117647058823,0,439,4,4.857142857142857
+2024,Monaco,George Russell,Mercedes,5,158,2,5.8,0,329,4,5.516129032258065
+2024,Monaco,Max Verstappen,Red Bull Racing Honda RBPT,6,265,6,3.25,0,366,6,5.709677419354839
+2024,Monaco,Lewis Hamilton,Mercedes,7,171,2,5.25,0,339,4,5.5
+2024,Monaco,Yuki Tsunoda,RB Honda RBPT,8,25,0,10.692307692307692,0,34,0,11.714285714285714
+2024,Monaco,Alexander Albon,Williams Mercedes,9,10,0,12.090909090909092,0,14,0,13.652173913043478
+2024,Monaco,Pierre Gasly,Alpine Renault,10,25,0,11.928571428571429,0,47,0,12.612903225806452
+2024,Monaco,Fernando Alonso,Aston Martin Aramco Mercedes,14,49,0,10.0,0,73,0,11.09375
+2024,Monaco,Daniel Ricciardo,RB Honda RBPT,12,7,0,11.909090909090908,0,38,0,11.586206896551724
+2024,Monaco,Valtteri Bottas,Kick Sauber Ferrari,17,0,0,15.533333333333333,0,0,0,15.3
+2024,Monaco,Lance Stroll,Aston Martin Aramco Mercedes,13,24,0,12.1875,0,73,0,11.090909090909092
+2024,Monaco,Logan Sargeant,Williams Mercedes,15,0,0,16.875,0,16,0,13.458333333333334
+2024,Monaco,Guanyu Zhou,Kick Sauber Ferrari,18,0,0,15.066666666666666,0,0,0,15.225806451612904
+2024,Netherlands,Lando Norris,McLaren Mercedes,1,256,2,4.277777777777778,1,451,4,4.833333333333333
+2024,Netherlands,Max Verstappen,Red Bull Racing Honda RBPT,2,273,6,3.411764705882353,0,374,6,5.71875
+2024,Netherlands,Charles Leclerc,Ferrari,6,233,2,4.176470588235294,0,445,4,4.363636363636363
+2024,Netherlands,Oscar Piastri,McLaren Mercedes,3,195,2,5.388888888888889,0,477,5,4.72972972972973
+2024,Netherlands,Carlos Sainz,Ferrari,10,212,2,4.5625,0,460,4,4.323529411764706
+2024,Netherlands,Sergio Perez,Red Bull Racing Honda RBPT,5,101,0,8.333333333333334,0,392,6,5.606060606060606
+2024,Netherlands,George Russell,Mercedes,4,168,2,5.75,0,346,4,5.545454545454546
+2024,Netherlands,Lewis Hamilton,Mercedes,14,178,2,5.352941176470588,0,352,4,5.588235294117647
+2024,Netherlands,Pierre Gasly,Alpine Renault,9,26,0,11.8,0,48,0,12.53125
+2024,Netherlands,Fernando Alonso,Aston Martin Aramco Mercedes,7,49,0,10.058823529411764,0,73,0,11.176470588235293
+2024,Netherlands,Nico Hulkenberg,Haas Ferrari,12,29,0,10.9375,0,42,0,11.666666666666666
+2024,Netherlands,Daniel Ricciardo,RB Honda RBPT,13,7,0,11.916666666666666,0,38,0,11.6
+2024,Netherlands,Lance Stroll,Aston Martin Aramco Mercedes,8,24,0,12.294117647058824,0,74,0,11.142857142857142
+2024,Netherlands,Alexander Albon,Williams Mercedes,19,12,0,11.833333333333334,0,16,0,13.52
+2024,Netherlands,Esteban Ocon,Alpine Renault,15,22,0,13.0625,0,50,0,12.424242424242424
+2024,Netherlands,Logan Sargeant,Williams Mercedes,18,0,0,16.666666666666668,0,16,0,13.538461538461538
+2024,Netherlands,Yuki Tsunoda,RB Honda RBPT,11,29,0,10.5,0,38,0,11.612903225806452
+2024,Netherlands,Kevin Magnussen,Haas Ferrari,20,12,0,12.533333333333333,0,42,0,11.647058823529411
+2024,Netherlands,Valtteri Bottas,Kick Sauber Ferrari,16,0,0,15.375,0,0,0,15.25
+2024,Netherlands,Guanyu Zhou,Kick Sauber Ferrari,17,0,0,15.125,0,0,0,15.363636363636363
+2024,Qatar,Max Verstappen,Red Bull Racing Honda RBPT,2,291,6,3.3333333333333335,1,400,6,5.617647058823529
+2024,Qatar,Charles Leclerc,Ferrari,5,248,2,4.111111111111111,0,470,4,4.3428571428571425
+2024,Qatar,Oscar Piastri,McLaren Mercedes,4,207,2,5.315789473684211,0,489,5,4.7105263157894735
+2024,Qatar,George Russell,Mercedes,1,174,2,5.823529411764706,0,356,4,5.6571428571428575
+2024,Qatar,Pierre Gasly,Alpine Renault,11,28,0,11.625,0,50,0,12.5
+2024,Qatar,Carlos Sainz,Ferrari,7,222,2,4.588235294117647,0,488,4,4.277777777777778
+2024,Qatar,Fernando Alonso,Aston Martin Aramco Mercedes,8,50,0,10.055555555555555,0,74,0,11.194444444444445
+2024,Qatar,Guanyu Zhou,Kick Sauber Ferrari,12,0,0,15.411764705882353,0,0,0,15.5
+2024,Qatar,Kevin Magnussen,Haas Ferrari,10,12,0,12.875,0,42,0,11.82857142857143
+2024,Qatar,Lando Norris,McLaren Mercedes,3,282,3,4.105263157894737,0,504,5,4.666666666666667
+2024,Qatar,Valtteri Bottas,Kick Sauber Ferrari,13,0,0,15.588235294117647,0,4,0,15.285714285714286
+2024,Qatar,Lewis Hamilton,Mercedes,6,182,2,5.5,0,368,4,5.611111111111111
+2024,Qatar,Yuki Tsunoda,RB Honda RBPT,14,29,0,10.933333333333334,0,38,0,11.78125
+2024,Qatar,Liam Lawson,RB Honda RBPT,17,2,0,14.5,0,38,0,11.818181818181818
+2024,Qatar,Alexander Albon,Williams Mercedes,16,12,0,12.0,0,16,0,13.62962962962963
+2024,Saudi Arabia,Max Verstappen,Red Bull Racing Honda RBPT,1,316,7,3.210526315789474,1,425,7,5.485714285714286
+2024,Saudi Arabia,Sergio Perez,Red Bull Racing Honda RBPT,3,109,0,8.1875,0,450,8,5.361111111111111
+2024,Saudi Arabia,Charles Leclerc,Ferrari,2,266,2,4.0,0,496,4,4.324324324324325
+2024,Saudi Arabia,Oscar Piastri,McLaren Mercedes,5,222,2,5.2,0,506,5,4.8
+2024,Saudi Arabia,Fernando Alonso,Aston Martin Aramco Mercedes,4,56,0,9.894736842105264,0,80,0,11.08108108108108
+2024,Saudi Arabia,George Russell,Mercedes,7,186,2,5.722222222222222,0,368,4,5.783783783783784
+2024,Saudi Arabia,Oliver Bearman,Ferrari,11,1,0,11.0,0,512,4,4.2894736842105265
+2024,Saudi Arabia,Lando Norris,McLaren Mercedes,6,284,3,4.4,0,518,5,4.780487804878049
+2024,Saudi Arabia,Lewis Hamilton,Mercedes,8,182,2,5.842105263157895,0,376,4,5.7894736842105265
+2024,Saudi Arabia,Nico Hulkenberg,Haas Ferrari,15,29,0,10.941176470588236,0,44,0,11.75
+2024,Saudi Arabia,Alexander Albon,Williams Mercedes,12,12,0,12.214285714285714,0,16,0,13.678571428571429
+2024,Saudi Arabia,Kevin Magnussen,Haas Ferrari,13,14,0,12.647058823529411,0,45,0,11.702702702702704
+2024,Saudi Arabia,Esteban Ocon,Alpine Renault,17,22,0,13.176470588235293,0,60,0,12.285714285714286
+2024,Saudi Arabia,Logan Sargeant,Williams Mercedes,19,0,0,16.6,0,16,0,13.586206896551724
+2024,Saudi Arabia,Yuki Tsunoda,RB Honda RBPT,9,29,0,11.0625,0,38,0,11.882352941176471
+2024,Saudi Arabia,Daniel Ricciardo,RB Honda RBPT,14,7,0,11.923076923076923,0,38,0,11.971428571428572
+2024,Saudi Arabia,Valtteri Bottas,Kick Sauber Ferrari,16,0,0,15.333333333333334,0,4,0,15.166666666666666
+2024,Saudi Arabia,Guanyu Zhou,Kick Sauber Ferrari,20,4,0,15.0,0,4,0,15.216216216216216
+2024,Singapore,Lando Norris,McLaren Mercedes,1,288,3,4.571428571428571,1,522,5,4.857142857142857
+2024,Singapore,Max Verstappen,Red Bull Racing Honda RBPT,2,341,8,3.1,0,468,8,5.27027027027027
+2024,Singapore,Oscar Piastri,McLaren Mercedes,5,234,2,5.142857142857143,0,547,6,4.767441860465116
+2024,Singapore,George Russell,Mercedes,4,194,2,5.7368421052631575,0,378,4,5.871794871794871
+2024,Singapore,Charles Leclerc,Ferrari,9,282,2,3.95,0,518,4,4.358974358974359
+2024,Singapore,Lewis Hamilton,Mercedes,3,184,2,6.0,0,390,4,5.825
+2024,Singapore,Carlos Sainz,Ferrari,10,230,2,4.666666666666667,0,528,4,4.375
+2024,Singapore,Fernando Alonso,Aston Martin Aramco Mercedes,7,66,0,9.65,0,90,0,10.921052631578947
+2024,Singapore,Nico Hulkenberg,Haas Ferrari,6,30,0,10.88888888888889,0,45,0,11.710526315789474
+2024,Singapore,Sergio Perez,Red Bull Racing Honda RBPT,13,127,0,7.823529411764706,0,486,8,5.184210526315789
+2024,Singapore,Franco Colapinto,Williams Mercedes,12,4,0,11.5,0,16,0,13.6
+2024,Singapore,Yuki Tsunoda,RB Honda RBPT,8,29,0,11.294117647058824,0,38,0,12.083333333333334
+2024,Singapore,Esteban Ocon,Alpine Renault,15,22,0,13.166666666666666,0,60,0,12.305555555555555
+2024,Singapore,Lance Stroll,Aston Martin Aramco Mercedes,17,24,0,12.333333333333334,0,94,0,10.846153846153847
+2024,Singapore,Guanyu Zhou,Kick Sauber Ferrari,20,4,0,15.157894736842104,0,4,0,15.289473684210526
+2024,Singapore,Valtteri Bottas,Kick Sauber Ferrari,19,0,0,15.421052631578947,0,4,0,15.282051282051283
+2024,Singapore,Pierre Gasly,Alpine Renault,18,38,0,11.235294117647058,0,60,0,12.324324324324325
+2024,Singapore,Daniel Ricciardo,RB Honda RBPT,16,7,0,12.214285714285714,0,38,0,12.08108108108108
+2024,Singapore,Kevin Magnussen,Haas Ferrari,14,14,0,12.61111111111111,0,47,0,11.64102564102564
+2024,Spain,Max Verstappen,Red Bull Racing Honda RBPT,2,359,8,3.0476190476190474,1,487,8,5.3076923076923075
+2024,Spain,Lando Norris,McLaren Mercedes,1,313,4,4.409090909090909,0,562,6,4.7272727272727275
+2024,Spain,Lewis Hamilton,Mercedes,3,192,2,6.0,0,398,4,5.829268292682927
+2024,Spain,George Russell,Mercedes,4,206,2,5.65,0,413,4,5.761904761904762
+2024,Spain,Charles Leclerc,Ferrari,5,292,2,4.0,0,534,4,4.439024390243903
+2024,Spain,Carlos Sainz,Ferrari,6,236,2,4.7894736842105265,0,544,4,4.4523809523809526
+2024,Spain,Oscar Piastri,McLaren Mercedes,9,249,2,5.045454545454546,0,581,6,4.666666666666667
+2024,Spain,Sergio Perez,Red Bull Racing Honda RBPT,11,128,0,7.944444444444445,0,512,9,5.2
+2024,Spain,Pierre Gasly,Alpine Renault,7,38,0,11.555555555555555,0,60,0,12.447368421052632
+2024,Spain,Esteban Ocon,Alpine Renault,8,22,0,13.157894736842104,0,62,0,12.35897435897436
+2024,Spain,Nico Hulkenberg,Haas Ferrari,13,32,0,10.789473684210526,0,47,0,11.825
+2024,Spain,Fernando Alonso,Aston Martin Aramco Mercedes,10,70,0,9.571428571428571,0,94,0,10.925
+2024,Spain,Guanyu Zhou,Kick Sauber Ferrari,15,4,0,15.15,0,4,0,15.3
+2024,Spain,Lance Stroll,Aston Martin Aramco Mercedes,14,24,0,12.421052631578947,0,94,0,10.951219512195122
+2024,Spain,Daniel Ricciardo,RB Honda RBPT,18,7,0,12.6,0,38,0,12.236842105263158
+2024,Spain,Valtteri Bottas,Kick Sauber Ferrari,12,0,0,15.45,0,4,0,15.24390243902439
+2024,Spain,Kevin Magnussen,Haas Ferrari,16,14,0,12.947368421052632,0,47,0,11.804878048780488
+2024,Spain,Alexander Albon,Williams Mercedes,20,12,0,12.133333333333333,0,16,0,13.516129032258064
+2024,Spain,Yuki Tsunoda,RB Honda RBPT,17,29,0,11.333333333333334,0,38,0,12.307692307692308
+2024,Spain,Logan Sargeant,Williams Mercedes,19,0,0,16.363636363636363,0,16,0,13.65625
+2024,United States,Charles Leclerc,Ferrari,4,302,2,4.045454545454546,1,552,4,4.488372093023256
+2024,United States,Carlos Sainz,Ferrari,3,244,2,4.85,0,577,5,4.409090909090909
+2024,United States,Max Verstappen,Red Bull Racing Honda RBPT,2,384,9,2.9545454545454546,0,516,9,5.2682926829268295
+2024,United States,Lando Norris,McLaren Mercedes,1,332,4,4.304347826086956,0,587,6,4.717391304347826
+2024,United States,Oscar Piastri,McLaren Mercedes,5,255,2,5.130434782608695,0,599,6,4.702127659574468
+2024,United States,George Russell,Mercedes,20,218,2,5.571428571428571,0,425,4,5.72093023255814
+2024,United States,Sergio Perez,Red Bull Racing Honda RBPT,9,132,0,7.947368421052632,0,531,9,5.214285714285714
+2024,United States,Nico Hulkenberg,Haas Ferrari,11,32,0,10.8,0,47,0,11.928571428571429
+2024,United States,Liam Lawson,RB Honda RBPT,19,2,0,14.4,0,38,0,12.475
+2024,United States,Franco Colapinto,Williams Mercedes,15,4,0,11.4,0,16,0,13.848484848484848
+2024,United States,Kevin Magnussen,Haas Ferrari,8,14,0,13.15,0,51,0,11.837209302325581
+2024,United States,Pierre Gasly,Alpine Renault,6,40,0,11.421052631578947,0,63,0,12.3
+2024,United States,Fernando Alonso,Aston Martin Aramco Mercedes,7,70,0,9.681818181818182,0,94,0,11.023809523809524
+2024,United States,Yuki Tsunoda,RB Honda RBPT,10,29,0,11.736842105263158,0,40,0,12.390243902439025
+2024,United States,Lance Stroll,Aston Martin Aramco Mercedes,13,24,0,12.5,0,94,0,11.069767441860465
+2024,United States,Alexander Albon,Williams Mercedes,14,12,0,12.5,0,17,0,13.735294117647058
+2024,United States,Valtteri Bottas,Kick Sauber Ferrari,16,0,0,15.476190476190476,0,4,0,15.261904761904763
+2024,United States,Esteban Ocon,Alpine Renault,12,23,0,13.0,0,63,0,12.292682926829269
+2024,United States,Guanyu Zhou,Kick Sauber Ferrari,18,4,0,15.047619047619047,0,4,0,15.30232558139535
+2025,Abu Dhabi,Max Verstappen,Red Bull Racing Honda RBPT,1,0,0,11.421052631578947,1,0,0,11.404761904761905
+2025,Abu Dhabi,Oscar Piastri,McLaren Mercedes,3,0,0,10.714285714285714,0,0,0,12.333333333333334
+2025,Abu Dhabi,Lando Norris,McLaren Mercedes,2,0,0,13.5,0,18,0,2.0
+2025,Abu Dhabi,Charles Leclerc,Ferrari,5,0,0,10.75,0,0,0,12.0
+2025,Abu Dhabi,George Russell,Mercedes,4,0,0,13.31578947368421,0,0,0,3.2
+2025,Abu Dhabi,Fernando Alonso,Aston Martin Aramco Mercedes,6,0,0,12.173913043478262,0,0,0,14.714285714285714
+2025,Abu Dhabi,Esteban Ocon,Haas Ferrari,8,0,0,5.0476190476190474,0,0,0,6.023809523809524
+2025,Abu Dhabi,Lewis Hamilton,Ferrari,16,0,0,3.608695652173913,0,12,0,4.0
+2025,Abu Dhabi,Nico Hulkenberg,Kick Sauber Ferrari,18,0,0,3.0434782608695654,0,0,0,11.477272727272727
+2025,Abu Dhabi,Lance Stroll,Aston Martin Aramco Mercedes,15,0,0,8.2,0,8,0,6.0
+2025,Abu Dhabi,Gabriel Bortoleto,Kick Sauber Ferrari,7,0,0,15.823529411764707,0,2,0,9.0
+2025,Abu Dhabi,Oliver Bearman,Haas Ferrari,11,0,0,11.4,0,6,0,7.0
+2025,Abu Dhabi,Carlos Sainz,Williams Mercedes,12,0,0,9.65,0,0,0,7.488888888888889
+2025,Abu Dhabi,Yuki Tsunoda,Red Bull Racing Honda RBPT,10,0,0,13.80952380952381,0,25,1,1.0
+2025,Abu Dhabi,Kimi Antonelli,Mercedes,14,0,0,14.75,0,10,0,5.0
+2025,Abu Dhabi,Alexander Albon,Williams Mercedes,17,0,0,11.85,0,0,0,13.0
+2025,Abu Dhabi,Isack Hadjar,Racing Bulls Honda RBPT,9,0,0,4.541666666666667,0,0,0,6.204545454545454
+2025,Abu Dhabi,Liam Lawson,Racing Bulls Honda RBPT,13,0,0,7.0,0,0,0,17.0
+2025,Abu Dhabi,Pierre Gasly,Alpine Renault,19,0,0,2.772727272727273,0,0,0,13.8
+2025,Abu Dhabi,Franco Colapinto,Alpine Renault,20,0,0,10.263157894736842,0,0,0,19.0
+2025,Australia,Lando Norris,McLaren Mercedes,1,15,0,3.0,1,33,0,2.5
+2025,Australia,Max Verstappen,Red Bull Racing Honda RBPT,3,25,1,1.0,0,25,1,7.5
+2025,Australia,George Russell,Mercedes,4,10,0,5.0,0,10,0,10.0
+2025,Australia,Kimi Antonelli,Mercedes,16,0,0,15.0,0,25,0,7.666666666666667
+2025,Australia,Alexander Albon,Williams Mercedes,6,0,0,16.0,0,0,0,14.5
+2025,Australia,Lance Stroll,Aston Martin Aramco Mercedes,13,1,0,10.0,0,9,0,8.0
+2025,Australia,Nico Hulkenberg,Kick Sauber Ferrari,17,2,0,9.0,0,2,0,10.0
+2025,Australia,Charles Leclerc,Ferrari,7,12,0,4.0,0,16,0,6.0
+2025,Australia,Oscar Piastri,McLaren Mercedes,2,18,0,2.0,0,58,1,2.0
+2025,Australia,Lewis Hamilton,Ferrari,8,4,0,8.0,0,20,0,6.666666666666667
+2025,Australia,Pierre Gasly,Alpine Renault,9,0,0,19.0,0,0,0,19.5
+2025,Australia,Yuki Tsunoda,Racing Bulls Honda RBPT,5,0,0,14.0,0,0,0,17.5
+2025,Australia,Esteban Ocon,Haas Ferrari,19,6,0,7.0,0,6,0,9.5
+2025,Australia,Oliver Bearman,Haas Ferrari,20,0,0,12.0,0,6,0,10.666666666666666
+2025,Austria,Lando Norris,McLaren Mercedes,1,40,1,2.0,1,60,1,3.75
+2025,Austria,Oscar Piastri,McLaren Mercedes,3,20,0,5.5,0,85,2,3.2
+2025,Austria,Charles Leclerc,Ferrari,2,16,0,6.0,0,21,0,7.5
+2025,Austria,Lewis Hamilton,Ferrari,4,5,0,9.0,0,36,0,6.6
+2025,Austria,George Russell,Mercedes,5,25,0,4.0,0,37,0,6.75
+2025,Austria,Liam Lawson,Racing Bulls Honda RBPT,6,0,0,18.0,0,0,0,15.666666666666666
+2025,Austria,Fernando Alonso,Aston Martin Aramco Mercedes,11,8,0,6.0,0,17,0,7.333333333333333
+2025,Austria,Gabriel Bortoleto,Kick Sauber Ferrari,8,0,0,11.0,0,8,0,9.0
+2025,Austria,Nico Hulkenberg,Kick Sauber Ferrari,20,8,0,8.0,0,12,0,8.75
+2025,Austria,Esteban Ocon,Haas Ferrari,17,6,0,10.0,0,6,0,11.5
+2025,Austria,Oliver Bearman,Haas Ferrari,15,0,0,13.0,0,7,0,11.2
+2025,Austria,Isack Hadjar,Racing Bulls Honda RBPT,13,0,0,17.0,0,8,0,13.25
+2025,Austria,Pierre Gasly,Alpine Renault,10,0,0,15.0,0,0,0,16.666666666666668
+2025,Austria,Lance Stroll,Aston Martin Aramco Mercedes,16,9,0,8.0,0,23,0,7.25
+2025,Austria,Franco Colapinto,Alpine Renault,14,0,0,20.0,0,0,0,15.75
+2025,Austria,Yuki Tsunoda,Red Bull Racing Honda RBPT,18,0,0,13.0,0,43,1,5.666666666666667
+2025,Azerbaijan,Max Verstappen,Red Bull Racing Honda RBPT,1,43,1,1.5,1,43,1,8.25
+2025,Azerbaijan,George Russell,Mercedes,5,35,0,4.333333333333333,0,47,0,6.4
+2025,Azerbaijan,Carlos Sainz,Williams Mercedes,2,0,0,13.0,0,10,0,11.333333333333334
+2025,Azerbaijan,Kimi Antonelli,Mercedes,4,12,0,9.5,0,65,0,5.666666666666667
+2025,Azerbaijan,Liam Lawson,Racing Bulls Honda RBPT,3,8,0,12.0,0,8,0,13.0
+2025,Azerbaijan,Yuki Tsunoda,Red Bull Racing Honda RBPT,6,0,0,14.0,0,68,2,6.8
+2025,Azerbaijan,Lando Norris,McLaren Mercedes,7,65,2,1.6666666666666667,0,103,2,3.0
+2025,Azerbaijan,Lewis Hamilton,Ferrari,12,17,0,7.333333333333333,0,48,0,6.166666666666667
+2025,Azerbaijan,Charles Leclerc,Ferrari,10,31,0,5.0,0,52,0,6.428571428571429
+2025,Azerbaijan,Isack Hadjar,Racing Bulls Honda RBPT,8,0,0,14.5,0,18,0,11.666666666666666
+2025,Azerbaijan,Gabriel Bortoleto,Kick Sauber Ferrari,13,4,0,9.5,0,14,0,8.8
+2025,Azerbaijan,Oliver Bearman,Haas Ferrari,15,0,0,12.333333333333334,0,7,0,11.166666666666666
+2025,Azerbaijan,Alexander Albon,Williams Mercedes,19,10,0,10.5,0,25,0,9.25
+2025,Azerbaijan,Esteban Ocon,Haas Ferrari,20,7,0,10.0,0,7,0,11.285714285714286
+2025,Azerbaijan,Fernando Alonso,Aston Martin Aramco Mercedes,11,14,0,6.5,0,23,0,8.6
+2025,Azerbaijan,Nico Hulkenberg,Kick Sauber Ferrari,17,10,0,8.333333333333334,0,14,0,9.166666666666666
+2025,Azerbaijan,Lance Stroll,Aston Martin Aramco Mercedes,14,9,0,10.0,0,23,0,9.666666666666666
+2025,Azerbaijan,Pierre Gasly,Alpine Renault,18,0,0,14.333333333333334,0,0,0,15.6
+2025,Azerbaijan,Franco Colapinto,Alpine Renault,16,0,0,17.5,0,0,0,16.0
+2025,Bahrain,Oscar Piastri,McLaren Mercedes,1,38,0,4.333333333333333,1,109,2,3.5714285714285716
+2025,Bahrain,George Russell,Mercedes,3,53,0,3.75,0,77,0,5.428571428571429
+2025,Bahrain,Lando Norris,McLaren Mercedes,6,71,2,3.0,0,134,3,3.25
+2025,Bahrain,Charles Leclerc,Ferrari,2,33,0,6.0,0,54,0,6.75
+2025,Bahrain,Lewis Hamilton,Ferrari,9,21,0,7.5,0,66,0,6.444444444444445
+2025,Bahrain,Max Verstappen,Red Bull Racing Honda RBPT,7,68,2,1.3333333333333333,0,76,2,6.666666666666667
+2025,Bahrain,Pierre Gasly,Alpine Renault,4,0,0,15.25,0,0,0,16.428571428571427
+2025,Bahrain,Esteban Ocon,Haas Ferrari,14,7,0,11.0,0,7,0,11.625
+2025,Bahrain,Yuki Tsunoda,Red Bull Racing Honda RBPT,10,8,0,12.0,0,84,2,6.571428571428571
+2025,Bahrain,Oliver Bearman,Haas Ferrari,20,0,0,12.25,0,11,0,11.222222222222221
+2025,Bahrain,Kimi Antonelli,Mercedes,5,24,0,7.666666666666667,0,95,0,5.0
+2025,Bahrain,Alexander Albon,Williams Mercedes,15,10,0,11.333333333333334,0,25,0,10.0
+2025,Bahrain,Isack Hadjar,Racing Bulls Honda RBPT,12,1,0,13.0,0,19,0,11.428571428571429
+2025,Bahrain,Jack Doohan,Alpine Renault,11,0,0,11.181818181818182,0,6,0,15.25
+2025,Bahrain,Fernando Alonso,Aston Martin Aramco Mercedes,13,14,0,9.333333333333334,0,23,0,10.714285714285714
+2025,Bahrain,Liam Lawson,Racing Bulls Honda RBPT,17,18,0,9.666666666666666,0,19,0,11.625
+2025,Bahrain,Lance Stroll,Aston Martin Aramco Mercedes,19,9,0,11.75,0,23,0,11.25
+2025,Bahrain,Gabriel Bortoleto,Kick Sauber Ferrari,18,4,0,10.0,0,14,0,10.142857142857142
+2025,Belgium,Oscar Piastri,McLaren Mercedes,2,63,1,3.5,1,149,3,3.2222222222222223
+2025,Belgium,Lando Norris,McLaren Mercedes,1,86,2,3.0,0,174,4,3.0
+2025,Belgium,Charles Leclerc,Ferrari,3,45,0,5.6,0,76,0,6.3
+2025,Belgium,Max Verstappen,Red Bull Racing Honda RBPT,4,76,2,2.5,0,86,2,6.875
+2025,Belgium,George Russell,Mercedes,6,71,0,3.4,0,95,0,5.666666666666667
+2025,Belgium,Alexander Albon,Williams Mercedes,5,10,0,11.5,0,25,0,10.333333333333334
+2025,Belgium,Lewis Hamilton,Ferrari,18,31,0,7.0,0,91,0,6.0
+2025,Belgium,Liam Lawson,Racing Bulls Honda RBPT,9,18,0,11.25,0,19,0,12.11111111111111
+2025,Belgium,Gabriel Bortoleto,Kick Sauber Ferrari,10,4,0,12.0,0,14,0,11.125
+2025,Belgium,Pierre Gasly,Alpine Renault,13,6,0,13.6,0,6,0,15.11111111111111
+2025,Belgium,Oliver Bearman,Haas Ferrari,12,1,0,11.8,0,12,0,11.1
+2025,Belgium,Nico Hulkenberg,Kick Sauber Ferrari,14,10,0,10.25,0,16,0,10.88888888888889
+2025,Belgium,Yuki Tsunoda,Red Bull Racing Honda RBPT,7,10,0,11.4,0,98,2,6.555555555555555
+2025,Belgium,Lance Stroll,Aston Martin Aramco Mercedes,16,9,0,12.8,0,23,0,11.88888888888889
+2025,Belgium,Esteban Ocon,Haas Ferrari,11,11,0,10.4,0,12,0,11.090909090909092
+2025,Belgium,Kimi Antonelli,Mercedes,19,24,0,8.5,0,105,0,5.6
+2025,Belgium,Fernando Alonso,Aston Martin Aramco Mercedes,20,14,0,10.75,0,23,0,12.1
+2025,Belgium,Carlos Sainz,Williams Mercedes,17,15,0,8.0,0,33,0,9.714285714285714
+2025,Belgium,Franco Colapinto,Alpine Renault,15,0,0,18.0,0,7,0,14.6
+2025,Belgium,Isack Hadjar,Racing Bulls Honda RBPT,8,1,0,13.0,0,23,0,11.7
+2025,Brazil,Lando Norris,McLaren Mercedes,1,104,2,2.8333333333333335,1,192,4,2.909090909090909
+2025,Brazil,Kimi Antonelli,Mercedes,2,24,0,10.0,0,105,0,6.545454545454546
+2025,Brazil,Max Verstappen,Red Bull Racing Honda RBPT,19,88,2,2.8,0,98,2,7.2
+2025,Brazil,George Russell,Mercedes,6,81,0,3.6666666666666665,0,123,0,6.166666666666667
+2025,Brazil,Oscar Piastri,McLaren Mercedes,4,88,2,3.0,0,217,5,2.75
+2025,Brazil,Oliver Bearman,Haas Ferrari,8,1,0,11.666666666666666,0,12,0,11.416666666666666
+2025,Brazil,Liam Lawson,Racing Bulls Honda RBPT,7,22,0,10.6,0,23,0,12.454545454545455
+2025,Brazil,Isack Hadjar,Racing Bulls Honda RBPT,5,1,0,14.4,0,29,0,12.0
+2025,Brazil,Nico Hulkenberg,Kick Sauber Ferrari,71,10,0,10.6,0,16,0,11.0
+2025,Brazil,Pierre Gasly,Alpine Renault,9,7,0,13.0,0,7,0,15.0
+2025,Brazil,Alexander Albon,Williams Mercedes,12,18,0,10.4,0,33,0,10.75
+2025,Brazil,Esteban Ocon,Haas Ferrari,20,11,0,11.166666666666666,0,20,0,11.0
+2025,Brazil,Carlos Sainz,Williams Mercedes,15,15,0,11.333333333333334,0,33,0,10.777777777777779
+2025,Brazil,Fernando Alonso,Aston Martin Aramco Mercedes,11,14,0,12.0,0,23,0,12.545454545454545
+2025,Brazil,Franco Colapinto,Alpine Renault,16,0,0,18.25,0,8,0,14.583333333333334
+2025,Brazil,Lance Stroll,Aston Martin Aramco Mercedes,14,9,0,13.0,0,23,0,12.666666666666666
+2025,Brazil,Yuki Tsunoda,Red Bull Racing Honda RBPT,17,10,0,11.666666666666666,0,113,2,6.818181818181818
+2025,Canada,George Russell,Mercedes,1,93,0,3.7142857142857144,1,135,0,6.0
+2025,Canada,Max Verstappen,Red Bull Racing Honda RBPT,2,103,2,2.8333333333333335,0,113,2,7.666666666666667
+2025,Canada,Kimi Antonelli,Mercedes,4,42,0,8.666666666666666,0,160,1,5.642857142857143
+2025,Canada,Oscar Piastri,McLaren Mercedes,3,98,2,3.3333333333333335,0,227,5,2.923076923076923
+2025,Canada,Charles Leclerc,Ferrari,8,60,0,5.166666666666667,0,97,0,6.083333333333333
+2025,Canada,Lewis Hamilton,Ferrari,5,37,0,7.0,0,107,0,6.0
+2025,Canada,Fernando Alonso,Aston Martin Aramco Mercedes,6,14,0,12.333333333333334,0,23,0,12.923076923076923
+2025,Canada,Nico Hulkenberg,Kick Sauber Ferrari,11,12,0,10.333333333333334,0,18,0,10.818181818181818
+2025,Canada,Esteban Ocon,Haas Ferrari,14,11,0,11.285714285714286,0,20,0,11.071428571428571
+2025,Canada,Carlos Sainz,Williams Mercedes,16,15,0,11.75,0,33,0,11.0
+2025,Canada,Oliver Bearman,Haas Ferrari,13,9,0,10.857142857142858,0,22,0,10.933333333333334
+2025,Canada,Yuki Tsunoda,Red Bull Racing Honda RBPT,18,10,0,12.428571428571429,0,131,2,7.230769230769231
+2025,Canada,Franco Colapinto,Alpine Renault,10,0,0,17.6,0,8,0,14.615384615384615
+2025,Canada,Gabriel Bortoleto,Kick Sauber Ferrari,15,6,0,11.4,0,22,0,10.583333333333334
+2025,Canada,Pierre Gasly,Alpine Renault,20,8,0,12.571428571428571,0,8,0,14.5
+2025,Canada,Isack Hadjar,Racing Bulls Honda RBPT,12,5,0,13.333333333333334,0,33,0,11.692307692307692
+2025,Canada,Lance Stroll,Aston Martin Aramco Mercedes,17,9,0,13.428571428571429,0,29,0,12.5
+2025,Canada,Lando Norris,McLaren Mercedes,7,129,3,2.5714285714285716,0,239,5,3.0
+2025,China,Oscar Piastri,McLaren Mercedes,1,110,2,3.4285714285714284,1,239,5,4.0
+2025,China,Lando Norris,McLaren Mercedes,3,129,3,4.5,0,264,6,3.8125
+2025,China,George Russell,Mercedes,2,118,1,3.375,0,175,1,5.466666666666667
+2025,China,Max Verstappen,Red Bull Racing Honda RBPT,4,121,2,2.7142857142857144,0,131,2,7.571428571428571
+2025,China,Esteban Ocon,Haas Ferrari,11,13,0,11.0,0,22,0,10.9375
+2025,China,Kimi Antonelli,Mercedes,8,57,0,7.857142857142857,0,190,1,5.3125
+2025,China,Alexander Albon,Williams Mercedes,10,18,0,10.5,0,34,0,10.909090909090908
+2025,China,Oliver Bearman,Haas Ferrari,17,9,0,10.875,0,32,0,10.588235294117647
+2025,China,Lance Stroll,Aston Martin Aramco Mercedes,14,9,0,13.875,0,29,0,12.8
+2025,China,Carlos Sainz,Williams Mercedes,15,16,0,11.4,0,40,0,10.583333333333334
+2025,China,Isack Hadjar,Racing Bulls Honda RBPT,7,5,0,13.714285714285714,0,33,0,12.0
+2025,China,Liam Lawson,Red Bull Racing Honda RBPT,20,28,0,10.0,0,143,2,7.333333333333333
+2025,China,Jack Doohan,Alpine Renault,18,0,0,14.0,0,8,0,14.533333333333333
+2025,China,Gabriel Bortoleto,Kick Sauber Ferrari,19,6,0,11.833333333333334,0,22,0,10.846153846153847
+2025,China,Nico Hulkenberg,Kick Sauber Ferrari,12,16,0,10.0,0,22,0,11.071428571428571
+2025,China,Yuki Tsunoda,Racing Bulls Honda RBPT,9,10,0,12.375,0,33,0,11.933333333333334
+2025,Emilia-Romagna,Max Verstappen,Red Bull Racing Honda RBPT,2,133,2,2.875,1,143,2,7.625
+2025,Emilia-Romagna,Lando Norris,McLaren Mercedes,4,147,3,4.222222222222222,0,282,6,3.7058823529411766
+2025,Emilia-Romagna,Oscar Piastri,McLaren Mercedes,1,135,3,3.125,0,300,6,3.611111111111111
+2025,Emilia-Romagna,Lewis Hamilton,Ferrari,12,45,0,6.857142857142857,0,115,0,6.0
+2025,Emilia-Romagna,Alexander Albon,Williams Mercedes,7,24,0,10.0,0,41,0,10.538461538461538
+2025,Emilia-Romagna,Charles Leclerc,Ferrari,11,70,0,5.142857142857143,0,127,0,5.866666666666666
+2025,Emilia-Romagna,George Russell,Mercedes,3,133,1,3.3333333333333335,0,198,1,5.352941176470588
+2025,Emilia-Romagna,Carlos Sainz,Williams Mercedes,6,17,0,11.166666666666666,0,51,0,10.142857142857142
+2025,Emilia-Romagna,Isack Hadjar,Racing Bulls Honda RBPT,9,5,0,13.375,0,33,0,12.1875
+2025,Emilia-Romagna,Yuki Tsunoda,Red Bull Racing Honda RBPT,20,10,0,12.777777777777779,0,168,3,7.235294117647059
+2025,Emilia-Romagna,Fernando Alonso,Aston Martin Aramco Mercedes,5,20,0,11.571428571428571,0,31,0,12.5625
+2025,Emilia-Romagna,Nico Hulkenberg,Kick Sauber Ferrari,17,16,0,10.625,0,22,0,11.333333333333334
+2025,Emilia-Romagna,Pierre Gasly,Alpine Renault,10,8,0,12.875,0,8,0,14.4375
+2025,Emilia-Romagna,Liam Lawson,Racing Bulls Honda RBPT,15,28,0,10.285714285714286,0,35,0,12.0
+2025,Emilia-Romagna,Lance Stroll,Aston Martin Aramco Mercedes,8,11,0,13.333333333333334,0,31,0,12.470588235294118
+2025,Emilia-Romagna,Franco Colapinto,Alpine Renault,16,0,0,16.833333333333332,0,8,0,14.352941176470589
+2025,Emilia-Romagna,Oliver Bearman,Haas Ferrari,19,13,0,10.555555555555555,0,36,0,10.444444444444445
+2025,Emilia-Romagna,Gabriel Bortoleto,Kick Sauber Ferrari,14,6,0,12.142857142857142,0,22,0,11.375
+2025,Great Britain,Lando Norris,McLaren Mercedes,3,165,3,4.0,1,315,6,3.5789473684210527
+2025,Great Britain,Oscar Piastri,McLaren Mercedes,2,150,3,3.111111111111111,0,340,7,3.45
+2025,Great Britain,Nico Hulkenberg,Kick Sauber Ferrari,19,16,0,10.777777777777779,0,22,0,11.764705882352942
+2025,Great Britain,Lewis Hamilton,Ferrari,5,57,0,6.5,0,135,0,5.875
+2025,Great Britain,Max Verstappen,Red Bull Racing Honda RBPT,1,158,3,2.6666666666666665,0,169,3,7.388888888888889
+2025,Great Britain,Pierre Gasly,Alpine Renault,8,8,0,12.88888888888889,0,8,0,14.444444444444445
+2025,Great Britain,Lance Stroll,Aston Martin Aramco Mercedes,17,11,0,13.5,0,31,0,12.61111111111111
+2025,Great Britain,Alexander Albon,Williams Mercedes,13,34,0,9.375,0,55,0,10.0
+2025,Great Britain,Fernando Alonso,Aston Martin Aramco Mercedes,7,20,0,11.5,0,37,0,12.31578947368421
+2025,Great Britain,George Russell,Mercedes,4,139,1,3.7,0,204,1,5.444444444444445
+2025,Great Britain,Oliver Bearman,Haas Ferrari,18,13,0,11.2,0,36,0,10.789473684210526
+2025,Great Britain,Carlos Sainz,Williams Mercedes,9,21,0,10.714285714285714,0,59,0,9.875
+2025,Great Britain,Esteban Ocon,Haas Ferrari,14,23,0,10.333333333333334,0,36,0,10.8
+2025,Great Britain,Charles Leclerc,Ferrari,6,78,0,5.25,0,147,0,5.764705882352941
+2025,Great Britain,Yuki Tsunoda,Red Bull Racing Honda RBPT,11,11,0,12.5,0,179,3,7.2631578947368425
+2025,Hungary,Lando Norris,McLaren Mercedes,3,190,4,3.727272727272727,1,358,7,3.380952380952381
+2025,Hungary,Oscar Piastri,McLaren Mercedes,2,168,3,3.0,0,383,8,3.272727272727273
+2025,Hungary,George Russell,Mercedes,4,140,1,4.2727272727272725,0,205,1,5.684210526315789
+2025,Hungary,Charles Leclerc,Ferrari,1,78,0,6.222222222222222,0,147,0,6.222222222222222
+2025,Hungary,Fernando Alonso,Aston Martin Aramco Mercedes,5,22,0,11.222222222222221,0,39,0,12.15
+2025,Hungary,Gabriel Bortoleto,Kick Sauber Ferrari,7,6,0,12.875,0,37,0,11.277777777777779
+2025,Hungary,Lance Stroll,Aston Martin Aramco Mercedes,6,17,0,12.909090909090908,0,49,0,11.80952380952381
+2025,Hungary,Liam Lawson,Racing Bulls Honda RBPT,9,28,0,10.75,0,35,0,12.11111111111111
+2025,Hungary,Max Verstappen,Red Bull Racing Honda RBPT,8,168,3,2.9,0,179,3,7.65
+2025,Hungary,Kimi Antonelli,Mercedes,15,65,0,7.625,0,220,1,5.55
+2025,Hungary,Isack Hadjar,Racing Bulls Honda RBPT,10,7,0,12.88888888888889,0,39,0,11.894736842105264
+2025,Hungary,Lewis Hamilton,Ferrari,12,69,0,6.222222222222222,0,159,0,6.105263157894737
+2025,Hungary,Nico Hulkenberg,Kick Sauber Ferrari,18,31,0,10.0,0,45,0,11.0
+2025,Hungary,Carlos Sainz,Williams Mercedes,13,21,0,10.875,0,59,0,10.0
+2025,Hungary,Alexander Albon,Williams Mercedes,19,38,0,9.222222222222221,0,59,0,10.222222222222221
+2025,Hungary,Esteban Ocon,Haas Ferrari,17,23,0,10.6,0,36,0,10.904761904761905
+2025,Hungary,Yuki Tsunoda,Red Bull Racing Honda RBPT,20,11,0,12.727272727272727,0,181,3,7.714285714285714
+2025,Hungary,Franco Colapinto,Alpine Renault,14,0,0,16.714285714285715,0,16,0,14.0
+2025,Hungary,Pierre Gasly,Alpine Renault,16,16,0,12.2,0,16,0,14.2
+2025,Italy,Max Verstappen,Red Bull Racing Honda RBPT,1,170,3,3.4545454545454546,1,181,3,8.136363636363637
+2025,Italy,Lando Norris,McLaren Mercedes,2,215,5,3.5,0,401,8,3.217391304347826
+2025,Italy,Oscar Piastri,McLaren Mercedes,3,186,3,2.909090909090909,0,419,8,3.1666666666666665
+2025,Italy,Charles Leclerc,Ferrari,4,90,0,6.0,0,159,0,6.4
+2025,Italy,George Russell,Mercedes,5,155,1,4.166666666666667,0,221,1,5.761904761904762
+2025,Italy,Lewis Hamilton,Ferrari,10,69,0,6.8,0,171,0,6.285714285714286
+2025,Italy,Alexander Albon,Williams Mercedes,14,38,0,9.8,0,59,0,10.473684210526315
+2025,Italy,Gabriel Bortoleto,Kick Sauber Ferrari,7,14,0,12.11111111111111,0,45,0,11.1
+2025,Italy,Kimi Antonelli,Mercedes,6,66,0,7.888888888888889,0,231,1,5.7272727272727275
+2025,Italy,Isack Hadjar,Racing Bulls Honda RBPT,19,7,0,12.7,0,39,0,11.85
+2025,Italy,Carlos Sainz,Williams Mercedes,13,21,0,11.222222222222221,0,65,0,10.3
+2025,Italy,Oliver Bearman,Haas Ferrari,11,13,0,11.181818181818182,0,36,0,11.136363636363637
+2025,Italy,Yuki Tsunoda,Red Bull Racing Honda RBPT,9,11,0,13.083333333333334,0,206,4,7.826086956521739
+2025,Italy,Liam Lawson,Racing Bulls Honda RBPT,18,32,0,10.444444444444445,0,40,0,11.761904761904763
+2025,Italy,Esteban Ocon,Haas Ferrari,15,23,0,11.090909090909092,0,36,0,11.173913043478262
+2025,Italy,Pierre Gasly,Alpine Renault,20,16,0,12.818181818181818,0,16,0,14.428571428571429
+2025,Italy,Franco Colapinto,Alpine Renault,17,0,0,16.875,0,16,0,14.5
+2025,Italy,Lance Stroll,Aston Martin Aramco Mercedes,16,23,0,12.416666666666666,0,55,0,11.590909090909092
+2025,Japan,Max Verstappen,Red Bull Racing Honda RBPT,1,195,4,3.25,1,206,4,8.041666666666666
+2025,Japan,Lando Norris,McLaren Mercedes,2,233,5,3.3846153846153846,0,434,8,3.16
+2025,Japan,Oscar Piastri,McLaren Mercedes,3,201,3,2.9166666666666665,0,452,8,3.1153846153846154
+2025,Japan,Charles Leclerc,Ferrari,4,102,0,5.818181818181818,0,179,0,6.2727272727272725
+2025,Japan,George Russell,Mercedes,5,165,1,4.230769230769231,0,233,1,5.869565217391305
+2025,Japan,Kimi Antonelli,Mercedes,6,68,0,8.0,0,243,1,5.833333333333333
+2025,Japan,Lewis Hamilton,Ferrari,8,77,0,6.7272727272727275,0,191,0,6.173913043478261
+2025,Japan,Isack Hadjar,Racing Bulls Honda RBPT,7,8,0,12.454545454545455,0,40,0,11.863636363636363
+2025,Japan,Alexander Albon,Williams Mercedes,9,44,0,9.545454545454545,0,65,0,10.333333333333334
+2025,Japan,Oliver Bearman,Haas Ferrari,10,13,0,11.25,0,36,0,11.333333333333334
+2025,Japan,Fernando Alonso,Aston Martin Aramco Mercedes,12,32,0,10.6,0,55,0,11.869565217391305
+2025,Japan,Yuki Tsunoda,Red Bull Racing Honda RBPT,14,11,0,13.076923076923077,0,231,5,7.76
+2025,Japan,Pierre Gasly,Alpine Renault,11,16,0,13.083333333333334,0,16,0,14.608695652173912
+2025,Japan,Carlos Sainz,Williams Mercedes,15,21,0,11.2,0,67,0,10.272727272727273
+2025,Japan,Jack Doohan,Alpine Renault,19,0,0,13.5,0,16,0,14.541666666666666
+2025,Japan,Nico Hulkenberg,Kick Sauber Ferrari,16,31,0,10.272727272727273,0,49,0,10.952380952380953
+2025,Japan,Liam Lawson,Racing Bulls Honda RBPT,13,32,0,10.8,0,44,0,11.695652173913043
+2025,Japan,Esteban Ocon,Haas Ferrari,18,23,0,11.416666666666666,0,37,0,11.28
+2025,Japan,Gabriel Bortoleto,Kick Sauber Ferrari,17,18,0,11.7,0,49,0,11.181818181818182
+2025,Japan,Lance Stroll,Aston Martin Aramco Mercedes,20,23,0,12.846153846153847,0,55,0,11.833333333333334
+2025,Las Vegas,Max Verstappen,Red Bull Racing Honda RBPT,2,220,5,3.076923076923077,1,231,5,7.923076923076923
+2025,Las Vegas,George Russell,Mercedes,4,175,1,4.285714285714286,0,251,1,5.84
+2025,Las Vegas,Kimi Antonelli,Mercedes,17,76,0,7.818181818181818,0,269,1,5.6923076923076925
+2025,Las Vegas,Charles Leclerc,Ferrari,9,114,0,5.666666666666667,0,197,0,6.208333333333333
+2025,Las Vegas,Carlos Sainz,Williams Mercedes,3,21,0,11.454545454545455,0,67,0,10.434782608695652
+2025,Las Vegas,Isack Hadjar,Racing Bulls Honda RBPT,8,12,0,12.083333333333334,0,44,0,11.916666666666666
+2025,Las Vegas,Nico Hulkenberg,Kick Sauber Ferrari,11,31,0,10.75,0,49,0,11.521739130434783
+2025,Las Vegas,Lewis Hamilton,Ferrari,19,83,0,6.75,0,209,0,6.12
+2025,Las Vegas,Esteban Ocon,Haas Ferrari,13,23,0,11.923076923076923,0,37,0,11.538461538461538
+2025,Las Vegas,Oliver Bearman,Haas Ferrari,14,14,0,11.153846153846153,0,39,0,11.444444444444445
+2025,Las Vegas,Fernando Alonso,Aston Martin Aramco Mercedes,7,32,0,10.636363636363637,0,55,0,12.16
+2025,Las Vegas,Yuki Tsunoda,Red Bull Racing Honda RBPT,20,11,0,13.0,0,256,6,7.666666666666667
+2025,Las Vegas,Pierre Gasly,Alpine Renault,10,16,0,13.076923076923077,0,16,0,14.56
+2025,Las Vegas,Liam Lawson,Racing Bulls Honda RBPT,6,32,0,11.363636363636363,0,52,0,11.68
+2025,Las Vegas,Franco Colapinto,Alpine Renault,15,0,0,16.88888888888889,0,16,0,14.5
+2025,Mexico,Lando Norris,McLaren Mercedes,1,251,5,3.2857142857142856,1,467,8,3.111111111111111
+2025,Mexico,Charles Leclerc,Ferrari,2,126,0,5.538461538461538,0,213,0,6.1923076923076925
+2025,Mexico,Max Verstappen,Red Bull Racing Honda RBPT,5,245,6,2.9285714285714284,0,256,6,7.821428571428571
+2025,Mexico,Oliver Bearman,Haas Ferrari,9,15,0,11.071428571428571,0,40,0,11.392857142857142
+2025,Mexico,Oscar Piastri,McLaren Mercedes,7,216,3,2.923076923076923,0,492,9,3.0357142857142856
+2025,Mexico,Kimi Antonelli,Mercedes,6,91,0,7.416666666666667,0,284,1,5.592592592592593
+2025,Mexico,George Russell,Mercedes,4,193,1,4.133333333333334,0,292,1,5.607142857142857
+2025,Mexico,Lewis Hamilton,Ferrari,3,87,0,6.846153846153846,0,231,0,6.037037037037037
+2025,Mexico,Esteban Ocon,Haas Ferrari,11,25,0,11.714285714285714,0,52,0,11.137931034482758
+2025,Mexico,Gabriel Bortoleto,Kick Sauber Ferrari,16,18,0,12.363636363636363,0,55,0,11.333333333333334
+2025,Mexico,Yuki Tsunoda,Red Bull Racing Honda RBPT,10,11,0,12.933333333333334,0,271,6,7.655172413793103
+2025,Mexico,Alexander Albon,Williams Mercedes,17,46,0,9.5,0,77,0,10.208333333333334
+2025,Mexico,Isack Hadjar,Racing Bulls Honda RBPT,8,20,0,11.615384615384615,0,52,0,11.76923076923077
+2025,Mexico,Lance Stroll,Aston Martin Aramco Mercedes,19,23,0,13.357142857142858,0,55,0,12.115384615384615
+2025,Mexico,Pierre Gasly,Alpine Renault,18,16,0,13.071428571428571,0,16,0,14.518518518518519
+2025,Mexico,Franco Colapinto,Alpine Renault,20,0,0,16.7,0,16,0,14.535714285714286
+2025,Mexico,Carlos Sainz,Williams Mercedes,12,31,0,10.916666666666666,0,77,0,10.28
+2025,Miami,Oscar Piastri,McLaren Mercedes,4,226,3,3.0714285714285716,1,502,9,3.103448275862069
+2025,Miami,Lando Norris,McLaren Mercedes,2,276,6,3.1333333333333333,0,527,10,3.033333333333333
+2025,Miami,George Russell,Mercedes,5,199,1,4.3125,0,298,1,5.655172413793103
+2025,Miami,Max Verstappen,Red Bull Racing Honda RBPT,1,260,6,2.933333333333333,0,271,6,7.766666666666667
+2025,Miami,Alexander Albon,Williams Mercedes,7,46,0,9.692307692307692,0,77,0,10.538461538461538
+2025,Miami,Kimi Antonelli,Mercedes,3,99,0,7.3076923076923075,0,313,1,5.566666666666666
+2025,Miami,Charles Leclerc,Ferrari,8,144,0,5.285714285714286,0,235,0,6.107142857142857
+2025,Miami,Lewis Hamilton,Ferrari,12,91,0,6.928571428571429,0,241,0,6.137931034482759
+2025,Miami,Carlos Sainz,Williams Mercedes,6,31,0,11.384615384615385,0,87,0,10.333333333333334
+2025,Miami,Yuki Tsunoda,Red Bull Racing Honda RBPT,10,11,0,12.8125,0,283,6,7.645161290322581
+2025,Miami,Isack Hadjar,Racing Bulls Honda RBPT,11,20,0,11.714285714285714,0,52,0,11.814814814814815
+2025,Miami,Esteban Ocon,Haas Ferrari,9,27,0,11.533333333333333,0,54,0,11.066666666666666
+2025,Miami,Pierre Gasly,Alpine Renault,20,16,0,13.2,0,16,0,14.586206896551724
+2025,Miami,Nico Hulkenberg,Kick Sauber Ferrari,16,37,0,10.461538461538462,0,56,0,11.28
+2025,Miami,Fernando Alonso,Aston Martin Aramco Mercedes,17,32,0,10.666666666666666,0,55,0,12.185185185185185
+2025,Miami,Lance Stroll,Aston Martin Aramco Mercedes,18,23,0,13.4,0,55,0,12.285714285714286
+2025,Monaco,Lando Norris,McLaren Mercedes,1,294,6,3.0625,1,545,10,3.0
+2025,Monaco,Charles Leclerc,Ferrari,2,150,0,5.4,0,245,0,6.2
+2025,Monaco,Oscar Piastri,McLaren Mercedes,3,251,4,2.933333333333333,0,570,11,2.9375
+2025,Monaco,Max Verstappen,Red Bull Racing Honda RBPT,4,272,6,3.0,0,284,6,7.71875
+2025,Monaco,Lewis Hamilton,Ferrari,7,95,0,7.0,0,263,0,6.064516129032258
+2025,Monaco,Isack Hadjar,Racing Bulls Honda RBPT,5,20,0,11.666666666666666,0,52,0,11.785714285714286
+2025,Monaco,Esteban Ocon,Haas Ferrari,8,27,0,11.5625,0,54,0,11.096774193548388
+2025,Monaco,Liam Lawson,Racing Bulls Honda RBPT,9,32,0,11.583333333333334,0,60,0,11.586206896551724
+2025,Monaco,Alexander Albon,Williams Mercedes,10,56,0,9.357142857142858,0,89,0,10.285714285714286
+2025,Monaco,Carlos Sainz,Williams Mercedes,11,33,0,11.214285714285714,0,91,0,10.241379310344827
+2025,Monaco,George Russell,Mercedes,14,214,1,4.235294117647059,0,321,1,5.580645161290323
+2025,Monaco,Oliver Bearman,Haas Ferrari,20,27,0,10.6,0,60,0,10.96875
+2025,Monaco,Franco Colapinto,Alpine Renault,18,0,0,16.636363636363637,0,16,0,14.533333333333333
+2025,Monaco,Gabriel Bortoleto,Kick Sauber Ferrari,16,19,0,12.166666666666666,0,56,0,11.384615384615385
+2025,Monaco,Lance Stroll,Aston Martin Aramco Mercedes,19,23,0,13.5625,0,55,0,12.413793103448276
+2025,Monaco,Nico Hulkenberg,Kick Sauber Ferrari,13,37,0,10.714285714285714,0,56,0,11.481481481481481
+2025,Monaco,Yuki Tsunoda,Red Bull Racing Honda RBPT,12,12,0,12.647058823529411,0,296,6,7.606060606060606
+2025,Monaco,Kimi Antonelli,Mercedes,15,107,0,7.214285714285714,0,321,1,5.75
+2025,Netherlands,Oscar Piastri,McLaren Mercedes,1,266,4,2.9375,1,585,11,2.9393939393939394
+2025,Netherlands,Max Verstappen,Red Bull Racing Honda RBPT,3,284,6,3.0588235294117645,0,296,6,7.882352941176471
+2025,Netherlands,Isack Hadjar,Racing Bulls Honda RBPT,4,28,0,11.3125,0,64,0,11.466666666666667
+2025,Netherlands,George Russell,Mercedes,5,214,1,4.611111111111111,0,321,1,6.121212121212121
+2025,Netherlands,Alexander Albon,Williams Mercedes,15,58,0,9.333333333333334,0,92,0,10.233333333333333
+2025,Netherlands,Oliver Bearman,Haas Ferrari,20,27,0,10.6875,0,60,0,11.0
+2025,Netherlands,Lance Stroll,Aston Martin Aramco Mercedes,19,23,0,13.647058823529411,0,55,0,12.5
+2025,Netherlands,Fernando Alonso,Aston Martin Aramco Mercedes,10,32,0,11.0,0,61,0,12.32258064516129
+2025,Netherlands,Yuki Tsunoda,Red Bull Racing Honda RBPT,12,12,0,12.88888888888889,0,314,6,7.714285714285714
+2025,Netherlands,Esteban Ocon,Haas Ferrari,18,33,0,11.294117647058824,0,68,0,10.852941176470589
+2025,Netherlands,Franco Colapinto,Alpine Renault,16,0,0,16.333333333333332,0,16,0,14.483870967741936
+2025,Netherlands,Liam Lawson,Racing Bulls Honda RBPT,8,36,0,11.307692307692308,0,79,0,11.193548387096774
+2025,Netherlands,Carlos Sainz,Williams Mercedes,9,34,0,11.133333333333333,0,102,0,10.064516129032258
+2025,Netherlands,Nico Hulkenberg,Kick Sauber Ferrari,17,37,0,11.066666666666666,0,56,0,11.642857142857142
+2025,Netherlands,Gabriel Bortoleto,Kick Sauber Ferrari,13,19,0,12.307692307692308,0,56,0,11.724137931034482
+2025,Netherlands,Kimi Antonelli,Mercedes,11,107,0,7.933333333333334,0,333,1,6.0588235294117645
+2025,Netherlands,Pierre Gasly,Alpine Renault,14,16,0,13.1875,0,16,0,14.375
+2025,Netherlands,Lando Norris,McLaren Mercedes,2,319,7,2.9411764705882355,0,610,12,2.8823529411764706
+2025,Qatar,Max Verstappen,Red Bull Racing Honda RBPT,3,302,6,3.0,1,316,6,7.75
+2025,Qatar,Oscar Piastri,McLaren Mercedes,1,291,5,2.823529411764706,0,610,12,3.3142857142857145
+2025,Qatar,Carlos Sainz,Williams Mercedes,7,34,0,11.25,0,102,0,10.15625
+2025,Qatar,Lando Norris,McLaren Mercedes,2,319,7,3.7777777777777777,0,628,12,3.2777777777777777
+2025,Qatar,Kimi Antonelli,Mercedes,5,107,0,8.4375,0,333,1,6.3428571428571425
+2025,Qatar,George Russell,Mercedes,4,226,1,4.578947368421052,0,343,1,6.305555555555555
+2025,Qatar,Fernando Alonso,Aston Martin Aramco Mercedes,8,36,0,10.785714285714286,0,65,0,12.1875
+2025,Qatar,Charles Leclerc,Ferrari,10,168,0,5.1875,0,273,0,6.03125
+2025,Qatar,Liam Lawson,Racing Bulls Honda RBPT,12,36,0,11.357142857142858,0,79,0,11.21875
+2025,Qatar,Yuki Tsunoda,Red Bull Racing Honda RBPT,15,14,0,12.68421052631579,0,341,7,7.5675675675675675
+2025,Qatar,Alexander Albon,Williams Mercedes,14,68,0,9.0625,0,117,0,9.93939393939394
+2025,Qatar,Lewis Hamilton,Ferrari,17,105,0,6.875,0,277,0,6.090909090909091
+2025,Qatar,Gabriel Bortoleto,Kick Sauber Ferrari,19,19,0,12.5,0,56,0,11.833333333333334
+2025,Qatar,Franco Colapinto,Alpine Renault,20,0,0,15.923076923076923,0,16,0,14.454545454545455
+2025,Qatar,Esteban Ocon,Haas Ferrari,16,34,0,11.222222222222221,0,69,0,10.82857142857143
+2025,Qatar,Pierre Gasly,Alpine Renault,9,16,0,13.411764705882353,0,16,0,14.441176470588236
+2025,Qatar,Lance Stroll,Aston Martin Aramco Mercedes,18,29,0,13.277777777777779,0,71,0,12.030303030303031
+2025,Qatar,Isack Hadjar,Racing Bulls Honda RBPT,6,43,0,10.823529411764707,0,81,0,11.151515151515152
+2025,Saudi Arabia,Oscar Piastri,McLaren Mercedes,2,309,5,2.7777777777777777,1,640,12,3.2972972972972974
+2025,Saudi Arabia,Max Verstappen,Red Bull Racing Honda RBPT,1,327,7,2.8947368421052633,0,342,7,7.631578947368421
+2025,Saudi Arabia,Charles Leclerc,Ferrari,4,172,0,5.352941176470588,0,277,0,6.264705882352941
+2025,Saudi Arabia,Lando Norris,McLaren Mercedes,10,331,7,3.789473684210526,0,665,13,3.236842105263158
+2025,Saudi Arabia,George Russell,Mercedes,3,234,1,4.65,0,351,1,6.297297297297297
+2025,Saudi Arabia,Kimi Antonelli,Mercedes,5,117,0,8.235294117647058,0,361,1,6.2631578947368425
+2025,Saudi Arabia,Lewis Hamilton,Ferrari,7,105,0,7.176470588235294,0,292,0,6.171428571428572
+2025,Saudi Arabia,Carlos Sainz,Williams Mercedes,6,49,0,10.764705882352942,0,117,0,9.970588235294118
+2025,Saudi Arabia,Alexander Albon,Williams Mercedes,11,68,0,9.176470588235293,0,121,0,9.914285714285715
+2025,Saudi Arabia,Isack Hadjar,Racing Bulls Honda RBPT,14,43,0,11.222222222222221,0,81,0,11.352941176470589
+2025,Saudi Arabia,Fernando Alonso,Aston Martin Aramco Mercedes,13,42,0,10.533333333333333,0,71,0,12.176470588235293
+2025,Saudi Arabia,Liam Lawson,Racing Bulls Honda RBPT,12,38,0,11.2,0,82,0,11.314285714285715
+2025,Saudi Arabia,Oliver Bearman,Haas Ferrari,15,35,0,10.411764705882353,0,69,0,10.944444444444445
+2025,Saudi Arabia,Esteban Ocon,Haas Ferrari,19,34,0,11.421052631578947,0,69,0,11.0
+2025,Saudi Arabia,Nico Hulkenberg,Kick Sauber Ferrari,18,37,0,11.25,0,56,0,11.870967741935484
+2025,Saudi Arabia,Lance Stroll,Aston Martin Aramco Mercedes,16,29,0,13.473684210526315,0,71,0,12.142857142857142
+2025,Saudi Arabia,Jack Doohan,Alpine Renault,17,0,0,14.0,0,16,0,14.485714285714286
+2025,Saudi Arabia,Gabriel Bortoleto,Kick Sauber Ferrari,20,19,0,12.533333333333333,0,56,0,11.96875
+2025,Singapore,George Russell,Mercedes,1,244,1,4.666666666666667,1,369,1,6.256410256410256
+2025,Singapore,Max Verstappen,Red Bull Racing Honda RBPT,2,345,7,2.85,0,360,7,7.487179487179487
+2025,Singapore,Lando Norris,McLaren Mercedes,5,343,7,3.8,0,677,13,3.2564102564102564
+2025,Singapore,Oscar Piastri,McLaren Mercedes,3,334,6,2.6842105263157894,0,692,13,3.25
+2025,Singapore,Kimi Antonelli,Mercedes,4,125,0,8.11111111111111,0,394,2,6.125
+2025,Singapore,Charles Leclerc,Ferrari,7,187,0,5.222222222222222,0,298,0,6.194444444444445
+2025,Singapore,Fernando Alonso,Aston Martin Aramco Mercedes,10,42,0,10.5625,0,71,0,12.25
+2025,Singapore,Lewis Hamilton,Ferrari,6,111,0,7.166666666666667,0,306,0,6.1891891891891895
+2025,Singapore,Oliver Bearman,Haas Ferrari,9,35,0,10.555555555555555,0,69,0,11.078947368421053
+2025,Singapore,Carlos Sainz,Williams Mercedes,18,53,0,10.61111111111111,0,123,0,9.88888888888889
+2025,Singapore,Isack Hadjar,Racing Bulls Honda RBPT,8,44,0,11.157894736842104,0,82,0,11.333333333333334
+2025,Singapore,Yuki Tsunoda,Red Bull Racing Honda RBPT,13,15,0,12.55,0,378,7,7.35
+2025,Singapore,Lance Stroll,Aston Martin Aramco Mercedes,15,29,0,13.6,0,77,0,12.108108108108109
+2025,Singapore,Alexander Albon,Williams Mercedes,20,70,0,9.166666666666666,0,124,0,9.891891891891891
+2025,Singapore,Liam Lawson,Racing Bulls Honda RBPT,12,38,0,11.25,0,82,0,11.324324324324325
+2025,Singapore,Franco Colapinto,Alpine Renault,16,0,0,15.785714285714286,0,16,0,14.555555555555555
+2025,Singapore,Gabriel Bortoleto,Kick Sauber Ferrari,14,19,0,12.875,0,56,0,12.151515151515152
+2025,Singapore,Esteban Ocon,Haas Ferrari,17,34,0,11.55,0,71,0,11.025641025641026
+2025,Singapore,Pierre Gasly,Alpine Renault,19,16,0,13.555555555555555,0,16,0,14.594594594594595
+2025,Singapore,Nico Hulkenberg,Kick Sauber Ferrari,11,37,0,11.470588235294118,0,56,0,12.294117647058824
+2025,Spain,Oscar Piastri,McLaren Mercedes,1,346,6,2.75,1,704,13,3.268292682926829
+2025,Spain,Lando Norris,McLaren Mercedes,2,358,7,3.761904761904762,0,729,14,3.2142857142857144
+2025,Spain,Charles Leclerc,Ferrari,7,195,0,5.2631578947368425,0,310,0,6.2368421052631575
+2025,Spain,George Russell,Mercedes,4,269,2,4.5,0,404,2,6.097560975609756
+2025,Spain,Nico Hulkenberg,Kick Sauber Ferrari,15,37,0,11.944444444444445,0,56,0,12.514285714285714
+2025,Spain,Lewis Hamilton,Ferrari,5,115,0,7.2105263157894735,0,325,0,6.153846153846154
+2025,Spain,Isack Hadjar,Racing Bulls Honda RBPT,9,44,0,11.15,0,82,0,11.421052631578947
+2025,Spain,Pierre Gasly,Alpine Renault,8,16,0,13.842105263157896,0,16,0,14.710526315789474
+2025,Spain,Fernando Alonso,Aston Martin Aramco Mercedes,10,48,0,10.352941176470589,0,77,0,12.131578947368421
+2025,Spain,Max Verstappen,Red Bull Racing Honda RBPT,3,363,7,2.8095238095238093,0,378,7,7.463414634146342
+2025,Spain,Liam Lawson,Racing Bulls Honda RBPT,13,38,0,11.470588235294118,0,88,0,11.307692307692308
+2025,Spain,Gabriel Bortoleto,Kick Sauber Ferrari,12,19,0,13.117647058823529,0,66,0,12.305555555555555
+2025,Spain,Yuki Tsunoda,Red Bull Racing Honda RBPT,19,15,0,12.523809523809524,0,379,7,7.523809523809524
+2025,Spain,Carlos Sainz,Williams Mercedes,17,54,0,10.578947368421053,0,124,0,10.0
+2025,Spain,Franco Colapinto,Alpine Renault,18,0,0,15.8,0,20,0,14.538461538461538
+2025,Spain,Esteban Ocon,Haas Ferrari,16,34,0,11.857142857142858,0,71,0,11.2
+2025,Spain,Oliver Bearman,Haas Ferrari,14,37,0,10.473684210526315,0,71,0,11.317073170731707
+2025,United States,Max Verstappen,Red Bull Racing Honda RBPT,1,364,7,3.1363636363636362,1,379,7,7.651162790697675
+2025,United States,Lando Norris,McLaren Mercedes,2,376,7,3.6818181818181817,0,747,14,3.186046511627907
+2025,United States,Charles Leclerc,Ferrari,3,210,0,5.15,0,333,0,6.15
+2025,United States,Lewis Hamilton,Ferrari,5,123,0,7.15,0,348,0,6.073170731707317
+2025,United States,Oscar Piastri,McLaren Mercedes,6,371,7,2.6666666666666665,0,765,14,3.159090909090909
+2025,United States,George Russell,Mercedes,4,281,2,4.478260869565218,0,416,2,6.0476190476190474
+2025,United States,Yuki Tsunoda,Red Bull Racing Honda RBPT,13,15,0,12.545454545454545,0,404,8,7.5
+2025,United States,Nico Hulkenberg,Kick Sauber Ferrari,11,47,0,11.578947368421053,0,66,0,12.297297297297296
+2025,United States,Oliver Bearman,Haas Ferrari,8,37,0,10.8,0,71,0,11.452380952380953
+2025,United States,Fernando Alonso,Aston Martin Aramco Mercedes,10,50,0,10.277777777777779,0,79,0,12.051282051282051
+2025,United States,Liam Lawson,Racing Bulls Honda RBPT,12,38,0,11.444444444444445,0,88,0,11.3
+2025,United States,Lance Stroll,Aston Martin Aramco Mercedes,19,29,0,13.571428571428571,0,80,0,12.0
+2025,United States,Kimi Antonelli,Mercedes,7,135,0,7.947368421052632,0,424,2,6.046511627906977
+2025,United States,Alexander Albon,Williams Mercedes,18,70,0,9.421052631578947,0,124,0,10.102564102564102
+2025,United States,Esteban Ocon,Haas Ferrari,17,34,0,12.045454545454545,0,73,0,11.395348837209303
+2025,United States,Isack Hadjar,Racing Bulls Honda RBPT,20,50,0,10.952380952380953,0,88,0,11.292682926829269
+2025,United States,Franco Colapinto,Alpine Renault,15,0,0,15.75,0,20,0,14.55
+2025,United States,Gabriel Bortoleto,Kick Sauber Ferrari,16,19,0,13.055555555555555,0,70,0,12.18421052631579
+2025,United States,Pierre Gasly,Alpine Renault,14,20,0,13.55,0,20,0,14.609756097560975
