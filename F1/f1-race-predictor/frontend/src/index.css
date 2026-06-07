@@ -1,0 +1,50 @@
+.app {
+  max-width: 900px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 8px;
+  margin: 6px 0;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.grid-list {
+  display: grid;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.grid-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.grid-row input {
+  width: 70px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  margin-top: 25px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border-bottom: 1px solid #000000;
+  padding: 10px;
+  text-align: left;
+}
